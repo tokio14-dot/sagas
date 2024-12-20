@@ -1,6 +1,14 @@
 #EXTM3U
 
-_______Pitch Perfect______
+_______Bad Boys______
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eNkeLslgV9apdxcLYM45NNuwvaJ.jpg",Bad Boys for Life (2020)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/DOS%20POLICIAS%20REBELDES%203%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8QwFEF34KK66m5GYVzjIXnRehw2.jpg",Bad Boys II (2003)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/DOS%20POLICIAS%20REBELDES%202%20%282003%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bQBZTQHBKyKL4JbdTYifCLqcspR.jpg",Bad Boys (1995)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/DOS%20POLICIAS%20REBELDES%201%20%281995%29%20%E2%9C%94.mp4
+
+______Pitch Perfect______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9lpg3QF1EXjMVgRGUdWrqZEUIzS.jpg",Pitch Perfect 3 (2017)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/DANDO%20LA%20NOTA%203%20%282017%29%20%E2%9C%94.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ytnMCLz9n7JFeksIpih74Liz3ih.jpg",Pitch Perfect 2 (2015)
