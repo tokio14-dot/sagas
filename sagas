@@ -1,6 +1,23 @@
 #EXTM3U
 
 
+
+
+
+__________parque jurasico______
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",Jurassic World: Dominion (2022)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2006.-%20JURASSIC%20WORLD%20%20DOMINION%20%282022%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o2jYMBcfrDEw02KqGMi1Tb5AqxB.jpg",Jurassic World: El reino caído (2018)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/5.JURASSIC%20WORLD%20EL%20REINO%20CA%C3%8DDO%20%282018%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bpMP2d4f1yo6GLCEuRthx0SZeIs.jpg",Jurassic World (2015)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/4.JURASSIC%20WORLD%20%282015%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d3KyssgGvxF6dXRsQkgEzDEdOT0.jpg",Jurassic Park III (Parque Jurásico III) (2001)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/3.%20PARQUE%20JUR%C3%81SICO%20III%20%282001%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jGNej8anYjbpHAvajbX7ddyjnKy.jpg",El mundo perdido: Jurassic Park (1997)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2002.-%20EL%20MUNDO%20PERDIDO%20%281997%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ts5T7GgawNpf0bPy6d8EGYtL6MI.jpg",Jurassic Park (Parque Jurásico) (1993)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/1.PARQUE%20JUR%C3%81SICO%20%281993%29%20%E2%9C%94.mp4
+
 _________bourne___________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jTk1PXXLN25cy4XpRQlvehrCH0S.jpg",Jason Bourne (2016)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/5.JAS%C3%93N%20BOURNE%20%282016%29%20%E2%9C%94.mp4
