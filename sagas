@@ -1,7 +1,6 @@
 #EXTM3U
 
 _______CASAFANTASMAS__________
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5PbQf3rVSWoeXlOzUvMWjPRFyLA.jpg",Cazafantasmas V (2024)
 https://dl.dropbox.com/scl/fi/gurlbtmjk7ceq9crn0r9i/2024.mp4?rlkey=lxuks96ge5scjzquybjjsj823&st=firip4m9&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nEAzGE10MuYuEy0obxy1tsaWre5.jpg",Cazafantasmas IV Más allá (2021)
@@ -463,13 +462,16 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w7I4uIITX3Bo3J2Cfc6KHUb2fPV.jpg",Porkys (1981)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/PORKY%27S%20%281982%29%20%E2%9C%94.mp4
 
-__________EL SEÑOR DE LAS BESTIAS____
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7KWZqMt3nyyFE7PoLbQgu6xcAdS.jpg",El señor de las bestias III El ojo de Braxus (1996)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/EL%20SE%C3%91OR%20DE%20LAS%20BESTIAS%203%20El%20ojo%20de%20Braxus%20%281996%29%20.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cUAzeKHVt6LnAFjrXRD44t6P4DX.jpg",El señor de las bestias 2 La puerta del tiempo (1991)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/EL%20SE%C3%91OR%20DE%20LAS%20BESTIAS%202%20La%20Puerta%20Del%20Tiempo%20%281991%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kY8ziHXSA7uE1wQ5AOGU0XSEgW1.jpg",El señor de las bestias (1982)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/EL%20SE%C3%91OR%20DE%20LAS%20BESTIAS%20%281982%29.mp4
+
+________ROBOCOOP__________
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cGlablpJOlHYDidclFWl6eJIkVX.jpg",RoboCop (2014)
+https://dl.dropbox.com/scl/fi/ecwv4pofzesnlnlmqd7z6/2014.mp4?rlkey=zb7or6kq09ywf39tw1rukruuc&st=ve5csofj&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/er3G6OBPu6r7fUgS5PPwtwVyKNF.jpg",RoboCop 3 (1993)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%20ROBOCOP%203%20%281993%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/layUwfOndvxxr0iXUpzy1L1KoIu.jpg",RoboCop 2 (1990)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%20ROBOCOP%202%20%281990%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1WhkeHKmhBz8aTXvy7j1uX3BjY6.jpg",RoboCop (1987)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%20ROBOCOP%20%281987%29.mp4
 
 _______terror bajo tierra_____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7dp89ED6xDTNYMIHOzRXbr9niQQ.jpg",Tremors 5 Bloodlines (2015)
@@ -520,6 +522,13 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/Starship%20Troopers%201997%20-%20Pelicula%20-%20Cuevana%203.mp4
 
 
+__________EL SEÑOR DE LAS BESTIAS____
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7KWZqMt3nyyFE7PoLbQgu6xcAdS.jpg",El señor de las bestias III El ojo de Braxus (1996)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/EL%20SE%C3%91OR%20DE%20LAS%20BESTIAS%203%20El%20ojo%20de%20Braxus%20%281996%29%20.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cUAzeKHVt6LnAFjrXRD44t6P4DX.jpg",El señor de las bestias 2 La puerta del tiempo (1991)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/EL%20SE%C3%91OR%20DE%20LAS%20BESTIAS%202%20La%20Puerta%20Del%20Tiempo%20%281991%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kY8ziHXSA7uE1wQ5AOGU0XSEgW1.jpg",El señor de las bestias (1982)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/EL%20SE%C3%91OR%20DE%20LAS%20BESTIAS%20%281982%29.mp4
 
 
 
