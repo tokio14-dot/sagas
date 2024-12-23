@@ -1,5 +1,22 @@
 #EXTM3U
 
+
+ ______DEPREDADOR______
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y4T3Wnok6oidLVMlOwP0a5FDd6D.jpg",Prey (2022)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/05.-%20PREDATOR%20LA%20PRESA%20%282022%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2oe08tzAR31cww9rbiBCO8jQDLk.jpg",The Predator (2018)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/04.-%20PREDATOR%20%282018%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4H6ZEL4JNHORf7YMJic83DNnjwC.jpg",Predators (2010)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/03.-%20PREDATORS%20%282010%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kzglHFelWDykZbZ50anLukOvojV.jpg",Aliens vs Predator: Requiem (2007)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/ALIENS%20VS%20PREDATOR%202%20%282007%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zMqzrb3q9eZ3sNMlz5aO3RX2rrW.jpg",AVP: Alien vs. Predator (2004)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/ALIENS%20VS%20PREDATOR%201%20%282004%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2W7LTLkQJZS3ovnRpeKXnZ6PHl8.jpg",Predator 2 (1990)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/02.-%20DEPREDADOR%202%20%281990%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c5cFOjL2SVRdKMZ6yhY4sZ5r2no.jpg",Predator (1987)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/01.-%20DEPREDADOR%201%20%281987%29%20%E2%9C%94.mp4
+
 ________MATRIX________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwZZjwx4PS00uwB37451S80CbA8.jpg",The Matrix Resurrections (2021)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%20%204.-%20MATRIX%20RESURRECTIONS%20%282021%29%20%E2%9C%94.mp4
