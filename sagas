@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+__________365 dias__________
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j3QAwKBfF2JGZrxP6UuxxP0tLN5.jpg",365 días: Aquel día (2022)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/02.-%20365%20D%C3%8DAS%20AQUEL%20D%C3%8DA%20%282022%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/am7bBtf7RUDCjRVf3rU3WpDMreG.jpg",365 días: Este día (2020)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/01.-%20365%20DI%CC%81AS%20%28lat%29%20.mp4
+
 _________ALIEN________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/10eX2ICHQFxjP5zg64ELUwsLlzt.jpg",Alien: Romulus (2024)
 
