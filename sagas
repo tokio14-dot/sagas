@@ -1,30 +1,5 @@
 #EXTM3U
 
-______cementerio de animales_____
-#EXTINF:-1 tvg-logo="",Cementerio de mascotas (2023)
-
-#EXTINF:-1 tvg-logo="",Cementerio de mascotas (2019)
-https://archive.org/download/alplani1_202001/Cementerio%20maldito%20%282019%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/opC0gnJ8bvohMjNJeGHzNdIMttX.jpg",Cementerio de mascotas (1989)
-https://archive.org/download/bajo-amenaza_1.v0/CEMENTERIO%20DE%20ANIMALES%20%281989%29.mp4
-
-
- _______un detective suelto en Hollywood______
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7SG46UxvNEodqPUXUz5iOCZ1I1A.jpg",Beverly Hills Cop: Axel F (2024)
-https://dl.dropbox.com/scl/fi/tbyc1ihexjgmb591i1trw/2024F.mp4?rlkey=d14ue2q5h9xeadne6swlqu2uv&st=vza3tnph&dl=0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aqrvjT6ajHKdg2vZH2C5LJiHw0C.jpg",Beverly Hills Cop III (1994)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/SUPER%20DETECTIVE%20EN%20HOLLYWOOD%203%20%281994%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5LZYXiq32w9TGs3tWZ4yfMYPQw.jpg",Beverly Hills Cop II (1987)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/SUPER%20DETECTIVE%20EN%20HOLLYWOOD%202%20%281987%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/QWxBKsxfwyQi7SRIzoY5Zn0mtW.jpg",Beverly Hills Cop (1984)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/SUPER%20DETECTIVE%20EN%20HOLLYWOOD%201%20%281984%29%20%E2%9C%94.mp4
-
-__________365 dias__________
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j3QAwKBfF2JGZrxP6UuxxP0tLN5.jpg",365 días: Aquel día (2022)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/02.-%20365%20D%C3%8DAS%20AQUEL%20D%C3%8DA%20%282022%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/am7bBtf7RUDCjRVf3rU3WpDMreG.jpg",365 días: Este día (2020)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/01.-%20365%20DI%CC%81AS%20%28lat%29%20.mp4
-
 _________ALIEN________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/10eX2ICHQFxjP5zg64ELUwsLlzt.jpg",Alien: Romulus (2024)
 https://dl.dropbox.com/scl/fi/yjtx1m9v553yds1utl881/20246.mp4?rlkey=bzacmt1niqgcb3ttwzq3nzsn7&st=cnzj2ji5&dl=0
@@ -44,7 +19,6 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/4.ALIENS%20EL%20REGRESO%20%281986%29%20%E2%9C%94.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hKPHp2JNpCPEOXqGKS4MYgH9BYe.jpg",Alien, el octavo pasajero (1979)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/3.ALIENS%20EL%20OCTAVO%20PASAJERO%20%281979%29%20%E2%9C%94.mp4
-
 
 ___________A todo gas__________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wZkn7eFuCpsstyLQMSWO42nNNQx.jpg",Fast X (2023)
@@ -70,6 +44,91 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ktY5xSvpPsokIdlJGEz87G5eu8x.jpg",1 Fast 1 Furious: A todo gas 1 (2003)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/01.-%20A%20TODO%20GAS%201%20%282001%29.mp4
 
+_______Bad Boys______
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eNkeLslgV9apdxcLYM45NNuwvaJ.jpg",Bad Boys for Life (2020)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/DOS%20POLICIAS%20REBELDES%203%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8QwFEF34KK66m5GYVzjIXnRehw2.jpg",Bad Boys II (2003)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/DOS%20POLICIAS%20REBELDES%202%20%282003%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bQBZTQHBKyKL4JbdTYifCLqcspR.jpg",Bad Boys (1995)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/DOS%20POLICIAS%20REBELDES%201%20%281995%29%20%E2%9C%94.mp4
+
+_________bourne___________
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jTk1PXXLN25cy4XpRQlvehrCH0S.jpg",Jason Bourne (2016)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/5.JAS%C3%93N%20BOURNE%20%282016%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/omL2eMP0GPOYjBmv5ZhoY7swDi6.jpg",El legado de Bourne (2012)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/4.EL%20LEGADO%20DE%20BOURNE%20%282012%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qP2EFUaYxuvborZ1YPII76IctYB.jpg",El ultimátum de Bourne (2007)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/3.EL%20ULTIM%C3%81TUM%20DE%20BOURNE%20%282007%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOwAmSDQ4b6YFErxARF3Z5qiNCh.jpg",El mito de Bourne (2004)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/2.EL%20MITO%20DE%20BOURNE%20%282004%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zYSIeVp10F9QkwtcKnRz7Fz1gpB.jpg",El caso Bourne (2002)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/1.EL%20CASO%20BOURNE%20%282002%29%20%E2%9C%94.mp4
+
+______cementerio de animales_____
+#EXTINF:-1 tvg-logo="",Cementerio de mascotas (2023)
+
+#EXTINF:-1 tvg-logo="",Cementerio de mascotas (2019)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/opC0gnJ8bvohMjNJeGHzNdIMttX.jpg",Cementerio de mascotas (1989)
+https://archive.org/download/bajo-amenaza_1.v0/CEMENTERIO%20DE%20ANIMALES%20%281989%29.mp4
+
+_____Code 8 renegados_______
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gQVTQu3OgD7eOXfi0LBCDgB4w3c.jpg",Código 8 Renegados Parte II (2024)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/C%C3%B3digo%208%20Renegados%20%28Parte%20II%29%202024.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/raspMdRYIj0cCF6SQH8NQ1lLLMB.jpg",Code 8 renegados (2019)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/C%C3%B3digo%208%20renegados%20%202016.mp4
+
+______DEPREDADOR______
+EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y4T3Wnok6oidLVMlOwP0a5FDd6D.jpg",Prey 3 (2022)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/05.-%20PREDATOR%20LA%20PRESA%20%282022%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2oe08tzAR31cww9rbiBCO8jQDLk.jpg",The Predator (2018)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/04.-%20PREDATOR%20%282018%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4H6ZEL4JNHORf7YMJic83DNnjwC.jpg",Predators (2010)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/03.-%20PREDATORS%20%282010%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kzglHFelWDykZbZ50anLukOvojV.jpg",Aliens vs Predator: Requiem (2007)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/ALIENS%20VS%20PREDATOR%202%20%282007%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zMqzrb3q9eZ3sNMlz5aO3RX2rrW.jpg",AVP: Alien vs. Predator (2004)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/ALIENS%20VS%20PREDATOR%201%20%282004%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2W7LTLkQJZS3ovnRpeKXnZ6PHl8.jpg",Predator 2 (1990)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/02.-%20DEPREDADOR%202%20%281990%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c5cFOjL2SVRdKMZ6yhY4sZ5r2no.jpg",Predator 1 (1987)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/01.-%20DEPREDADOR%201%20%281987%29%20%E2%9C%94.mp4
+
+___________ELIMINAR AMIGO_______
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uxSnXqhSQde6a1ICbk3j18TgGnk.jpg",Unfriended: eliminar amigo (2018)
+https://archive.org/download/alplani1_202001/Eliminar%20amigo%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Ag5fNQu0YvEiG3rA7gV9MqhZgOI.jpg", eliminar amigo (2014)
+https://archive.org/download/alplani1_202001/Eliminar%20amigo%201.mp4
+
+________esta abuela es un peligro______
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/A66bsZnOH1LRb8uW0gFmk5apmac.jpg",Esta abuela es mi padre (2011)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2003.-%20ESTA%20ABUELA%20ES%20MI%20PADRE%20%282011%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rCyNjiuuw7bOwLf8oNMI8AmgxVo.jpg",Esta abuela es un peligro 2 (2006)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2002.-%20ESTA%20ABUELA%20ES%20UN%20PELIGRO%202%20%282006%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hrUDpgEtk2qflsCM6K0lujP8smw.jpg",Esta abuela es un peligro (2000)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2001.-%20ESTA%20ABUELA%20ES%20UN%20PELIGRO%201%20%282000%29%20%E2%9C%94.mp4
+
+__________365 dias__________
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j3QAwKBfF2JGZrxP6UuxxP0tLN5.jpg",365 días: Aquel día (2022)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/02.-%20365%20D%C3%8DAS%20AQUEL%20D%C3%8DA%20%282022%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/am7bBtf7RUDCjRVf3rU3WpDMreG.jpg",365 días: Este día (2020)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/01.-%20365%20DI%CC%81AS%20%28lat%29%20.mp4__________ong bak________
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/70Ah12u1iP67hzH1RbQrk0fxam4.jpg",Ong Bak 3: La Batalla Final (2010)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/Ver%20Ong%20Bak%203%202010.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7ePgU7UIblwVVhj0eM0GXW6O04l.jpg",Ong Bak 2: La leyenda del Rey Elefante (2008)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/Ong%20Bak%202%20La%20Leyenda%20del%20Rey%20Elefante%282008%29%20Online.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xnwGxfKuFD4Dx8GcT7YtjmM0Odk.jpg",Ong Bak: El guerrero Muay Thai (2003)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/Ver%20Ong%20Bak%20%282003%29%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
+
+______PADRE NO HAY MÁS QUR UNO___
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/phZbS20UWYgsuZQSYumFtyWuuzm.jpg",Padre no hay más que uno 4: Campanas de boda (2024)
+https://dl.dropbox.com/scl/fi/c379ce9s2dfkd6zjb70md/8743222333.mp4?rlkey=xkow64c8qibme64ls54harxmy&st=v2met057&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ckwhEokrbEahSjZHFraazSKwOov.jpg",Padre no hay más que uno 3 (2022)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/PADRE%20NO%20HAY%20M%C3%81S%20QUE%20UNO%203%20%282022%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pUHcxzstSlsQgeuRA11pEBB6Nu1.jpg",Padre no hay más que uno 2: la llegada de la suegra (2020)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/PADRE%20NO%20HAY%20M%C3%81S%20QUE%20UNO%20%202%20La%20llegada%20de%20la%20suegra%20%282020%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kZhAFnyPDdQxHzlWZHzBZOgwFgk.jpg",Padre no hay más que uno 1 (2019)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/PADRE%20NO%20HAY%20M%C3%81S%20QEU%20UNO%20%282019%29.mp4
 
 ________piratas del caribe_______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zr59psnVTMIBVLO4CzSTIcgp9mL.jpg",Piratas del Caribe: La venganza de Salazar (2017):
@@ -82,6 +141,42 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/2.EL%20COFRE%20DEL%20HOMBRE%20MUERTO%20%282006%29%20%E2%9C%94.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iJJnbmjON6s3pxHLas1gqmTty0V.jpg",Piratas del Caribe: La maldición de la Perla Negra (2003)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/1.LA%20MALDICI%C3%93N%20DE%20LA%20PERLA%20NEGRA%20%282003%29%20%E2%9C%94.mp4
+
+__________parque jurasico______
+#q tvg-logo="https://image.tmdb.org/t/p/original/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",Jurassic World: Dominion (2022)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2006.-%20JURASSIC%20WORLD%20%20DOMINION%20%282022%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o2jYMBcfrDEw02KqGMi1Tb5AqxB.jpg",Jurassic World: El reino caído (2018)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/5.JURASSIC%20WORLD%20EL%20REINO%20CA%C3%8DDO%20%282018%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bpMP2d4f1yo6GLCEuRthx0SZeIs.jpg",Jurassic World (2015)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/4.JURASSIC%20WORLD%20%282015%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d3KyssgGvxF6dXRsQkgEzDEdOT0.jpg",Jurassic Park III (Parque Jurásico III) (2001)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/3.%20PARQUE%20JUR%C3%81SICO%20III%20%282001%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jGNej8anYjbpHAvajbX7ddyjnKy.jpg",El mundo perdido: Jurassic Park (1997)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2002.-%20EL%20MUNDO%20PERDIDO%20%281997%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ts5T7GgawNpf0bPy6d8EGYtL6MI.jpg",Jurassic Park (Parque Jurásico) (1993)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/1.PARQUE%20JUR%C3%81SICO%20%281993%29%20%E2%9C%94.mp4
+
+_______ que paso ayer_______
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z3Q8cbwmtsVdkPDCX10XawVG3bc.jpg",The Hungover Games (2014)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RESAC%C3%93N%20EN%20LAS%20VEGAS%20ELLAS%20TAMBIEN%20%282014%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yiMIdASg7dBiMFUBeIZdmqYoUDJ.jpg",The Hangover Part III (2013)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RESAC%C3%93N%203%20%282013%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lYKsSd1qRBn5bPbflvBwGgyXwcR.jpg",The Hangover Part II (2011)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RESAC%C3%93N%202%20%282011%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kOnaXoMEqdWei3zCRSHL7RBfKcJ.jpg",The Hangover (2009)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RESAC%C3%93N%201%20%282009%29%20%E2%9C%94.mp4
+
+______rambo_______
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8KV8sU9PVsdxO75UaqXQk9AiNqD.jpg",Rambo V Last Blood (2019)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%205%20LAST%20BLOOD%20%282019%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AhisA7QnTZDfJfrvHN8guk3xBvp.jpg",Rambo IV (2008)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%204%20%282008%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yM2clonjcpiHDyqxVbV3ePshXh7.jpg",Rambo III (1988)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%203%20%281988%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bVH6vaYvZjDAyzVPpJUT5Jrd0Wf.jpg",Rambo II First Blood Part II (1985)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%202%20%281985%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pynPSAY5VMTpucoOuB9ypjSYdyS.jpg",Rambo I (1982)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%201%20%281982%29%20%E2%9C%94.mp4
 
 _________tranformers_________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aZollnPyAqPtuclonFKTZZ71Cd8.jpg",Transformers One (2024)
@@ -101,47 +196,15 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sswUUnVCsgiebm1uDY2ZouZwfBh.jpg",Transformers (2007)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2001.-%20TRANSFORMERS%201%20%282007%29%20%E2%9C%94.mp4
 
-__________parque jurasico______
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3PieOs1t6dPHWlgvX3XoqTIQLqN.jpg",Jurassic World: Dominion (2022)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2006.-%20JURASSIC%20WORLD%20%20DOMINION%20%282022%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o2jYMBcfrDEw02KqGMi1Tb5AqxB.jpg",Jurassic World: El reino caído (2018)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/5.JURASSIC%20WORLD%20EL%20REINO%20CA%C3%8DDO%20%282018%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bpMP2d4f1yo6GLCEuRthx0SZeIs.jpg",Jurassic World (2015)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/4.JURASSIC%20WORLD%20%282015%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/d3KyssgGvxF6dXRsQkgEzDEdOT0.jpg",Jurassic Park III (Parque Jurásico III) (2001)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/3.%20PARQUE%20JUR%C3%81SICO%20III%20%282001%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jGNej8anYjbpHAvajbX7ddyjnKy.jpg",El mundo perdido: Jurassic Park (1997)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2002.-%20EL%20MUNDO%20PERDIDO%20%281997%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ts5T7GgawNpf0bPy6d8EGYtL6MI.jpg",Jurassic Park (Parque Jurásico) (1993)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/1.PARQUE%20JUR%C3%81SICO%20%281993%29%20%E2%9C%94.mp4
-
-_________bourne___________
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jTk1PXXLN25cy4XpRQlvehrCH0S.jpg",Jason Bourne (2016)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/5.JAS%C3%93N%20BOURNE%20%282016%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/omL2eMP0GPOYjBmv5ZhoY7swDi6.jpg",El legado de Bourne (2012)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/4.EL%20LEGADO%20DE%20BOURNE%20%282012%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qP2EFUaYxuvborZ1YPII76IctYB.jpg",El ultimátum de Bourne (2007)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/3.EL%20ULTIM%C3%81TUM%20DE%20BOURNE%20%282007%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOwAmSDQ4b6YFErxARF3Z5qiNCh.jpg",El mito de Bourne (2004)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/2.EL%20MITO%20DE%20BOURNE%20%282004%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zYSIeVp10F9QkwtcKnRz7Fz1gpB.jpg",El caso Bourne (2002)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/1.EL%20CASO%20BOURNE%20%282002%29%20%E2%9C%94.mp4
-
-__________ong bak________
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/70Ah12u1iP67hzH1RbQrk0fxam4.jpg",Ong Bak 3: La Batalla Final (2010)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/Ver%20Ong%20Bak%203%202010.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7ePgU7UIblwVVhj0eM0GXW6O04l.jpg",Ong Bak 2: La leyenda del Rey Elefante (2008)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/Ong%20Bak%202%20La%20Leyenda%20del%20Rey%20Elefante%282008%29%20Online.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xnwGxfKuFD4Dx8GcT7YtjmM0Odk.jpg",Ong Bak: El guerrero Muay Thai (2003)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/Ver%20Ong%20Bak%20%282003%29%20Online%20-%20Cuevana%203%20Peliculas%20Online.mp4
-
-________esta abuela es un peligro______
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/A66bsZnOH1LRb8uW0gFmk5apmac.jpg",Esta abuela es mi padre (2011)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2003.-%20ESTA%20ABUELA%20ES%20MI%20PADRE%20%282011%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rCyNjiuuw7bOwLf8oNMI8AmgxVo.jpg",Esta abuela es un peligro 2 (2006)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2002.-%20ESTA%20ABUELA%20ES%20UN%20PELIGRO%202%20%282006%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hrUDpgEtk2qflsCM6K0lujP8smw.jpg",Esta abuela es un peligro (2000)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/%E2%9C%A0%2001.-%20ESTA%20ABUELA%20ES%20UN%20PELIGRO%201%20%282000%29%20%E2%9C%94.mp4
+_______un detective suelto en Hollywood______
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7SG46UxvNEodqPUXUz5iOCZ1I1A.jpg",Beverly Hills Cop: Axel F (2024)
+https://dl.dropbox.com/scl/fi/tbyc1ihexjgmb591i1trw/2024F.mp4?rlkey=d14ue2q5h9xeadne6swlqu2uv&st=vza3tnph&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aqrvjT6ajHKdg2vZH2C5LJiHw0C.jpg",Beverly Hills Cop III (1994)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/SUPER%20DETECTIVE%20EN%20HOLLYWOOD%203%20%281994%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5LZYXiq32w9TGs3tWZ4yfMYPQw.jpg",Beverly Hills Cop II (1987)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/SUPER%20DETECTIVE%20EN%20HOLLYWOOD%202%20%281987%29%20%E2%9C%94.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/QWxBKsxfwyQi7SRIzoY5Zn0mtW.jpg",Beverly Hills Cop (1984)
+https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/SUPER%20DETECTIVE%20EN%20HOLLYWOOD%201%20%281984%29%20%E2%9C%94.mp4
 
 _______________los padres de ella___________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wWXZfh8tdIuJSnqEJyHuDy2IIMN.jpg",ahora los padres son ellos (2010)
@@ -150,22 +213,6 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/02.LOS%20PADRES%20DE%20%C3%89L%20%282004%29%20%E2%9C%94.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lv981V7k0ur3DCJGNv3aryNO793.jpg",los padres de ella(2000)
 https://image.tmdb.org/t/p/original/lv981V7k0ur3DCJGNv3aryNO793.jpg
-
- ______DEPREDADOR______
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y4T3Wnok6oidLVMlOwP0a5FDd6D.jpg",Prey (2022)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/05.-%20PREDATOR%20LA%20PRESA%20%282022%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2oe08tzAR31cww9rbiBCO8jQDLk.jpg",The Predator (2018)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/04.-%20PREDATOR%20%282018%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4H6ZEL4JNHORf7YMJic83DNnjwC.jpg",Predators (2010)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/03.-%20PREDATORS%20%282010%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kzglHFelWDykZbZ50anLukOvojV.jpg",Aliens vs Predator: Requiem (2007)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/ALIENS%20VS%20PREDATOR%202%20%282007%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zMqzrb3q9eZ3sNMlz5aO3RX2rrW.jpg",AVP: Alien vs. Predator (2004)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/ALIENS%20VS%20PREDATOR%201%20%282004%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2W7LTLkQJZS3ovnRpeKXnZ6PHl8.jpg",Predator 2 (1990)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/02.-%20DEPREDADOR%202%20%281990%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c5cFOjL2SVRdKMZ6yhY4sZ5r2no.jpg",Predator (1987)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/01.-%20DEPREDADOR%201%20%281987%29%20%E2%9C%94.mp4
 
 ________MATRIX________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pwZZjwx4PS00uwB37451S80CbA8.jpg",The Matrix Resurrections (2021)
@@ -265,16 +312,6 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/khIjSqFwgZqakF1sBaUEpwI4BJo.jpg",La momia (1999)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/LA%20MOMIA%201%20%281999%29%20%E2%9C%94.mp4
 
-______PADRE NO HAY MÁS QEU UNO___
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/phZbS20UWYgsuZQSYumFtyWuuzm.jpg",Padre no hay más que uno 4: Campanas de boda (2024)
-https://dl.dropbox.com/scl/fi/c379ce9s2dfkd6zjb70md/8743222333.mp4?rlkey=xkow64c8qibme64ls54harxmy&st=v2met057&dl=0
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ckwhEokrbEahSjZHFraazSKwOov.jpg",Padre no hay más que uno 3 (2022)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/PADRE%20NO%20HAY%20M%C3%81S%20QUE%20UNO%203%20%282022%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pUHcxzstSlsQgeuRA11pEBB6Nu1.jpg",Padre no hay más que uno 2: la llegada de la suegra (2020)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/PADRE%20NO%20HAY%20M%C3%81S%20QUE%20UNO%20%202%20La%20llegada%20de%20la%20suegra%20%282020%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kZhAFnyPDdQxHzlWZHzBZOgwFgk.jpg",Padre no hay más que uno 1 (2019)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/PADRE%20NO%20HAY%20M%C3%81S%20QEU%20UNO%20%282019%29.mp4
-
 ______mision imposible_______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/olwdvfUQfKXIoZ5g7juTpuIsCOr.jpg",Mission Impossible  Dead Reckoning Part One (2023)
 https://dl.dropbox.com/scl/fi/br2qv9gqb88kre5nrcznk/3948272.mp4?rlkey=pn1zr2uegpq16zlqwah6zqmp4&st=xpc1oolx&dl=0
@@ -318,28 +355,6 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RESIDENT%20EVIL%202%20APOCALIPSIS%20%282004%29%20%E2%9C%94.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qH1rCVvsSfffATfopcsIFni1aX9.jpg",Resident Evil (2002)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/1%20RESIDENT%20EVIL%282002%29%20%E2%9C%94.mp4
-
-_______ que paso ayer_______
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z3Q8cbwmtsVdkPDCX10XawVG3bc.jpg",The Hungover Games (2014)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RESAC%C3%93N%20EN%20LAS%20VEGAS%20ELLAS%20TAMBIEN%20%282014%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yiMIdASg7dBiMFUBeIZdmqYoUDJ.jpg",The Hangover Part III (2013)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RESAC%C3%93N%203%20%282013%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lYKsSd1qRBn5bPbflvBwGgyXwcR.jpg",The Hangover Part II (2011)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RESAC%C3%93N%202%20%282011%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kOnaXoMEqdWei3zCRSHL7RBfKcJ.jpg",The Hangover (2009)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RESAC%C3%93N%201%20%282009%29%20%E2%9C%94.mp4
-
-______rambo_______
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8KV8sU9PVsdxO75UaqXQk9AiNqD.jpg",Rambo V Last Blood (2019)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%205%20LAST%20BLOOD%20%282019%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AhisA7QnTZDfJfrvHN8guk3xBvp.jpg",Rambo IV (2008)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%204%20%282008%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yM2clonjcpiHDyqxVbV3ePshXh7.jpg",Rambo III (1988)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%203%20%281988%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bVH6vaYvZjDAyzVPpJUT5Jrd0Wf.jpg",Rambo II First Blood Part II (1985)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%202%20%281985%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pynPSAY5VMTpucoOuB9ypjSYdyS.jpg",Rambo I (1982)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/RAMBO%201%20%281982%29%20%E2%9C%94.mp4
 
 _______Los mercenarios_______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/n8XgX7ccXIRk1izZxQXcSi04r4B.jpg",Expend4bles (2023)
@@ -430,20 +445,6 @@ https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/LARA%20CROFT%202%20%282003%29%20%E2%9C%94.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nfPQ2d3fmzqsSwARR1MAcQBf6fr.jpg",Lara Croft Tomb Raider (2001)
 https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/LARA%20CROFT%201%20%282001%29%20%E2%9C%94.mp4
-
-_____Code 8 renegados_______
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gQVTQu3OgD7eOXfi0LBCDgB4w3c.jpg",Código 8 Renegados Parte II (2024)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/C%C3%B3digo%208%20Renegados%20%28Parte%20II%29%202024.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/raspMdRYIj0cCF6SQH8NQ1lLLMB.jpg",Code 8 renegados (2019)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/C%C3%B3digo%208%20renegados%20%202016.mp4
-
-_______Bad Boys______
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eNkeLslgV9apdxcLYM45NNuwvaJ.jpg",Bad Boys for Life (2020)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/DOS%20POLICIAS%20REBELDES%203%20%282020%29.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8QwFEF34KK66m5GYVzjIXnRehw2.jpg",Bad Boys II (2003)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/DOS%20POLICIAS%20REBELDES%202%20%282003%29%20%E2%9C%94.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bQBZTQHBKyKL4JbdTYifCLqcspR.jpg",Bad Boys (1995)
-https://archive.org/download/mini-espias-4-los-ladrones-del-tiempo-2011-pelicula-cuevana-3/DOS%20POLICIAS%20REBELDES%201%20%281995%29%20%E2%9C%94.mp4
 
 ______Pitch Perfect______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9lpg3QF1EXjMVgRGUdWrqZEUIzS.jpg",Pitch Perfect 3 (2017)
