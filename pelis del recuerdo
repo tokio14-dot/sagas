@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dZjxrjuE4GPmo4iOAyfxZVumEDx.jpg",The Doors (1991)
+https://archive.org/download/como-me-converti-en-superheroe/The%20Doors.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x2B3gdWjDlId6xyK6ixlDoyq3Kz.jpg",187 código de la muerte (1997)
 https://archive.org/download/como-me-converti-en-superheroe/M%C3%A1s%20mentes%20peligrosas.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xAwzata7tae2TOScmhAXOpxOfvV.jpg",Timecop (1994)
