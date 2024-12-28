@@ -1,8 +1,6 @@
 #EXTM3U
 
-
-
-
+EXTGRP:TEMPORADA 1
 #EXTINF:-1 tvg-logo="",01
 https://dl.dropbox.com/scl/fi/500smmi0of79bvpwglcvo/65313-1.mp4?rlkey=wz5b0hppjf9jjkvx69ez8g4vq&st=890q240k&dl=0
 #EXTINF:-1 tvg-logo="",02
@@ -27,10 +25,31 @@ https://dl.dropbox.com/scl/fi/u267hj2raatatpei4grjf/9.mp4?rlkey=rs544b08rlgvo8ad
 
 #EXTINF:-1 tvg-logo="",12
 
+#EXTGRP:TEMPORADA 2
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vfezw4BKD6boTe27Zp9VvbpTQXb.jpg",01
+https://dl.dropbox.com/scl/fi/tjibfjkt1f76p8eu59kp5/01.mp4?rlkey=tecwvl37jp1ll3h2tcg2m1v6k&st=n2mriikh&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1otqz1eoDGL1nAd6anrbaxcNhEZ.jpg",02
+https://dl.dropbox.com/scl/fi/dbsepgusmlrotvuncbm0z/02.mp4?rlkey=3504x55ic6ooybsz07vy1c5wz&st=voo6mic1&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jyGlQHzDcgzEKLjNmEja0miE3gQ.jpg",03
+https://dl.dropbox.com/scl/fi/070nyu7drm723nr6s78s1/03.mp4?rlkey=xvl208818g959b9vpfo9mcld5&st=yhzdwgf2&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/elVVhXo8lEp6y12XoF3GltbZJAz.jpg",04
+https://dl.dropbox.com/scl/fi/7t9pzmz62tlyjsmffq5bo/04.mp4?rlkey=e4bsf8brof5opsgandb28iyc3&st=6op74j05&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v84u6wRqI3zds9HnJXbwEcv3TVe.jpg",05
+https://dl.dropbox.com/scl/fi/i5ggaxu9xcgyivecr7qif/05.mp4?rlkey=xd7yzag01yxf3ewfb0wttpvv7&st=d78u235e&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cklK5R8EI1L14JfDZ6QIdcky1pe.jpg",06
+https://dl.dropbox.com/scl/fi/7tjtzq3kbnofcc1sv0yhr/07.mp4?rlkey=2bctl5ou0ghlmk8ihgj0dw6ec&st=t4gdirun&dl=0
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/du2d9DAtw0pyHHL9FtuCNcqW8Wc.jpg",07
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7oZBJBWjdZQ3HDRh73vshldWCA8.jpg",08
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2xeGngpYYIG68cnxhz8cpkuhSSb.jpg",09
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yBJtrixljrOJWMtrZsxjF5sOXcs.jpg",10
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/du2d9DAtw0pyHHL9FtuCNcqW8Wc.jpg",11
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3VNE6GcHelVT5OFAJlZilGkh7KR.jpg",12
 
 
 ...
