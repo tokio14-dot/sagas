@@ -1,6 +1,6 @@
 #EXTM3U
 
-EXTGRP:TEMPORADA 1
+#EXTGRP:TEMPORADA 1
 #EXTINF:-1 tvg-logo="",01
 https://dl.dropbox.com/scl/fi/500smmi0of79bvpwglcvo/65313-1.mp4?rlkey=wz5b0hppjf9jjkvx69ez8g4vq&st=890q240k&dl=0
 #EXTINF:-1 tvg-logo="",02
