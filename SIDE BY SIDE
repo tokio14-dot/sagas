@@ -14,11 +14,11 @@ https://archive.org/download/masallasdeljardin/peliculas.m3u
 https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/MPELIS.m3u8
 #EXTINF:-1 tvg-logo="",CONCIERTOS
 https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/conciertos.m3u8
-
 #EXTINF:-1 tvg-logo="",INFANTIL
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Infantiles.m3u
 #EXTINF:-1 tvg-logo="",INFANTILES 2
-
+#EXTINF:-1 tvg-logo="",24/7 dominio publico
+https://raw.githubusercontent.com/angel200881/Z/refs/heads/main/24.7.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",INFANTIL 24/7
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/1nf4nt1l3s_24_7.m3u
 #EXTINF:-1 tvg-logo=""group-title="",DIBUJOS ANIMADOS
