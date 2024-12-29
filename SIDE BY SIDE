@@ -10,6 +10,9 @@ https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Series.m3u
 https://archive.org/download/masallasdeljardin/peliculas.m3u
 #EXTINF:-1 tvg-logo="",PELIS 2
 https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/MPELIS.m3u8
+#EXTINF:-1 tvg-logo="",CONCIERTOS
+https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/conciertos.m3u8
+
 #EXTINF:-1 tvg-logo="",INFANTIL
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Infantiles.m3u
 #EXTINF:-1 tvg-logo="",INFANTILES 2
