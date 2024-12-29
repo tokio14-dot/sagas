@@ -11,7 +11,7 @@ https://archive.org/download/masallasdeljardin/peliculas.m3u
 #EXTINF:-1 tvg-logo="",INFANTIL
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Infantiles.m3u
 #EXTINF:-1 tvg-logo="",INFANTILES 2
-https://raw.githubusercontent.com/Dhellblazer/test-tv/refs/heads/main/peliculas_latino.m3u
+
 #EXTINF:-1 tvg-logo=""group-title="",INFANTIL 24/7
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/1nf4nt1l3s_24_7.m3u
 #EXTINF:-1 tvg-logo=""group-title="",DIBUJOS ANIMADOS
