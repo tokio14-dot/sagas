@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="",MOVIE
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
+#EXTINF:-1 tvg-logo="",4K cimax
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/4k.m3u
+#EXTINF:-1 tvg-logo="",FULL SERIES
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Series.m3u
+#EXTINF:-1 tvg-logo="",FULL PELIS
+https://archive.org/download/masallasdeljardin/peliculas.m3u
+#EXTINF:-1 tvg-logo="",INFANTIL
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Infantiles.m3u
+#EXTINF:-1 tvg-logo="",INFANTILES 2
+https://raw.githubusercontent.com/Dhellblazer/test-tv/refs/heads/main/peliculas_latino.m3u
+#EXTINF:-1 tvg-logo=""group-title="",INFANTIL 24/7
+https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/1nf4nt1l3s_24_7.m3u
+#EXTINF:-1 tvg-logo=""group-title="",DIBUJOS ANIMADOS
+https://mametchikitty.github.io/Listas-IPTV/dibujos-animados.m3u
+#EXTINF:-1 tvg-logo=""group-title="",Ghibli Latino
+https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
+#EXTINF:-1 tvg-logo="",ANIME
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Animes.m3u
+#EXTINF:-1 tvg-logo=""group-title="",m3u CL
+https://m3u.cl/lista/total.m3u
+#EXTINF:-1 tvg-logo=""group-title="",Funcional X
+https://github.com/tokio14-dot/tv/releases/download/q.521/FUNCIONAL.X.m3u
+
+#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
+https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
+
+
+
