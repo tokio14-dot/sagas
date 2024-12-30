@@ -41,7 +41,6 @@ _____1995
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2okSE3owdRVf8sNtoHChXCW6ytU.jpg",La Llave Magica (1995)
 https://archive.org/download/llave/llave.mkv
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ytnE8v8sAdecDo9YMWgRoWJfYgU.jpg",HD Johnny Mnemonic  (1995)
 https://archive.org/download/johnny-mnemonic-1995/Johnny%20Mnemonic%20%281995%29.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ytnE8v8sAdecDo9YMWgRoWJfYgU.jpg",Johnny Mnemonic (1995)
@@ -59,8 +58,21 @@ https://archive.org/download/PelNavvVariass/Ver%20Miracle%20on%2034th%20Street%2
 https://archive.org/download/como-me-converti-en-superheroe/Polic%C3%ADa%20en%20el%20tiempo.mp4
 
 ______1993
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rZ8A8WOw5jscNOLOyo7fUFKmyzv.jpg",El Dia de la Marmota(1993)
+https://archive.org/download/009_20200426/009.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cS45swrlrTJijH1RblBLe8LlW2p.jpg",Dia de Furia (1993)
 https://archive.org/download/difupe/difupe.mkv
+
+______1992
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lLf3Ktu9FlEo5e178thuyaw5zFq.jpg",the Lawnmower Man (1992)
+https://archive.org/download/1992-lawnmower-man-1/1992%20lawnmower%20man%201.mp4
 
 _____1991
 
