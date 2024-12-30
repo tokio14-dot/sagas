@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZSpwTr1/speed-396503860-large.png",MAXIMA VELOCIDAD							
-http://archive.org/download/ariga8/Sub1d0_p4r4_5tr34ming_A85_V4R145_3/5.avi														
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KGx7NfD/speed-2-cruise-control-501687232-large.png",MAXIMA VELOCIDAD 2							
-http://archive.org/download/ariga8/Sub1d0_p4r4_5tr34ming_A85_V4R145_3/6.mp4
 
 _________ALIEN________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/10eX2ICHQFxjP5zg64ELUwsLlzt.jpg",Alien: Romulus (2024)
@@ -244,7 +240,11 @@ https://archive.org/download/PelNavvVariass/Watch%20Pobre%20Angelito2%20720%20bd
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iIa5QnAxBr61Bquq8KZtzDCmSsh.jpg",Mi pobre angelito (1990)
 https://archive.org/download/PelNavvVariass/Watch%20Pobre%20Angelito%20720%20bdrip%20lat%20mp4.ogv
 
-
+_____maxima velocidad________
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kJQS6jxxtNTaWI8jw7ynck97rgl.jpg",MAXIMA VELOCIDAD							
+http://archive.org/download/ariga8/Sub1d0_p4r4_5tr34ming_A85_V4R145_3/5.avi														
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2FK7MnCeryL8aj5ZiHIz234VgEp.jpg",MAXIMA VELOCIDAD 2							
+http://archive.org/download/ariga8/Sub1d0_p4r4_5tr34ming_A85_V4R145_3/6.mp4
 
 _____ mr BEAN_______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/NqcbwZU4At2kRBvC0zRo1uohvI.jpg",Las Vacaciones de Mr. Bean (2007)
