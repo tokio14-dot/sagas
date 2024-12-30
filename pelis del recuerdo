@@ -139,7 +139,7 @@ _____1987
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cKe8z44ORdzofI12Zvm1GXTCZzi.jpg",HD Masters del universo (1987)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cKe8z44ORdzofI12Zvm1GXTCZzi.jpg",(FHD)Masters del universo (1987)
 https://archive.org/download/masters.-del.-universo/Masters%20del%20Universo.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cKe8z44ORdzofI12Zvm1GXTCZzi.jpg",Masters del universo (1987)
 https://archive.org/download/masters.-del.-universo/Masters%20del%20Universo.mp4
@@ -153,9 +153,22 @@ https://archive.org/download/la-rebelion-de-las-maquinas-1986_202011/La%20Rebeli
 https://archive.org/download/como-me-converti-en-superheroe/Rescate%20en%20el%20barrio%20Chino.mp4
 
 
+_____1984
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6pcROMLzJr2Fj05AyTbbDSkBVtr.jpg",(FHD) Los cazafantasmas (1984)
+https://archive.org/download/los-cazafantasmas-1984/Los%20Cazafantasmas%20%281984%29.m4v
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6pcROMLzJr2Fj05AyTbbDSkBVtr.jpg",Los cazafantasmas (1984)
+https://archive.org/download/los-cazafantasmas-1984/Los%20Cazafantasmas%20%281984%29.mp4
+
+
 ______1981
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fv7Ykg7U1G2JhlmX96KVGsV4z9Q.jpg",HD Atmosfera Cero (1981)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fv7Ykg7U1G2JhlmX96KVGsV4z9Q.jpg",(FHD)Atmosfera Cero (1981)
 https://archive.org/download/atmosfera-cero/Atmosfera%20Cero.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fv7Ykg7U1G2JhlmX96KVGsV4z9Q.jpg",Atmosfera Cero(1981)
 https://archive.org/download/atmosfera-cero/Atmosfera%20Cero.mp4
