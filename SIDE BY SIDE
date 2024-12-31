@@ -10,6 +10,9 @@ https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/series.m3u8
 
 
 PELICULAS
+
+#EXTINF:-1 tvg-logo="",PELISFORTE
+https://raw.githubusercontent.com/antonio7129/Mis-Pelis/refs/heads/main/Mis%20Pelis.M3U
 #EXTINF:-1 tvg-logo="",PELIS
 https://archive.org/download/masallasdeljardin/peliculas.m3u
 #EXTINF:-1 tvg-logo="",PELIS 2
