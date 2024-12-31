@@ -11,6 +11,8 @@ https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/series.m3u8
 
 PELICULAS
 
+#EXTINF:-1 tvg-logo="",EXTRENOS 2024
+https://raw.githubusercontent.com/antonio7129/Nuevas-Pelis-2024/refs/heads/main/Nuevas%20Pelis%202024.M3U
 #EXTINF:-1 tvg-logo="",PELISFORTE
 https://raw.githubusercontent.com/antonio7129/Mis-Pelis/refs/heads/main/Mis%20Pelis.M3U
 #EXTINF:-1 tvg-logo="",PELIS
