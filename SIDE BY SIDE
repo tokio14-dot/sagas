@@ -30,6 +30,8 @@ https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/4k.m3u
 
 DIBUJOS,ANIME Y TV
 
+#EXTINF:-1 tvg-logo="",ANIME
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Animes.m3u
 #EXTINF:-1 tvg-logo="",CARTOON 
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/cartoon
 #EXTINF:-1 tvg-logo="",INFANTIL
@@ -45,8 +47,6 @@ https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/1nf4nt1l3s_24_7.m3
 https://mametchikitty.github.io/Listas-IPTV/dibujos-animados.m3u
 #EXTINF:-1 tvg-logo=""group-title="",Ghibli Latino
 https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
-#EXTINF:-1 tvg-logo="",ANIME
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Animes.m3u
 
 
 #EXTINF:-1 tvg-logo=""group-title="",m3u CL
