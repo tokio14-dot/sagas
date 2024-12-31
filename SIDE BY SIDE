@@ -21,6 +21,8 @@ https://archive.org/download/masallasdeljardin/peliculas.m3u
 https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/MPELIS.m3u8
 #EXTINF:-1 tvg-logo="",PELIS 3
 https://raw.githubusercontent.com/antonio7129/Pelis-29/refs/heads/main/Pelis%2029.M3U
+#EXTINF:-1 tvg-logo="",PELIS 3.0
+https://raw.githubusercontent.com/antonio7129/Nuevas-Pelis-3.1/refs/heads/main/Nuevas%20Pelis%203.1.M3U
 #EXTINF:-1 tvg-logo="",MOVIE
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
 #EXTINF:-1 tvg-logo="",4K cimax
