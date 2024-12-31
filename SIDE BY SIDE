@@ -55,8 +55,8 @@ https://m3u.cl/lista/total.m3u
 https://github.com/tokio14-dot/tv/releases/download/q.521/FUNCIONAL.X.m3u
 
 
-#EXTINF:-1 tvg-logo="",tv
-https://raw.githubusercontent.com/antonio7129/Mis-Canales/refs/heads/main/Marco%20Antonio%20LM_Varios%20SD%20y%20HD.m3u8
+#EXTINF:-1 tvg-logo="",
+
 #EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
 #EXTINF:-1 tvg-logo="",FUTBOL EN VIBO 2
