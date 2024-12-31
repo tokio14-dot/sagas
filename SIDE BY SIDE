@@ -1,22 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",MOVIE
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
-#EXTINF:-1 tvg-logo="",4K cimax
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/4k.m3u
+SERIES
+
 #EXTINF:-1 tvg-logo="",FULL SERIES
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Series.m3u
 #EXTINF:-1 tvg-logo="",SERIES 2
 https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/series.m3u8
-#EXTINF:-1 tvg-logo="",FULL PELIS
+
+
+
+PELICULAS
+#EXTINF:-1 tvg-logo="",PELIS
 https://archive.org/download/masallasdeljardin/peliculas.m3u
 #EXTINF:-1 tvg-logo="",PELIS 2
 https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/MPELIS.m3u8
+#EXTINF:-1 tvg-logo="",PELIS 3
+https://raw.githubusercontent.com/antonio7129/Pelis-29/refs/heads/main/Pelis%2029.M3U
+#EXTINF:-1 tvg-logo="",MOVIE
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
+#EXTINF:-1 tvg-logo="",4K cimax
+https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/4k.m3u
+
+DIBUJOS,ANIME Y TV
+
 #EXTINF:-1 tvg-logo="",CARTOON 
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/cartoon
 #EXTINF:-1 tvg-logo="",INFANTIL
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Infantiles.m3u
-#EXTINF:-1 tvg-logo="",INFANTILES 2
+
 #EXTINF:-1 tvg-logo="",24/7 dominio publico
 https://raw.githubusercontent.com/angel200881/Z/refs/heads/main/24.7.m3u8
 #EXTINF:-1 tvg-logo=""group-title="",INFANTIL 24/7
