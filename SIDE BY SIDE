@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="",chavo 24/7
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/chavo.m3u8
+#EXTINF:-1 tvg-logo="",
+
 SERIES
 
 #EXTINF:-1 tvg-logo="",FULL SERIES
@@ -12,7 +17,7 @@ https://raw.githubusercontent.com/david2803/Iptv/eb6b86a32db95d5421f49fee548f460
 
 PELICULAS
 
-#EXTINF:-1 tvg-logo="",
+
 
 #EXTINF:-1 tvg-logo="",antonio7129
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis
