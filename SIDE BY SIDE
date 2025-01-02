@@ -51,7 +51,10 @@ https://mametchikitty.github.io/Listas-IPTV/dibujos-animados.m3u
 #EXTINF:-1 tvg-logo=""group-title="",Ghibli Latino
 https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
 
+________TV
 
+#EXTINF:-1 tvg-logo="",TV
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/tv
 #EXTINF:-1 tvg-logo=""group-title="",m3u CL
 https://m3u.cl/lista/total.m3u
 #EXTINF:-1 tvg-logo=""group-title="",Funcional X
