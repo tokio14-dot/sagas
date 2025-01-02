@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="",NCIS: temp 1-19
+https://raw.githubusercontent.com/antonio7129/NCIS-temp.1-al-19/refs/heads/main/NCIS%20.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jXjKAJMAi9P0wJRvWP4KsqvQCd1.jpg",01Y02
 https://dl.dropbox.com/scl/fi/j82snk6fbi8iist35qzhs/1y2.mp4?rlkey=muskuyopo93rzhuzp7i384zzi&st=xq1ubgmo&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jXjKAJMAi9P0wJRvWP4KsqvQCd1.jpg",03Y04
