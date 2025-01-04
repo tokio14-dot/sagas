@@ -19,9 +19,6 @@ PELICULAS
 #EXTINF:-1 tvg-logo="",P3LIs
 https://github.com/k-lamar09/cds/releases/download/MKc-08/S3RV3R.03.m3u
 #EXTINF:-1 tvg-logo="",P3LIs 2
-#EXTINF:-1 tvg-logo="https://github.com/k-lamar09/cds/releases/download/M0001/n3tfl1x.jpg" group-title="PELICULAS", NETFLIX
-https://github.com/k-lamar09/cds/releases/download/M0001/V0d.N3TFL1X.m3u
-#EXTINF:-1 tvg-logo="",P3LIs 3
 https://dl.dropbox.com/scl/fi/jreoneqsfs1oczcjo4p8m/pelis.m3u?rlkey=wgvqzwqlp29s6iol1eeyiq61n&st=co8gbf9v&dl=0.m3u
 #EXTINF:-1 tvg-logo="",antonio7129
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis
@@ -33,6 +30,9 @@ https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/MPELIS.m3u8
 https://raw.githubusercontent.com/antonio7129/Pelis-29/refs/heads/main/Pelis%2029.M3U
 #EXTINF:-1 tvg-logo="",PELIS 3.0
 https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/PELICULAS.m3u
+#EXTINF:-1 tvg-logo="",NETFLIX
+https://github.com/k-lamar09/cds/releases/download/M0001/V0d.N3TFL1X.m3u
+
 #EXTINF:-1 tvg-logo="",MOVIE
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
 #EXTINF:-1 tvg-logo="",4K cimax
