@@ -16,6 +16,10 @@ PELICULAS
 
 
 
+#EXTINF:-1 tvg-logo="",P3LIs
+https://github.com/k-lamar09/cds/releases/download/MKc-08/S3RV3R.03.m3u
+#EXTINF:-1 tvg-logo="",P3LIs 2
+https://github.com/k-lamar09/cds/releases/download/MKc-07/S3RV3R.01.m3u
 #EXTINF:-1 tvg-logo="",antonio7129
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis
 #EXTINF:-1 tvg-logo="",PELIS
