@@ -1,9 +1,21 @@
 #EXTM3U
 
 
+
+
+
+
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GMnYutDXUAAmfrU.jpg:large",Es Ahora: Luciano y Abel, Especial Año Nuevo (31-12-24)
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5C3bWF9vM7tOzOTHTH2oxe-pgVQlPs76cjQ&s",Lo Mejor de la Música - Luciano Pereyra y Abel Pintos en el Luna Park (2024)
+https://archive.org/download/lo-mejor-de-la-musica-luciano-pereyra-y-abel-pintos-1080p/Lo%20Mejor%20de%20la%20M%C3%BAsica%20-%20Luciano%20Pereyra%20y%20Abel%20Pintos%20en%20el%20Luna%20Park%20%282024%29%20%5BTPlay-1080p%5D.mp4
+#EXTINF:-1 tvg-logo="",Lo Mejor de la Música - Luciano Pereyra y Abel Pintos en el Luna Park (2024)
+https://archive.org/download/lo-mejor-de-la-musica-luciano-pereyra-y-abel-pintos-1080p/Lo%20Mejor%20de%20la%20M%C3%BAsica%20-%20Luciano%20Pereyra%20y%20Abel%20Pintos%20en%20el%20Luna%20Park%20%282024%29%20%5BTPlay-1080p%5D.mp4
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GMnYutDXUAAmfrU.jpg:large",Es Ahora: Luciano y Abel, Especial Año Nuevo (31-12-24) tplay
 https://archive.org/download/es-ahora-luciano-y-abel-especial-ano-nuevo-31-12-24-tplay-1080p/Es%20Ahora%20-%20Luciano%20y%20Abel%2C%20especial%20A%C3%B1o%20Nuevo%20%2831-12-24%29%20%5BTPlay-1080p%5D.mp4
 #EXTINF:-1 tvg-logo="https://indiehoy.com/wp-content/uploads/2023/08/cosquin-rock-2024-1.jpg",Lo Mejor de la Música - Cosquín Rock 2024
 https://archive.org/download/lo-mejor-de-la-musica-cosquin-rock-2024-31-12-24-tplay-1080p/Lo%20Mejor%20de%20la%20M%C3%BAsica%20-%20Cosquin%20Rock%202024%20%2831-12-24%29%20%5BTPlay-1080p%5D.mp4
