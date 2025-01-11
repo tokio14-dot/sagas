@@ -29,6 +29,11 @@ _____2010
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/anqqKGf6p7OIsl9SyONq2OqKQYZ.jpg",Scott Pilgrim vs los ex de la chica de sus sueños (2010)
 https://archive.org/download/scott-pilgrim-vs-the-world_202312/Scott%20Pilgrim%20Vs%20The%20World.mp4
 
+_____2008
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ipXYGZWJ8GyueVjDFDxetQC1FC3.jpg",Siete Almas (2008)
+https://ia800506.us.archive.org/25/items/sev-3n-7-alm-4-1080p-dual-4.57-gb/Sev3n7%20Alm4%27%24%201080p%20DUAL%204.57%20GB. mp4
+
 _____2006
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pWBD3mNk42Ow8UkQRO9eod5YdIO.jpg",El diablo viste a la moda (2006)
@@ -40,6 +45,8 @@ https://archive.org/download/BabAziz2005_201704/Bab%27Aziz%20%282005%29.mp4
 
 _____2005
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/21ovN1RCZm6n3xM02w3KDzyVYM3.jpg",Los Rompe Bodas (2005)
+https://archive.org/download/los-r-0mp-3-bod-4s-2005-1080p-3-91-gb/Los%20R0mp3%24Bod4s%20%282005%29%201080p%203%2C91% 20GB.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/je9LoCgYKvoF2B1F5NDXq0kAFSF.jpg", Todopoderoso (2005)
 https://archive.org/download/t-0d0p-0d-3r-os-0-1-1080p-5-04-gb_202311/T0d%E2%81%B0p0d3rOs0%201%201080p%205%2C04%20GB. mkv
 
@@ -51,14 +58,6 @@ _____2003
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5XmP7mdjoxDVw9F3mBTgMQLbExu.jpg",Mystic River (2003)
 https://archive.org/download/river_mystic_by_discontrol_chilefilms/river_mystic_by_discontrol_chilefilms.mp4
 
-
-______2005
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/21ovN1RCZm6n3xM02w3KDzyVYM3.jpg",Los Rompe Bodas (2005)
-https://archive.org/download/los-r-0mp-3-bod-4s-2005-1080p-3-91-gb/Los%20R0mp3%24Bod4s%20%282005%29%201080p%203%2C91% 20GB.mkv
-_____2008
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ipXYGZWJ8GyueVjDFDxetQC1FC3.jpg",Siete Almas (2008)
-https://ia800506.us.archive.org/25/items/sev-3n-7-alm-4-1080p-dual-4.57-gb/Sev3n7%20Alm4%27%24%201080p%20DUAL%204.57%20GB. mp4
 
 ____2002
 
@@ -78,8 +77,8 @@ _____2001
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4BBc3bM9xhgKgLRl6igdbqAk6wX.jpg",Wasabi: El Trato Sucio de la Mafia (2001)
+https://archive.org/download/wasa_20200522/Wasa.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/x6NR3IryonUsytRdjqDxX00ADy8.jpg",Corazón De Caballero (2001)
 https://archive.org/download/corazon-de-caballero-2001_202501/Coraz%C3%B3n%20De%20Caballero%202001.mp4
 
