@@ -167,13 +167,13 @@ https://archive.org/download/conciertos-jgpresenta/ANDY%20Y%20LUCAS/Andy%20%26%2
 
 
 ana gabriel
-#EXTINF:-1 tvg-logo="",Ana Gabriel Sin Interrupciones 
+#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/png-clipart-jingzhe-cherry-blossom-peach-blossom-flowers-cd-stickers-elect",Ana Gabriel Sin Interrupciones 
 https://archive.org/download/conciertos-jgpresenta/ANA%20GABRIEL/Ana%20Gabriel%20_%20Concierto%20Completo%20_%20Sin%20Interrupciones%20%28720p_30fps_H264-128kbit_AAC%29.ia.mp4
-#EXTINF:-1 tvg-logo="Ana Gabriel",Concierto Amaral
+
+_______amaral
+
+#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/png-clipart-amaral-gato-negro-dragon-rojo-compact-disc-gato-negro-",Concierto Amaral
 https://archive.org/download/conciertos-jgpresenta/AMARAL/Concierto%20Amaral%20-%20Gira%20Salto%20al%20Color%20%23%20Coliseum%20A%20Coru%C3%B1a%2002_11_2019%20%28720p_30fps_H264-128kbit_AAC%29.ia.mp4
-
-amaral
-
 #EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/png-clipart-amaral-gato-negro-dragon-rojo-compact-disc-gato-negro-label-gato-negro-thumbnail.png",Amaral Hacia lo salvaje Concierto sala Razzmatzz
 https://archive.org/download/conciertos-jgpresenta/AMARAL/Amaral.%20Hacia%20lo%20salvaje.%20%20Concierto%20sala%20Razzmatzz%20BCN%20%28720p_30fps_H264-128kbit_AAC%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/png-clipart-amaral-gato-negro-dragon-rojo-compact-disc-gato-negro-label-gato-negro-thumbnail.png",Amaral y Banda Sinfónica Municipal de Madrid
