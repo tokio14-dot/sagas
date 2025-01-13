@@ -49,7 +49,7 @@ https://archive.org/download/0Sleep0Dealer020080/0Sleep0Dealer0%282008%290.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ipXYGZWJ8GyueVjDFDxetQC1FC3.jpg",Siete Almas (2008)
 https://ia800506.us.archive.org/25/items/sev-3n-7-alm-4-1080p-dual-4.57-gb/Sev3n7%20Alm4%27%24%201080p%20DUAL%204.57%20GB. mp4
 .____2007
-#EXTINF:-1 tvg-logo="https://archive.org/download/yummy_202105/-%20Yo%20los%20declaro%20marido%20y...%20Larry.jpg",I Now Pronounce You Chuck & Larry (2007)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yNCNYVq8OLongbyDQdNvqky6C6b.jpg",yo los declaro marido & Larry (2007)
 https://archive.org/download/yummy_202105/-%20Yo%20los%20declaro%20marido%20y...%20Larry.mp4
 _____2006
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6t4ARu3PRPlnxSGek8N3zlv7Gcz.jpg",Chiquito Pero Peligroso (2006)
@@ -352,8 +352,10 @@ _____1988
 https://archive.org/download/estan-vivos-1988/Est%C3%A1n%20Vivos%20%281988%29.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nd8R5FuQV6puzCJXR5ifaiVlMel.jpg",Están vivos (1988)
 https://archive.org/download/estan-vivos-1988/Est%C3%A1n%20Vivos%20%281988%29.mp4
-_____1987
 
+
+
+_____1987
 
 #EXTINF:-1 tvg-logo="",
 
@@ -361,11 +363,12 @@ _____1987
 https://archive.org/download/sobi_20230505/sobi2.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aj3BgF1h1iRjcjRuqFV6ZxZoMiE.jpg",Milagro en la calle 8
 https://archive.org/download/3l-4rt-3-d-3l-d-14bl-0-1/champurrado/M1l4gr0%203n%20l4%20C4ll3%208.avi
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cKe8z44ORdzofI12Zvm1GXTCZzi.jpg",(FHD)Masters del universo (1987)
 https://archive.org/download/masters.-del.-universo/Masters%20del%20Universo.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cKe8z44ORdzofI12Zvm1GXTCZzi.jpg",Masters del universo (1987)
 https://archive.org/download/masters.-del.-universo/Masters%20del%20Universo.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/39gowljuiBkE5Gh7kLnne8OK6MQ.jpg",de mendigo a millonario (1983)
+https://archive.org/download/yummy_202105/De%20mendigo%20a%20millonario.mp4
 _____1986
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bzxZ6CHUhic0XBUK0lUchRl3Om8.jpg",La rebelión de las máquinas HD (1986)
