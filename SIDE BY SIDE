@@ -90,11 +90,12 @@ https://m3u.cl/lista/total.m3u
 https://github.com/tokio14-dot/tv/releases/download/q.521/FUNCIONAL.X.m3u
 
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",prueba
+https://raw.githubusercontent.com/efren70/peliculas/refs/heads/main/peliculas.m3u
 
-#EXTINF:-1 tvg-logo="https://ia600406.us.archive.org/1/items/images_20240621/images.jpeg"group-title="",FUTBOL VIVO
+#EXTINF:-1 tvg-logo=""group-title="",FUTBOL VIVO
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
-#EXTINF:-1 tvg-logo="",FUTBOL EN VIBO 2
+#EXTINF:-1 tvg-logo="",VIBO 2
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/tv
 #EXTINF:-1 tvg-logo="",MUSICA
 https://raw.githubusercontent.com/junguler/m3u-audiobooks/aceb330866984b8cbd4fb5669aee63361bab4e5a/old_time_radio/Ff/fmm15minuteseries.m3u
