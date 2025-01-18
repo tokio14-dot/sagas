@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",TV ACERO
+https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/STEEL%20TV.m3u
+
 #EXTINF:-1 tvg-logo="",mrzutv
 http://at5tb.nictso.xyz/get.php?username=wa619290&password=FGuCUMQCPU&type=m3u_plus
 
