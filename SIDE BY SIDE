@@ -99,6 +99,8 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/tv
 #EXTINF:-1 tvg-logo="",MUSICA
 https://raw.githubusercontent.com/junguler/m3u-audiobooks/aceb330866984b8cbd4fb5669aee63361bab4e5a/old_time_radio/Ff/fmm15minuteseries.m3u
 
+#EXTINF:-1 tvg-logo="",XXX
+https://raw.githubusercontent.com/djtaly/iptv/refs/heads/main/adultoxs.m3u
 
 
 
