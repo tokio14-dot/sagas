@@ -14,11 +14,9 @@ https://iptv-org.github.io/iptv/index.region.m3u
 
 #EXTINF:-1 tvg-logo="",América Latina
 https://iptv-org.github.io/iptv/regions/latam.m3u
-#EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",Hispanoamérica
 https://iptv-org.github.io/iptv/regions/hispam.m3u
-#EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",Américas
 https://iptv-org.github.io/iptv/regions/amer.m3u
@@ -26,8 +24,6 @@ https://iptv-org.github.io/iptv/regions/amer.m3u
 
 #EXTINF:-1 tvg-logo="",Sudamerica
 https://iptv-org.github.io/iptv/regions/southam.m3u
-#EXTINF:-1 tvg-logo="",tv prueba
-https://raw.githubusercontent.com/michelpg01/iptv19/refs/heads/main/iptv19.m3u
 
 #EXTINF:-1 tvg-logo="",América del norte
 https://iptv-org.github.io/iptv/regions/noram.m3u
