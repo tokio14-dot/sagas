@@ -44,7 +44,8 @@ https://raw.githubusercontent.com/antonio7129/Pelis-29/refs/heads/main/Pelis%202
 https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/PELICULAS.m3u
 #EXTINF:-1 tvg-logo="",NETFLIX
 https://github.com/k-lamar09/cds/releases/download/M0001/V0d.N3TFL1X.m3u
-
+#EXTINF:-1 tvg-logo="",PELIS DE ACERO
+https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/PELICULAS.m3u
 #EXTINF:-1 tvg-logo="",MOVIE
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
 #EXTINF:-1 tvg-logo="",4K cimax
