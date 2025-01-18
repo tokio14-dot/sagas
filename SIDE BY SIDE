@@ -29,36 +29,8 @@ https://raw.githubusercontent.com/david2803/Iptv/eb6b86a32db95d5421f49fee548f460
 
 PELICULAS
 
+#EXTINF:-1 tvg-logo="",PELICULAS
 
-
-#EXTINF:-1 tvg-logo="",P3LIs
-https://github.com/k-lamar09/cds/releases/download/MKc-08/S3RV3R.03.m3u
-#EXTINF:-1 tvg-logo="",P3LIs 2
-https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/PELICULAS.m3u
-#EXTINF:-1 tvg-logo="",antonio7129
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis
-#EXTINF:-1 tvg-logo="",PELIS
-https://archive.org/download/masallasdeljardin/peliculas.m3u
-#EXTINF:-1 tvg-logo="",PELIS 2
-https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/MPELIS.m3u8
-#EXTINF:-1 tvg-logo="",PELIS 3
-https://raw.githubusercontent.com/antonio7129/Pelis-29/refs/heads/main/Pelis%2029.M3U
-#EXTINF:-1 tvg-logo="",PELIS 3.0
-
-#EXTINF:-1 tvg-logo="",STEEL PELI
-https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/STEEL%20PELI.m3u
-#EXTINF:-1 tvg-logo="",PELIS DE ACERO
-https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/PELICULAS.m3u
-#EXTINF:-1 tvg-logo="",MOVIE
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
-#EXTINF:-1 tvg-logo="",4K cimax
-https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/4k.m3u
-#EXTINF:-1 tvg-logo="",P plus
-https://raw.githubusercontent.com/djtaly/iptv/refs/heads/main/peliculas.m3u
-#EXTINF:-1 tvg-logo="",PELIS server
-https://github.com/k-lamar09/cds/releases/download/C4t.P3l1S/P3L1S.2O23.m3u
-#EXTINF:-1 tvg-logo="", PELIS ESP
-https://raw.githubusercontent.com/hoyusnet/hoyusnet.github.io/refs/heads/M3U/Peliculas%20-%20Esp.m3u
 
 DIBUJOS,ANIME Y TV
 
@@ -91,7 +63,7 @@ https://github.com/tokio14-dot/tv/releases/download/q.521/FUNCIONAL.X.m3u
 
 
 #EXTINF:-1 tvg-logo="",prueba
-https://raw.githubusercontent.com/efren70/peliculas/refs/heads/main/peliculas.m3u
+
 
 #EXTINF:-1 tvg-logo=""group-title="",FUTBOL VIVO
 https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
