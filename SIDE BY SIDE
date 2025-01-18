@@ -53,8 +53,10 @@ https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/PELICULAS.m3u
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
 #EXTINF:-1 tvg-logo="",4K cimax
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/4k.m3u
-#EXTINF:-1 tvg-logo="",server
+#EXTINF:-1 tvg-logo="",PELIS server
 https://github.com/k-lamar09/cds/releases/download/C4t.P3l1S/P3L1S.2O23.m3u
+#EXTINF:-1 tvg-logo="", PELIS ESP
+
 
 DIBUJOS,ANIME Y TV
 
