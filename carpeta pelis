@@ -3,8 +3,8 @@
 
 #EXTINF:-1 tvg-logo="",d
 
-#EXTINF:-1 tvg-logo="",t
-
+#EXTINF:-1 tvg-logo="",PEL
+https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/meSignalF.m3u
 #EXTINF:-1 tvg-logo="",2024
 https://raw.githubusercontent.com/pertenet/listasSSIPTV/refs/heads/main/P(2024).m3u
 #EXTINF:-1 tvg-logo="",2023
