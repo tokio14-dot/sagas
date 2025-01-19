@@ -279,6 +279,7 @@ _____1995
 
 #EXTINF:-1 tvg-logo="",
 
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/guO9RDcyL6PhJO7VWRX10TfWs5I.jpg",Operación trueno (1995)
 https://archive.org/download/operacion-trueno-1995-jackie-chan/Operacin%20Trueno%201995%20Jackie%20Chan%20.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/i8IusfEMq967mLJGZ8s4G1tQvSB.jpg",Showgirls (1995)
@@ -307,6 +308,8 @@ https://archive.org/download/gravity-2013/Braveheart%20%281995%29.mp4
 
 _____1994
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/idxrqBhOYPCSdYMkzMBPLjGkg5K.jpg",Stargate: la puerta del tiempo (1994)
+http://archive.org/download/npr82752_zoqqa_1_20190323/subid0_p4r4_stre4ming_a85/1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3s3vfZ5JcDbSqaEynpSu6KPveos.jpg",Hércules y el círculo de fuego (1994)
 https://archive.org/download/HrculesYElCrculoDeFuego/H%C3%A9rcules%20y%20el%20c%C3%ADrculo%20de%20fuego.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bWjvYgY2kfhnfzvEDk96yiCz2oJ.jpg",Speed 2: Cruise Control (1997)
