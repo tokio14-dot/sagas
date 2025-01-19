@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",VODprueba
+https://raw.githubusercontent.com/michelotero25/oteroiptv.live/fc4ee2eb9155530949e3ece265bd9b2a1cdc72e9/Vod%20prueba.m3u
 #EXTINF:-1 tvg-logo="",meSignalVOD 1
 https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/meSignalMPIV.m3u
 #EXTINF:-1 tvg-logo="",meSignalVOD 2
