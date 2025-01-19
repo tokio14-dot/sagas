@@ -10,6 +10,8 @@ https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd
 https://raw.githubusercontent.com/pertenet/listasSSIPTV/refs/heads/main/P(2024).m3u
 #EXTINF:-1 tvg-logo="",2023
 https://raw.githubusercontent.com/pertenet/listasSSIPTV/refs/heads/main/P(2023).m3u
+#EXTINF:-1 tvg-logo="",2022
+https://raw.githubusercontent.com/michelotero25/oteroiptv.live/fc4ee2eb9155530949e3ece265bd9b2a1cdc72e9/Peliculas%202022.m3u
 #EXTINF:-1 tvg-logo="", HERBERTM3
 https://raw.githubusercontent.com/HERBERTM3/iptv/refs/heads/main/peliculas%20MP4.m3u
 #EXTINF:-1 tvg-logo="",playfree
