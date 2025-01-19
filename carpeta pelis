@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",d
-
+#EXTINF:-1 tvg-logo="",meSignalVOD
+https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/meSignalVOD.m3u
 #EXTINF:-1 tvg-logo="",PEL
 https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/meSignalF.m3u
 #EXTINF:-1 tvg-logo="",2024
