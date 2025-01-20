@@ -11,13 +11,12 @@ RECITALES
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/recitales
 
 SERIES
-
+#EXTINF:-1 tvg-logo="",SERIES
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Series
 
 PELICULAS
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yWen5FVTUMCfCKWSqZW74KBGZSX.jpg",olmedo y porcel
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Olmedo%20y%20porcel
-#EXTINF:-1 tvg-logo="",PELICULAS
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/carpeta%20pelis
 
 
 DIBUJOS,ANIME Y TV
@@ -48,17 +47,6 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/tv
 https://m3u.cl/lista/total.m3u
 #EXTINF:-1 tvg-logo=""group-title="",Funcional X
 https://github.com/tokio14-dot/tv/releases/download/q.521/FUNCIONAL.X.m3u
-
-
-#EXTINF:-1 tvg-logo="",prueba
-
-
-#EXTINF:-1 tvg-logo=""group-title="",FUTBOL VIVO
-https://github.com/k-lamar09/cds/releases/download/C4t3g0r14s/P4cK.FUtB0L.m3u
-#EXTINF:-1 tvg-logo="",VIBO 2
-
-#EXTINF:-1 tvg-logo="",MUSICA
-https://raw.githubusercontent.com/junguler/m3u-audiobooks/aceb330866984b8cbd4fb5669aee63361bab4e5a/old_time_radio/Ff/fmm15minuteseries.m3u
 
 #EXTINF:-1 tvg-logo="",XXX
 https://raw.githubusercontent.com/djtaly/iptv/refs/heads/main/adultoxs.m3u
