@@ -1,8 +1,5 @@
 #EXTM3U
 
-
-
-
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
@@ -21,3 +18,9 @@ https://raw.githubusercontent.com/werty76/epgiptvparaamigos/refs/heads/master/WW
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/refs/heads/master/WWE%20Rivals
 #EXTINF:-1 tvg-logo="",WWE WrestleMania XL 2024
 https://raw.githubusercontent.com/werty76/epgiptvparaamigos/refs/heads/master/WWE%20WrestleMania%20XL%202024.m3u
+
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",capitulo 1 Los miércoles son tristes
+https://uqload.co/embed-wtkmb6g2i8om.html
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",capitulo 2 La tristeza es solitaria
+https://uqload.co/embed-vple1vfmy5nw.html
