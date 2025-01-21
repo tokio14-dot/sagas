@@ -49,8 +49,6 @@ https://github.com/k-lamar09/cds/releases/download/C4t.P3l1S/P3L1S.2O23.m3u
 #EXTINF:-1 tvg-logo="", PELIS ESP
 https://raw.githubusercontent.com/hoyusnet/hoyusnet.github.io/refs/heads/M3U/Peliculas%20-%20Esp.m3u
 #EXTINF:-1 tvg-logo="",25.sc
-#EXTINF:-1 tvg-logo="",PELICULAS
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/carpeta%20pelis
 
 #EXTINF:-1 tvg-logo=""group-title="",mati prueba
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Pel%C3%ADculas%202
