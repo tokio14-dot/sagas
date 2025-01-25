@@ -526,8 +526,8 @@ https://archive.org/download/estan-vivos-1988/Est%C3%A1n%20Vivos%20%281988%29.mp
 
 _____1987
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l9XqePuOg1vMYJOk0HHC97fRnhQ.jpg",Los intocables de Eliot Ness (1987)
+https://archive.org/download/none-sd/NONE%20SD.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bqH855fh8b9WtIsxXAsRGpQdtnO.jpg",Escape de Sobibor (1987)
 https://archive.org/download/sobi_20230505/sobi2.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aj3BgF1h1iRjcjRuqFV6ZxZoMiE.jpg",Milagro en la calle 8
