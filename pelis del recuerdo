@@ -351,8 +351,8 @@ ______1993
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wy9Kb7GOOhYR5qXLFk5NL3rKTQe.jpg",Amityville: A New Generation (1993)
+https://archive.org/download/0047-amityville-7-el-rostro/0047-Amityville%207%20-%20El%20Rostro.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fB6ptpWE2DU2ZNRJYz42XR1fyvr.jpg",(FHD)El fugitivo (1993)
 https://archive.org/download/the-fugitive-1993_202409/THE%20FUGITIVE%20%20%281993%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fB6ptpWE2DU2ZNRJYz42XR1fyvr.jpg",El fugitivo (1993)
@@ -493,12 +493,11 @@ https://archive.org/download/4-presunto-inocente/6-Ver%20El%20Principiante%20%28
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tQ4XrcdisW2FGp9VH2LhkLEJNYG.jpg",Aquí huele a muerto... (¡Pues yo no he sido!) (1990)
 https://archive.org/download/aqui-huele-a-muerto/aqui%20huele%20a%20muerto.avi
 
-______1987
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pWQCQGq7xCnJbeEkidYyR4rkvXF.jpg",La ley del deseo (1987)
-https://archive.org/download/la-ley-del-deseo-1987-law-of-desire-bdrip-1080p-high-code/La%20ley%20del%20deseo%201987%20%28Law%20of%20Desire%29%20BDRip%201080p-%20HighCode.mp4
+
 
 ______1989
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/r8JVrEI01gAeJX4iYTpZiQok7N0.jpg",Amityville: The Evil Escapes (1989)
+https://archive.org/download/0046-amityville-4-la-fuga-del-mal/0046-Amityville%204%20-%20La%20Fuga%20Del%20Mal.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iqXHhAuBYIf7IeDWlvXZQVlFqq7.jpg",Este muerto está muy vivo (1989)
 https://dl.dropbox.com/s/y6vombn3hc53si8/Este%20muerto%20esta%20muy%20vivo.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5hYntCZGK8rl2VY8TRPH9Txu44G.jpg",La Sociedad de los Poetas Muertos (1989)
@@ -523,6 +522,8 @@ https://archive.org/download/estan-vivos-1988/Est%C3%A1n%20Vivos%20%281988%29.mp
 
 _____1987
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pWQCQGq7xCnJbeEkidYyR4rkvXF.jpg",La ley del deseo (1987)
+https://archive.org/download/la-ley-del-deseo-1987-law-of-desire-bdrip-1080p-high-code/La%20ley%20del%20deseo%201987%20%28Law%20of%20Desire%29%20BDRip%201080p-%20HighCode.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/l9XqePuOg1vMYJOk0HHC97fRnhQ.jpg",Los intocables de Eliot Ness (1987)
 https://archive.org/download/none-sd/NONE%20SD.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bqH855fh8b9WtIsxXAsRGpQdtnO.jpg",Escape de Sobibor (1987)
