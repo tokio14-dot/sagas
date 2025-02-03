@@ -1,5 +1,6 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-logo="",tv
+https://raw.githubusercontent.com/CRACKED10PRO/SSIPTV-CLIENTE2/437bff88e370ba34f592a51537a1b983c35384a4/BELTRANLOAYSA.M3U8
 #EXTINF:-1 tvg-logo="",linea 1
 https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/meSignal*.m3u
 #EXTINF:-1 tvg-logo="",linea 2
