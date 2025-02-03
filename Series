@@ -12,7 +12,8 @@ https://raw.githubusercontent.com/david2803/Iptv/eb6b86a32db95d5421f49fee548f460
 #EXTINF:-1 tvg-logo="",NCIS temp 1-19
 https://raw.githubusercontent.com/antonio7129/NCIS-temp.1-al-19/refs/heads/main/NCIS%20.m3u
 #EXTINF:-1 tvg-logo="",SERIES
-
+#EXTINF:-1 tvg-logo="",SERIES 2.0
+https://raw.githubusercontent.com/angel200881/chann/e59116a6ada8236d27a6471dd199d9e1022a0465/series.m3u8
 
 
 
