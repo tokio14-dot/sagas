@@ -1,8 +1,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="",
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZJG6Vbs/animaniacs.png" group-title="cartoon",ANIMANIACS
- 
-http://archive.org/download/listasaqui_ymail4_Alf/ANIMANIACS.m3u
+ http://archive.org/download/listasaqui_ymail4_Alf/ANIMANIACS.m3u
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nrR1kHw/avataraang-1.jpg" grupo-title="dibujos animados",Avatar el ultimo maestro aire 
 https://dl.dropbox.com/s/ooxygr67gn4mtsx/AL.m3u 
