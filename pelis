@@ -2,8 +2,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",10
+https://raw.githubusercontent.com/MDBV2023/IPTV/d69cf697316c605a56491f78bdf8dfe361ad966e/Pelis1.m3u
 #EXTINF:-1 tvg-logo="",11
 https://raw.githubusercontent.com/antonio7129/Nuevas-Pelis-11/refs/heads/main/Nuevas%20Pelis%2011.M3U
 
@@ -13,8 +13,8 @@ https://raw.githubusercontent.com/antonio7129/Nuevas-Pelis-20/refs/heads/main/Nu
 #EXTINF:-1 tvg-logo="",19
 https://raw.githubusercontent.com/antonio7129/Nuevas-Pelis-19/refs/heads/main/Nuevas%20Pelis%2019.M3U
 
-#EXTINF:-1 tvg-logo="",25
-
+#EXTINF:-1 tvg-logo="",20
+https://raw.githubusercontent.com/MDBV2023/IPTV/d69cf697316c605a56491f78bdf8dfe361ad966e/Pelis.m3u
 
 #EXTINF:-1 tvg-logo="",26
 
