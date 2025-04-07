@@ -3,38 +3,35 @@
 https://raw.githubusercontent.com/Matnos2/listas/main/Animes/peliculas-animes.m3u
 #EXTINF:-1 tvg-logo="",MEGAPELICULAS
 https://raw.githubusercontent.com/jsosao/chann/2dcd83a2266fab47f6dc297017f41d17581983a0/MEGAMOVIES.m3u8
-#EXTINF:-1 tvg-logo="",VODprueba
-https://raw.githubusercontent.com/michelotero25/oteroiptv.live/fc4ee2eb9155530949e3ece265bd9b2a1cdc72e9/Vod%20prueba.m3u
+
 #EXTINF:-1 tvg-logo="",meSignalVOD 1
 https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/meSignalMPIV.m3u
 #EXTINF:-1 tvg-logo="",meSignalVOD 2
 https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/meSignalVOD.m3u
 #EXTINF:-1 tvg-logo="",meSignalVOD 3
 https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/signal2.m3u
-#EXTINF:-1 tvg-logo="",2025
-https://raw.githubusercontent.com/CRACKED10PRO/SSIPTV-CLIENTE2/refs/heads/main/IVONPELICULAS.M3U8
-#EXTINF:-1 tvg-logo="",2024
-https://raw.githubusercontent.com/pertenet/listasSSIPTV/refs/heads/main/P(2024).m3u
-#EXTINF:-1 tvg-logo="",2024(0P2)
-https://raw.githubusercontent.com/CRACKED10PRO/ESTRENOS-2024/refs/heads/main/1)%20ESTRENOS%202024.m3u8
-#EXTINF:-1 tvg-logo="",2024(OP3)
-https://raw.githubusercontent.com/rb1223/devmaster/refs/heads/main/tv2025movie2025.m3u
+
+#EXTINF:-1 tvg-logo="",
+
+
+#EXTINF:-1 tvg-logo="",
+
 #EXTINF:-1 tvg-logo="",2023
 https://raw.githubusercontent.com/pertenet/listasSSIPTV/refs/heads/main/P(2023).m3u
-#EXTINF:-1 tvg-logo="",2023(OP2)
-https://raw.githubusercontent.com/CRACKED10PRO/ESTRENOS-2023/refs/heads/main/2)%20ESTRENOS%202023.m3u8
+#EXTINF:-1 tvg-logo="",
+
 #EXTINF:-1 tvg-logo="",2022
 https://raw.githubusercontent.com/michelotero25/oteroiptv.live/fc4ee2eb9155530949e3ece265bd9b2a1cdc72e9/Peliculas%202022.m3u
-#EXTINF:-1 tvg-logo="",2000
-https://raw.githubusercontent.com/rb1223/devmaster/refs/heads/main/tv2025movie2000.m3u
+#EXTINF:-1 tvg-logo="",
+
 
 #EXTINF:-1 tvg-logo="", HERBERTM3
 https://raw.githubusercontent.com/HERBERTM3/iptv/refs/heads/main/peliculas%20MP4.m3u
 #EXTINF:-1 tvg-logo="",playfree
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/playfree
-#EXTINF:-1 tvg-logo="",P3LIs
-https://github.com/k-lamar09/cds/releases/download/MKc-08/S3RV3R.03.m3u
-#EXTINF:-1 tvg-logo="",P3LIs 2
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",P3LIs 
 https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/PELICULAS.m3u
 #EXTINF:-1 tvg-logo="",antonio7129
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis
@@ -44,9 +41,8 @@ https://archive.org/download/masallasdeljardin/peliculas.m3u
 https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/MPELIS.m3u8
 #EXTINF:-1 tvg-logo="",PELIS 3
 https://raw.githubusercontent.com/antonio7129/Pelis-29/refs/heads/main/Pelis%2029.M3U
-#EXTINF:-1 tvg-logo="",PELIS 3.0
 
-#EXTINF:-1 tvg-logo="",PELIS 3.2
+#EXTINF:-1 tvg-logo="",PELIS 3.0
 https://raw.githubusercontent.com/gvssvg/project/refs/heads/main/Peliculas%203.m3u
 #EXTINF:-1 tvg-logo="",STEEL PELI
 https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/STEEL%20PELI.m3u
