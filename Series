@@ -11,11 +11,23 @@ https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Series.m3u
 https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/series.m3u8
 #EXTINF:-1 tvg-logo="",SERIES 3
 https://raw.githubusercontent.com/david2803/Iptv/eb6b86a32db95d5421f49fee548f460c99f58465/K%26D_Series.m3u
-#EXTINF:-1 tvg-logo="",NCIS temp 1-19
-https://raw.githubusercontent.com/antonio7129/NCIS-temp.1-al-19/refs/heads/main/NCIS%20.m3u
+#EXTINF:-1 tvg-logo="",
+
+
+
 #EXTINF:-1 tvg-logo="",SERIES
+https://raw.githubusercontent.com/MDBV2023/IPTV/d69cf697316c605a56491f78bdf8dfe361ad966e/Serie.m3u
+#EXTINF:-1 tvg-logo="",SERIES 1
+https://raw.githubusercontent.com/MDBV2023/IPTV/d69cf697316c605a56491f78bdf8dfe361ad966e/Series.m3u
+#EXTINF:-1 tvg-logo="",SERIES 1.0
+https://raw.githubusercontent.com/MDBV2023/IPTV/d69cf697316c605a56491f78bdf8dfe361ad966e/Series1.m3u
+#EXTINF:-1 tvg-logo="",SERIES 2
+
 #EXTINF:-1 tvg-logo="",SERIES 2.0
-https://raw.githubusercontent.com/angel200881/chann/e59116a6ada8236d27a6471dd199d9e1022a0465/series.m3u8
+
+
+
+
 
 
 
