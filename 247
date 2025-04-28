@@ -1,25 +1,12 @@
 #EXTM3U
 
-
-
-#EXTINF:-1,MY TV TELEVISION CLASICA
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
-#EXTINF:-1,BOREAL TELEVISION
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-#EXTINF:-1,TV RETRO
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
-#EXTINF:-1,FRECUENCIA MUSICAL TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1,CHAVO DEL 8
-http://nxt.plus:8080/jesus01/jesus01/91926.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
-#EXTINF:-1,CHESPIRITO
-http://nxt.plus:8080/jesus01/jesus01/91927
-#EXTINF:-1,CHAPULIN COLORADO
-http://nxt.plus:8080/jesus01/jesus01/91928
-#EXTINF:-1,MY TV TELEVISION CLASICA
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Accion Classics FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Accion Classics FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50572
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Horror Classics HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Horror Classics HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50574
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Comedia FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Comedia FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50575
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema DC Comics FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema DC Comics FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50576
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema DC Universe HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema DC Universe HD
@@ -28,10 +15,14 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50577
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50578
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Disney Pixar FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Disney Pixar FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50579
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Dreamworks FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Dreamworks FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50580
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Familia FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Familia FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50581
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Happy Madison FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Happy Madison FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50582
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Horror FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Horror FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50583
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Lego Movies FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Lego Movies FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50584
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Marvel Animated FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Marvel Animated FHD
@@ -54,6 +45,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50596
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50597
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP El Laboratorio de Dexter SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Laboratorio de Dexter SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50598
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Futurama HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Futurama HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50599
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Happy tree friends FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Happy tree friends FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50601
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Jimmy Neutron SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Jimmy Neutron SD
@@ -68,6 +61,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50610
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50611
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Lo Mejor de Donald SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lo Mejor de Donald SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50612
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Los Locos Adams" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Locos Adams
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50615
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Los Simpsons FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Simpsons FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50616
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Los Simpsons Horror HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Los Simpsons Horror HD
@@ -94,19 +89,48 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50628
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50630
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Rick y Morty FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Rick y Morty FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50631
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP South Park FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP South Park FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50632
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Talking Tom FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Talking Tom FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50633
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP 31 Minutos HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP 31 Minutos HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50635
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Sailor Moon SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Sailor Moon SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50636
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Tiny Toons SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Tiny Toons SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50642
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Z" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball Z
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/35448
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado Inmigracion SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado Inmigracion SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49159
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado La Familia 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49160
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado La Familia 3 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado La Familia 3 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49162
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Laura Bozzo SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Laura Bozzo SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49163
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Miguelito SD (Chile)" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Miguelito SD (Chile)
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49164
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Mayday Catastrofes Aereas SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Mayday Catastrofes Aereas SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49166
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Mundo De Beakman Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Mundo De Beakman Temp 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49168
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Los Angeles SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 NCIS Los Angeles SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49181
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Magnificos Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Magnificos Temp 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49182
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGiver (2016) Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 MacGiver (2016) Temp 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49186
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 ER Sala de Urgencias SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 ER Sala de Urgencias SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49188
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los 3 Chiflados SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los 3 Chiflados SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49190
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hechizada Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hechizada Temp 1 SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49192
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Niñera Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Niñera Temp 1 SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49198
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends Temp 1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Friends Temp 1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49199
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Paso A Paso SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Paso A Paso SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49203
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 2 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Vecinos Temp 2 SD
@@ -115,6 +139,10 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49208
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49209
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos Temp 4 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Vecinos Temp 4 SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49210
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Paradise PD SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Paradise PD SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49214
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Brickleberry SD (+15)" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Brickleberry SD (+15)
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49217
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de Mickey Mouse SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Casa de Mickey Mouse SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/49233
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Doctora Juguete SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 La Doctora Juguete SD
@@ -149,9 +177,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58068
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58069
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="24/7 VIP Retro Simpsons SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Retro Simpsons SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58071
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP 31 Minutos SD " tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP 31 Minutos SD 
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58073
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Bob Esponja SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Bob Esponja SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58076
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball HD
@@ -166,22 +193,84 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58086
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58088
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Amazon Kids (Test) FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Amazon Kids (Test) FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58090
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Lo Mejor de Pluto SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Lo Mejor de Pluto SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58101
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58105
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball Super 2 Saga Universo 6 y Goku Black HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58106l
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58106
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Dragon Ball Super 3 Saga de la Supervivencia Universal HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Dragon Ball Super 3 Saga de la Supervivencia Universal HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58107
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Supercampeones SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Supercampeones SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58109
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP El Chavo HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP El Chavo HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58120
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Chespirito TV" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Chespirito TV
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58121
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Mr.Bean SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Mr.Bean SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58123
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cocina Real TV FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cocina Real TV FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58127
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Hagalo Usted Mismo TV" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Hagalo Usted Mismo TV
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58131
+
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="24/7 Cantinflas HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Cantinflas HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58264
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58265
+#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="24/7 Coraje SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Coraje SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58267
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball GT HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58271
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball Super HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58273
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo Del 8 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Chavo Del 8 SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58278
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe De Rap SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Principe De Rap SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58284
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Principe Del Rap 2 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El Principe Del Rap 2 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58285
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Friends HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58291
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las aventuras de Tom Sawyer SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Las aventuras de Tom Sawyer SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58298
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Caballeros del Zodiaco SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los Caballeros del Zodiaco SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58301
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los pequeños Tom y Jerry SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Los pequeños Tom y Jerry SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58310
+#EXTINF:-1 tvg-id="" tvg-name="24/7 11 Los Simpsons HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 Los Simpsons HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58314
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MALCOLM SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 MALCOLM SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58317
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pajaro Loco HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Pajaro Loco HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58322
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Timon y Pumba HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Timon y Pumba HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58230
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Big Bang Theory FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 The Big Bang Theory FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58228
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supercampeones SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Supercampeones SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58223
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes  1 SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Looney Tunes  1 SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58207
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Guerra De Bestias Transformers SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Guerra De Bestias Transformers SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58188
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Espíritu de lucha SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Espíritu de lucha SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58182
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El show de Scooby Doo y ScrappyDoo SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 El show de Scooby Doo y ScrappyDoo SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58179
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="24/7 Dr House HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dr House HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58177
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Capitan Futuro SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Capitan Futuro SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58167
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Capitán Centella SD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Capitán Centella SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58168
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Transformers Prime HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Transformers Prime HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58233
+#EXTINF:-1 tvg-id="" tvg-name="24/7 11 SuperGirl HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 11 SuperGirl HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58224
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold" tvg-logo="https://reseller.tvla.xyz/resize.php?max=42&url=https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Hey Arnold
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333116
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Ciencia Ficcion HD" tvg-logo="http://puntoz.xyz/LOGOS/cinemaficcion.png" group-title="Canales 24/7",24/7 Cinema Ciencia Ficcion HD
@@ -190,6 +279,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333120
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333121
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cine Estelar HD" tvg-logo="http://puntoz.xyz/LOGOS/cine_estelar.png" group-title="Canales 24/7",24/7 Cine Estelar HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333122
+#EXTINF:-1 tvg-id="" tvg-name="24/7 13 Now Kids" tvg-logo="http://puntoz.net/LOGOS/13NOWKIDS1.png" group-title="Canales 24/7",24/7 13 Now Kids
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333123
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Chu Chu TV HD" tvg-logo="http://puntoz.net/LOGOS/chuchutv.png" group-title="Canales 24/7",24/7 Chu Chu TV HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333124
 #EXTINF:-1 tvg-id="" tvg-name="24/7 PlayKids HD" tvg-logo="http://puntoz.net/LOGOS/playkids128.png" group-title="Canales 24/7",24/7 PlayKids HD
@@ -209,14 +300,16 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333131
 #EXTINF:-1 tvg-id="" tvg-name="Aaahh Real Monsters" tvg-logo="https://puntoz.xyz/LOGOS/ahhhmonstruos.png" group-title="Canales 24/7",Aaahh Real Monsters
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333132
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Agreetsuko HD" tvg-logo="https://puntoz.xyz/LOGOS/agreetsuko.png" group-title="Canales 24/7",24/7 Agreetsuko HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333133
 #EXTINF:-1 tvg-id="" tvg-name="24/ 7Alf" tvg-logo="https://puntoz.xyz/LOGOS/ALF.png" group-title="Canales 24/7",24/ 7Alf
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333134
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Big Mouth HD" tvg-logo="http://puntoz.net/LOGOS/bigmouth.png" group-title="Canales 24/7",24/7 Big Mouth HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333135
-#EXTINF:-1 tvg-id="" tvg-name="24/ 7Buzz Lightyear" tvg-logo="http://puntoz.xyz/LOGOS/BuzzLightyea0r.png" group-title="Canales 24/7",24/ 7Buzz Lightyear
+#EXTINF:-1 tvg-id="" tvg-name="24/ 7Buzz Lightyear" tvg-logo="http://puntoz.xyz/LOGOS/BuzzLightyear.png" group-title="Canales 24/7",24/ 7Buzz Lightyear
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333136
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicas Superpoderosas" tvg-logo="https://dl.dropboxusercontent.com/s/c90stem0d14pp6a/chicassuperpoderosas.png" group-title="Canales 24/7",24/7 Chicas Superpoderosas
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333137
 #EXTINF:-1 tvg-id="" tvg-name="24/7 DC Hero Super Girls" tvg-logo="http://puntoz.xyz/LOGOS/DCSHG_square_logo.png" group-title="Canales 24/7",24/7 DC Hero Super Girls
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333138
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon" tvg-logo="http://puntoz.xyz/LOGOS/Doraemon.png" group-title="Canales 24/7",24/7 Doraemon
@@ -245,7 +338,10 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333149
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333150
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Little Pet Shop" tvg-logo="http://puntoz.xyz/LOGOS/littlepetshop.png" group-title="Canales 24/7",24/7 Little Pet Shop
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333151
-#EXTINF:-1 tvg-name="24/7 Lo Mejor de Mickey" tvg-logo="http://puntoz.xyz/LOGOS/mickey.png" group-title="Canales 24/7",24/7 Lo Mejor de Mickey
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lo Mejor de Mickey" tvg-logo="http://puntoz.xyz/LOGOS/mickey.png" group-title="Canales 24/7",24/7 Lo Mejor de Mickey
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333152
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes" tvg-logo="http://puntoz.xyz/LOGOS/looneytunes.png" group-title="Canales 24/7",24/7 Looney Tunes
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333153
@@ -257,7 +353,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333155
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333156
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Gatos Samurai" tvg-logo="http://puntoz.xyz/LOGOS/losgatossamurai.png" group-title="Canales 24/7",24/7 Los Gatos Samurai
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333157
-
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Simpsons Latinos HD" tvg-logo="http://puntoz.xyz/LOGOS/lossimsponsltinos128.png" group-title="Canales 24/7",24/7 Los Simpsons Latinos HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333158
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Mickey Mouse Channel" tvg-logo="http://puntoz.xyz/LOGOS/mickey_mouse.png" group-title="Canales 24/7",24/7 Mickey Mouse Channel
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333159
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pato Darwing" tvg-logo="http://puntoz.xyz/LOGOS/patodarwin.png" group-title="Canales 24/7",24/7 Pato Darwing
@@ -272,6 +369,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333163
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333164
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Teen Titans GO" tvg-logo="http://puntoz.xyz/LOGOS/teetansgo.png" group-title="Canales 24/7",24/7 Teen Titans GO
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333165
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tortugas Ninja" tvg-logo="http://puntoz.xyz/LOGOS/tortugasninja.png" group-title="Canales 24/7",24/7 Tortugas Ninja
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333166
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Winnie the Pooh" tvg-logo="https://dl.dropboxusercontent.com/s/lgmkyo6bdun96hg/winnie.png" group-title="Canales 24/7",24/7 Winnie the Pooh
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333167
 #EXTINF:-1 tvg-id="" tvg-name="24/7 YoHoo and Friends" tvg-logo="http://puntoz.net/LOGOS/YooHoo.and.Friends.png" group-title="Canales 24/7",24/7 YoHoo and Friends
@@ -280,6 +379,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333168
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333169
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cine Mania HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Cine Mania HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333170
+#EXTINF:-1 tvg-id="" tvg-name="24/7 RT Doc HD" tvg-logo="http://puntoz.xyz/LOGOS/rtdoc.png" group-title="Canales 24/7",24/7 RT Doc HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333171
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema Accion Classics HD" tvg-logo="http://puntoz.xyz/LOGOS/cinemaccionclassic.png" group-title="Canales 24/7",24/7 Cinema Accion Classics HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333172
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Johnny Bravo" tvg-logo="http://puntoz.net/LOGOS/jhonnybravo.png" group-title="Canales 24/7",24/7 Johnny Bravo
@@ -292,6 +393,12 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333175
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333176
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Looney Tunes Show" tvg-logo="http://puntoz.net/LOGOS/looneytunes.png" group-title="Canales 24/7",24/7 Looney Tunes Show
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333177
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedras" tvg-logo="http://puntoz.net/LOGOS/lospicapiedras.png" group-title="Canales 24/7",24/7 Los Picapiedras
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333178
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos" tvg-logo="http://puntoz.net/LOGOS/losupersonicos.png" group-title="Canales 24/7",24/7 Los Supersonicos
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333179
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Mickey Mouse" tvg-logo="http://puntoz.net/LOGOS/mickey_mouse.png" group-title="Canales 24/7",24/7 Mickey Mouse
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333180
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pato Aventura" tvg-logo="http://puntoz.net/LOGOS/patoaventura.png" group-title="Canales 24/7",24/7 Pato Aventura
@@ -304,14 +411,28 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333183
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333184
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Romance Channel HD" tvg-logo="http://puntoz.xyz/LOGOS/romancechannel.png" group-title="Canales 24/7",24/7 Romance Channel HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333185
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Halloween Channel HD" tvg-logo="http://puntoz.xyz/LOGOS/halloweenchannellogo128.png" group-title="Canales 24/7",24/7 Halloween Channel HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333186
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Almacen" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/almacen.png" group-title="Canales 24/7",24/7 Almacen
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333187
+#EXTINF:-1 tvg-id="" tvg-name="24/7 A Orillas del Río" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/aorillasdelrio.png" group-title="Canales 24/7",24/7 A Orillas del Río
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333188
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Azul Profundo" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/azulprofundo.png" group-title="Canales 24/7",24/7 Azul Profundo
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333189
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Casa de Muñecos" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/casamunecas.png" group-title="Canales 24/7",24/7 Casa de Muñecos
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333190
 #EXTINF:-1 tvg-id="" tvg-name="24/7 De Aquí Vengo yo" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/aquivengoyo.png" group-title="Canales 24/7",24/7 De Aquí Vengo yo
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333191
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Celebración" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/celebracion.png" group-title="Canales 24/7",24/7 Celebración
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333192
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Chic! Cazadores de Tendencias" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/chic.png" group-title="Canales 24/7",24/7 Chic! Cazadores de Tendencias
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333193
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Comer y Sanar" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/comerysanar.png" group-title="Canales 24/7",24/7 Comer y Sanar
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333194
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dem3nte" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/demente.png" group-title="Canales 24/7",24/7 Dem3nte
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333195
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Disfruta la ruta" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/disfrutalaruta.png" group-title="Canales 24/7",24/7 Disfruta la ruta
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333196
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Doble Tentación" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/dobletentacion.png" group-title="Canales 24/7",24/7 Doble Tentación
@@ -322,6 +443,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333198
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333199
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Retador" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/elretador.png" group-title="Canales 24/7",24/7 El Retador
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333200
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Eres mi tesoro" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/eresmitesoro.png" group-title="Canales 24/7",24/7 Eres mi tesoro
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333201
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Genios de la carne" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/geniosdelacarne.png" group-title="Canales 24/7",24/7 Genios de la carne
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333202
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pan Comido" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/pancomido.png" group-title="Canales 24/7",24/7 Pan Comido
@@ -342,12 +465,17 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333209
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333210
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Vuelta a la manzana" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/vueltaalamanzana.png" group-title="Canales 24/7",24/7 Vuelta a la manzana
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333211
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Yo soy Lorenzo" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/yosoylorenzo.png" group-title="Canales 24/7",24/7 Yo soy Lorenzo
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333212
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La carpa de los sueños" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/lacarpadelossuenos.png" group-title="Canales 24/7",24/7 La carpa de los sueños
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333213
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Caceria" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/lacaceria.png" group-title="Canales 24/7",24/7 La Caceria
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333214
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Colonia" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/lacolonia.png" group-title="Canales 24/7",24/7 La Colonia
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333215
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Adiós al Séptimo de Línea" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/adiosalseptimodelinea.png" group-title="Canales 24/7",24/7 Adiós al Séptimo de Línea
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333216
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Martín" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/martin.png" group-title="Canales 24/7",24/7 Martín
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333217
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Neruda" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/neruda.png" group-title="Canales 24/7",24/7 Neruda
@@ -360,6 +488,10 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333220
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333221
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hijos del Desierto" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/hijosdeldesierto.png" group-title="Canales 24/7",24/7 Hijos del Desierto
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333222
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hasta encontrarte" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/hastaencontrarte.png" group-title="Canales 24/7",24/7 Hasta encontrarte
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333223
+#EXTINF:-1 tvg-id="" tvg-name=".24/7 Gran Hermano Chile en Vivo" tvg-logo="http://puntoz.xyz/LOGOS/granhermanochile.png" group-title="Canales 24/7",.24/7 Gran Hermano Chile en Vivo
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333225
 
 
 
@@ -375,3 +507,15 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333222
 
 
 ..........._______
+
+
+
+
+
+
+
+
+
+
+
+#E
