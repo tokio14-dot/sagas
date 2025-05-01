@@ -116,9 +116,6 @@ http://181.78.106.127:9000/play/ca025/index.m3u8
 #EXTINF:-1,tigo sport
 http://181.78.106.127:9000/play/ca038/index.m3u8
 
-#EXTINF:-1, Estudio Universal sd 544
-http://181.78.106.127:9000/play/ca088/index.m3u8
-
 #EXTINF:-1, fox sport sd 640
 http://181.78.106.127:9000/play/ca031/index.m3u8
 
