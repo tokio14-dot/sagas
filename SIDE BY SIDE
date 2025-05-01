@@ -9,7 +9,9 @@ DEPORTE
 #EXTINF:-1 tvg-logo="",SPORTS
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Sports
 
-
+PLATAFORM TV
+#EXTINF:-1 tvg-logo="",PLATAFORM TV
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Plataformastv
 
 SERIES
 #EXTINF:-1 tvg-logo="",SERIES
