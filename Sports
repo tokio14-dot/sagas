@@ -45,6 +45,67 @@ http://2.magmas5.com:8000/MarcRestrream/XRCAIK0SFX/151931
 
 
 
+#EXTINF:-1, ESPN1 HD
+
+http://181.205.130.194:4000/play/a07j
+
+#EXTINF:-1, ESPN2 HD
+
+http://181.205.130.194:4000/play/a07i
+
+#EXTINF:-1, espn HD
+
+http://170.39.192.130:2095/56942505562play/060123play/316503
+
+#EXTINF:-1, ESPN2 (1280)
+
+http://206.62.161.192:8000/play/a0h8/index.m3u8
+
+#EXTINF:-1,Wplus
+
+http://152.231.29.139:8000/play/a0cd/index.m3u8
+
+#EXTINF:-1,espn (1280)
+
+http://190.60.33.237:1010/play/a0ee/index.m3u8
+
+#EXTINF:-1, espn2 (1280)
+
+http://190.60.33.237:1010/play/a0en/index.m3u8
+
+##EXTINF:-1, warner (720)
+
+#http://200.60.124.19:29000/play/a013
+
+##EXTINF:-1, espn (720)
+
+#http://200.60.124.19:29000/play/a016
+
+##EXTINF:-1, espn2 (720)
+
+#http://200.60.124.19:29000/play/a015
+
+##EXTINF:-1, espn3 (720)
+
+#http://200.60.124.19:29000/play/a02e
+
+##EXTINF:-1,espn5 (720)
+
+#http://200.60.124.19:29000/play/a04y
+
+##EXTINF:-1,espn6 (720)
+
+#http://200.60.124.19:29000/play/a01f
+
+##EXTINF:-1, espn7 (720)
+
+#http://200.60.124.19:29000/play/a01e
+
+##EXTINF:-1,FX (720)
+
+#http://200.60.124.19:29000/play/a029
+
+
 
 
 
