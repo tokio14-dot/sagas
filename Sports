@@ -96,51 +96,48 @@ http://200.60.124.19:29000/play/a029
 
 
 #EXTINF:-1,espn fhd
-
 http://181.78.106.127:9000/play/ca033/index.m3u8
 
 #EXTINF:-1,espn2 fhd
-
 http://181.78.106.127:9000/play/ca034/index.m3u8
 
 #EXTINF:-1,espn3 fhd
-
 http://181.78.106.127:9000/play/ca035/index.m3u8
 
 #EXTINF:-1, espn4 fhd
 http://181.78.106.127:9000/play/ca036/index.m3u8
 
-EXTINF:-1,Liga
+#EXTINF:-1,Liga
 http://181.78.106.127:9000/play/ca027/index.m3u8
 
-EXTINF:-1, tudn 1280
+#EXTINF:-1, tudn 1280
 http://181.78.106.127:9000/play/ca025/index.m3u8
 
-EXTINF:-1,tigo sport
+#EXTINF:-1,tigo sport
 http://181.78.106.127:9000/play/ca038/index.m3u8
 
-EXTINF:-1, Estudio Universal sd 544
+#EXTINF:-1, Estudio Universal sd 544
 http://181.78.106.127:9000/play/ca088/index.m3u8
 
-EXTINF:-1, fox sport sd 640
+#EXTINF:-1, fox sport sd 640
 http://181.78.106.127:9000/play/ca031/index.m3u8
 
-EXTINF:-1, fox sport2 hd 1280
+#EXTINF:-1, fox sport2 hd 1280
 http://181.78.106.127:9000/play/ca032/index.m3u8
 
-EXTINF:-1,sky sport 1280
+#EXTINF:-1,sky sport 1280
 http://181.78.106.127:9000/play/ca028/index.m3u8
 
 #EXTINF:-1,sky sport2 fhd
 http://181.78.106.127:9000/play/ca029/index.m3u8
 
-EXTINF:-1,sky sport3 fhd
+#EXTINF:-1,sky sport3 fhd
 http://181.78.106.127:9000/play/ca030/index.m3u8
 
-EXTINF:-1, fox sport mx sd 640
+#EXTINF:-1, fox sport mx sd 640
 http://181.78.106.127:9000/play/ca031/index.m3u8
 
-EXTINF:-1, claro deporte
+#EXTINF:-1, claro deporte
 http://181.78.106.127:9000/play/ca038/index.m3u8
 
 
