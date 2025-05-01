@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="",PELICULAS ANIME
 https://raw.githubusercontent.com/Matnos2/listas/main/Animes/series-animes.m3u
 #EXTINF:-1 tvg-logo="",MEGAPELICULAS
-https://raw.githubusercontent.com/jsosao/chann/2dcd83a2266fab47f6dc297017f41d17581983a0/MEGAMOVIES.m3u8
+http://mylatinotvmoon.com:8080/Freddy/Freddy321456/1726914
 
 #EXTINF:-1 tvg-logo="",meSignalVOD 1
 https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/meSignalMPIV.m3u
