@@ -4,6 +4,13 @@ RECITALES
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61VCjYh9uNL._AC_UF1000,1000_QL80_.jpg",RECITALES
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/recitales
 
+
+DEPORTE
+#EXTINF:-1 tvg-logo="",SPORTS
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Sports
+
+
+
 SERIES
 #EXTINF:-1 tvg-logo="",SERIES
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Series
