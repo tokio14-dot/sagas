@@ -58,15 +58,15 @@ https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
 https://raw.githubusercontent.com/angel200881/chann/e59116a6ada8236d27a6471dd199d9e1022a0465/MPELIS.m3u8
 #EXTINF:-1 tvg-logo="",P plus
 
-#EXTINF:-1 tvg-logo="",PELIS server
-https://github.com/k-lamar09/cds/releases/download/C4t.P3l1S/P3L1S.2O23.m3u
+#EXTINF:-1 tvg-logo="",
+
 #EXTINF:-1 tvg-logo="", PELIS ESP
 https://raw.githubusercontent.com/hoyusnet/hoyusnet.github.io/refs/heads/M3U/Peliculas%20-%20Esp.m3u
 #EXTINF:-1 tvg-logo="",25.cc
 
 
-#EXTINF:-1 tvg-logo="",VARIEDADES
-https://raw.githubusercontent.com/CHINOLISTAS/tv/bb3c5567c0f1c9c8bf02bb686b67ff7ca026f562/chinolistas3.m3u
+#EXTINF:-1 tvg-logo=""
+  
 
 
 
