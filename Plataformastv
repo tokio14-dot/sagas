@@ -8,7 +8,6 @@ https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/refs/heads/main/tv/m3u
 https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_AR.m3u
 #EXTINF:-1 tvg-logo=""group-title="",Runtime_TV
 https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
-
 #EXTINF:-1 tvg-logo=""group-title="",SamsungTVplus_ES
 https://raw.githubusercontent.com/HelmerLuzo/SamsungTVPlus_HL/refs/heads/main/tv/m3u/SamsungTVPlus_tv_ES.m3u
 #EXTINF:-1 tvg-logo=""group-title="",
