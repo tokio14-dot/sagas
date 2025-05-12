@@ -4,10 +4,8 @@ RECITALES
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/61VCjYh9uNL._AC_UF1000,1000_QL80_.jpg",RECITALES
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/recitales
 
-#EXTINF:-1 tvg-logo=""group-title="",TOKIO TK
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Movies/Hollywood/Movies.m3u
 
-#EXTINF:-1 tvg-logo=""group-title="",TOKIO TK 2
+#EXTINF:-1 tvg-logo=""group-title="",TOKIO TK 
 https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Movies/VOD/Movies.m3u
 
 DEPORTE
