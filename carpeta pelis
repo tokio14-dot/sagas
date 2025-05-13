@@ -1,4 +1,8 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo=""group-title="",2015a2022
+https://raw.githubusercontent.com/appjava/signal/4508820e8974e09e4f772d92ffb479e8c110e420/meiptv/signal2.m3u
 #EXTINF:-1 tvg-logo="",PELICULAS ANIME
 https://raw.githubusercontent.com/Matnos2/listas/main/Animes/series-animes.m3u
 #EXTINF:-1 tvg-logo="",MEGAPELICULAS
@@ -33,10 +37,7 @@ https://raw.githubusercontent.com/michelotero25/oteroiptv.live/fc4ee2eb915553094
 https://raw.githubusercontent.com/HERBERTM3/iptv/refs/heads/main/peliculas%20MP4.m3u
 #EXTINF:-1 tvg-logo="",playfree
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/playfree
-#EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",P3LIs 
-https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/PELICULAS.m3u
 #EXTINF:-1 tvg-logo="",antonio7129
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis
 #EXTINF:-1 tvg-logo="",PELIS
