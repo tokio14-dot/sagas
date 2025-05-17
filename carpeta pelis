@@ -30,8 +30,8 @@ https://raw.githubusercontent.com/pertenet/listasSSIPTV/refs/heads/main/P(2023).
 
 #EXTINF:-1 tvg-logo="",2022
 https://raw.githubusercontent.com/michelotero25/oteroiptv.live/fc4ee2eb9155530949e3ece265bd9b2a1cdc72e9/Peliculas%202022.m3u
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",catalo 
+https://raw.githubusercontent.com/rojasrony12/channels/refs/heads/main/MOVIES.m3u
 
 #EXTINF:-1 tvg-logo="", HERBERTM3
 https://raw.githubusercontent.com/HERBERTM3/iptv/refs/heads/main/peliculas%20MP4.m3u
