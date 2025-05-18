@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 ,24/7 | Dragon Ball Z Saga Cell
+https://dnslivetv.online:443/7336/1234/1078390.m3u8
 #EXTINF:-1,Dragon Ball
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
 #EXTINF:-1,24/7: DRAGON BALL
@@ -20,6 +22,13 @@ https://dnslivetv.online:443/7336/1234/1078657.m3u8
 http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/298796.m3u8
 #EXTINF:-1, LOS SIMPSON
 http://canal-pro.xyz:8080/74macu58ge56ha48/37wepe98maze34/769
+#EXTINF:-1 ,24/7 | Los Simpsons Casitas del Horror
+https://dnslivetv.online:443/7336/1234/1078392.m3u8
+
+#EXTINF:-1 ,24/7 I | Timon & Pumba
+https://dnslivetv.online:443/7336/1234/1078396.m3u8
+
+
 
 #EXTINF:-1,Dr HOUSE 24/7
 http://ultrapremium.cloud:8080/962904224tv/946j6z/250477
