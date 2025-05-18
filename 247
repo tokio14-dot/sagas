@@ -19,6 +19,10 @@ https://stream.gia.tv/giatvplayout7/giatv-209650/playlist.ts.m3u8
 http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
 #EXTINF:-1 ,24/7 CANTINFLAS
 https://dnslivetv.online:443/7336/1234/1078657.m3u8
+#EXTINF:-1 ,M. CLASICOS (OP1)
+https://dnslivetv.online:443/7336/1234/593940.m3u8
+#EXTINF:-1 ,M. CLASICOS (OP2)
+https://dnslivetv.online:443/7336/1234/593941.m3u8
 
 #EXTINF:-1,LOS SIMPSONS 24/7 
 http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/298796.m3u8
