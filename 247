@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 ",Adult Swim LA
+http://181.119.86.1:8000/play/a019
+
 
 #EXTINF:-1 ",PITUFO TV 
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
@@ -263,7 +266,8 @@ https://dnslivetv.online:443/7336/1234/1078702.m3u8
 https://dnslivetv.online:443/7336/1234/1078706.m3u8
 
 
-
+#EXTINF:-1",MEMORIAS SERIES
+https://cloud2.streaminglivehd.com:1936/8120/8120/playlist.m3u8  
 #EXTINF:-1 ,FM Super Classic
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-1,MY TV TELEVISION CLASICA
