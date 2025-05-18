@@ -55,7 +55,8 @@ https://dnslivetv.online:443/7336/1234/1078546.m3u8
 https://dnslivetv.online:443/7336/1234/1078549.m3u8
 #EXTINF:-1 ,HALLOWEEN 09
 https://dnslivetv.online:443/7336/1234/1078551.m3u8
-
+#EXTINF:-1,24/7||| NOVELAS
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 ,FM Super Classic
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
