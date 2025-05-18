@@ -1,24 +1,25 @@
 #EXTM3U
 
-#EXTM3U
-
+#EXTINF:-1,Dragon Ball
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
 #EXTINF:-1,24/7: DRAGON BALL
 http://canal-pro.xyz:8080/74macu58ge56ha48/37wepe98maze34/697
 #EXTINF:-1,24/7*Dragon Ball Super
 https://stream.gia.tv/giatvplayout7/giatv-208708/playlist.m3u8
-#EXTINF:-1,24/7: LOS SIMPSON
-http://canal-pro.xyz:8080/74macu58ge56ha48/37wepe98maze34/769
+
 #EXTINF:-1,24/7: EL CHAVO DEL 8
 https://stream.gia.tv/giatvplayout7/giatv-209650/playlist.ts.m3u8
 #EXTM3U
-#EXTINF:-1,Dragon Ball
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/dbsuperlat/chunks.m3u8
 
 #EXTINF:-1,LOS 3 CHIFLADOS 24/7
 http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
+#EXTINF:-1 ,24/7 CANTINFLAS
+https://dnslivetv.online:443/7336/1234/1078657.m3u8
 
 #EXTINF:-1,LOS SIMPSONS 24/7 
 http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/298796.m3u8
+#EXTINF:-1, LOS SIMPSON
+http://canal-pro.xyz:8080/74macu58ge56ha48/37wepe98maze34/769
 
 #EXTINF:-1,Dr HOUSE 24/7
 http://ultrapremium.cloud:8080/962904224tv/946j6z/250477
