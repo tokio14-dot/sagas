@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 ,ESTRENOS
+https://dnslivetv.online:443/7336/1234/1078480.m3u8
+
 #EXTINF:-1 ,24/7 | Dragon Ball Z Saga Cell
 https://dnslivetv.online:443/7336/1234/1078390.m3u8
 #EXTINF:-1,Dragon Ball
