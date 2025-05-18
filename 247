@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:-1 ,24/7 | Cine Ficción
+https://dnslivetv.online:443/7336/1234/1078506.m3u8
+#EXTINF:-1 ,TERROR 24/7
+https://dnslivetv.online:443/7336/1234/1078507.m3u8
 #EXTINF:-1 ,24/7 | Happy Madison 2
 https://dnslivetv.online:443/7336/1234/1078505.m3u8
 #EXTINF:-1 ,ESTRENOS
@@ -42,6 +45,17 @@ http://ultrapremium.cloud:8080/962904224tv/946j6z/250477
 
 #EXTINF:-1,LOONEY TUNES 24/7 
 http://masterprotv1.com:8080/live/56983589845wspzero/200821zero/34382.ts
+
+
+#EXTINF:-1 ,HALLOWEEN 02
+https://dnslivetv.online:443/7336/1234/1078544.m3u8
+#EXTINF:-1 ,HALLOWEEN 04
+https://dnslivetv.online:443/7336/1234/1078546.m3u8
+#EXTINF:-1 ,HALLOWEEN 07
+https://dnslivetv.online:443/7336/1234/1078549.m3u8
+#EXTINF:-1 ,HALLOWEEN 09
+https://dnslivetv.online:443/7336/1234/1078551.m3u8
+
 
 #EXTINF:-1 ,FM Super Classic
 https://s2.tvdatta.com:3307/hybrid/play.m3u8
