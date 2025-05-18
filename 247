@@ -1,6 +1,16 @@
 #EXTM3U
 
 
+#EXTINF:-1 ",PITUFO TV 
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
+#EXTINF:-1 ",PITUFO TV op2
+https://d37tco1tcfe7t3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r9bay52lyuk44/smrfs.m3u8
+#EXTINF:-1 ",PITUFO TV op3
+https://jmp2.uk/sam-ESBD130000205.m3u8
+#EXTINF:-1 ",PITUFO TV op4
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&avod=1&coppa=1&is_lat=1
+#EXTINF:-1 ", Angry Birds 24/7
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
 
 
@@ -37,10 +47,6 @@ https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078495
 
 #EXTINF:-1 , Dragon Ball Z Saga Cell
 https://dnslivetv.online:443/7336/1234/1078390.m3u8
-
-
-
-
 #EXTINF:-1,Dragon Ball Super
 https://stream.gia.tv/giatvplayout7/giatv-208708/playlist.m3u8
 
