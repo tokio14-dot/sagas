@@ -76,21 +76,13 @@ https://dnslivetv.online:443/7336/1234/1078518.m3u8
 https://dnslivetv.online:443/7336/1234/1078521.m3u8
 #EXTINF:-1 ,LATINO 04
 https://dnslivetv.online:443/7336/1234/1078523.m3u8
-#EXTINF:-1 ,LATINO 05
-https://dnslivetv.online:443/7336/1234/1078524.m3u8
 #EXTINF:-1 ,LATINO 06
 https://dnslivetv.online:443/7336/1234/1078525.m3u8
 #EXTINF:-1 ,LATINO 07
 https://dnslivetv.online:443/7336/1234/1078526.m3u8
-#EXTINF:-1 ,24/7 COMEDIA
-https://dnslivetv.online:443/7336/1234/1078528.m3u8
-#EXTINF:-1 ,LATINO 10
-https://dnslivetv.online:443/7336/1234/1078530.m3u8
-#EXTINF:-1 ,LATINO 03
-https://dnslivetv.online:443/7336/1234/1078531.m3u8
+
 #EXTINF:-1 ,INFANTIL 24/7
 https://dnslivetv.online:443/7336/1234/1078532.m3u8
-#EXTINF:-1 ,NAVIDAD 24/7
 #EXTINF:-1 ,NAVIDAD 24/7
 https://dnslivetv.online:443/7336/1234/1078533.m3u8
 #EXTINF:-1 ,BOLIVIA 24/7
@@ -737,12 +729,6 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333220
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333221
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Hijos del Desierto" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/hijosdeldesierto.png" group-title="Canales 24/7",24/7 Hijos del Desierto
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333222
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Hasta encontrarte" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/hastaencontrarte.png" group-title="Canales 24/7",24/7 Hasta encontrarte
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333223
-#EXTINF:-1 tvg-id="" tvg-name=".24/7 Gran Hermano Chile en Vivo" tvg-logo="http://puntoz.xyz/LOGOS/granhermanochile.png" group-title="Canales 24/7",.24/7 Gran Hermano Chile en Vivo
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333225
-
-
 
 
 
