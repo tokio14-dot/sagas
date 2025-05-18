@@ -13,7 +13,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&avod=1&coppa=1&is_lat
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
 
 
-
+#EXTINF:-1 ",SHARK TANK MEXICO 24/7
+https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 ",SONY SHARK TANK op2
+https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 ",BBC DOCTOR WHO
 https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/playlist.m3u8
 #EXTINF:-1 ",MR BEAN
