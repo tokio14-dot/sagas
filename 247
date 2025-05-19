@@ -41,21 +41,6 @@ http://masterprotv1.com:8080/live/56983589845wspzero/200821zero/34382.ts
 #EXTINF:-1 ",Angry Birds Locuras de verano
 https://dnslivetv.online:443/7336/1234/1078486.m3u8
 
-
-#EXTINF:-1 ",SHARK TANK MEXICO 24/7
-https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 ",SONY SHARK TANK op2
-https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 ",BBC DOCTOR WHO
-https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/playlist.m3u8
-#EXTINF:-1 ",MR BEAN
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:1",Dr HOUSE
-http://ultrapremium.cloud:8080/962904224tv/946j6z/250477
-#EXTINF:-0,Dr HOUSE 24/7
-http://ultrapremium.cloud:8080/962904224tv/946j6z/250477
-
-
 #EXTGRP:ANIME
 #EXTINF:-1 ,24/7 Campeones: Oliver y Benji
 https://dnslivetv.online:443/7336/1234/1078706.m3u8
@@ -159,14 +144,10 @@ https://dnslivetv.online:443/7336/1234/1078595.m3u8
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078595
 #EXTINF:-1 ,24/7 Futurama
 https://dnslivetv.online:443/7336/1234/1078684.m3u8
-#EXTGRP
-
-#EXTINF:-1 ,INFANTIL 24/7
-https://dnslivetv.online:443/7336/1234/1078532.m3u8
 
 
 
-
+#EXTGRP:SAGA
 #EXTINF:-1 ' ,Saga (Avatar)
 https://dnslivetv.online:443/7336/1234/1078599.m3u8
 #EXTINF:-1 , Saga (Marvel Heroes)
@@ -195,6 +176,20 @@ https://dnslivetv.online:443/7336/1234/1078611.m3u8
 https://dnslivetv.online:443/7336/1234/1078612.m3u8
 #EXTINF:-1 , Saga (Crepusculo)
 https://dnslivetv.online:443/7336/1234/1078613.m3u8
+
+#EXTGRP:SERIES
+#EXTINF:-1 ",SHARK TANK MEXICO 24/7
+https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 ",SONY SHARK TANK op2
+https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ",BBC DOCTOR WHO
+https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-drwhospain-rakutenes/playlist.m3u8
+#EXTINF:-1 ",MR BEAN
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:1",Dr HOUSE
+http://ultrapremium.cloud:8080/962904224tv/946j6z/250477
+#EXTINF:-0,Dr HOUSE 24/7
+http://ultrapremium.cloud:8080/962904224tv/946j6z/250477
 #EXTINF:-1 , De tú a tú
 https://dnslivetv.online:443/7336/1234/1078620.m3u8
 #EXTINF:-1 , Mamá a los 15
@@ -213,19 +208,19 @@ https://dnslivetv.online:443/7336/1234/1078626.m3u8
 https://dnslivetv.online:443/7336/1234/1078632.m3u8
 #EXTINF:-1 , Sábado Gigante
 https://dnslivetv.online:443/7336/1234/1078635.m3u8
-#EXTINF:-1 ,24/7 La granja de zenon
+#EXTINF:-1 , La granja de zenon
 https://dnslivetv.online:443/7336/1234/1078644.m3u8
-#EXTINF:-1 ,24/7 Sin Senos no hay Paraíso
+#EXTINF:-1 , Sin Senos no hay Paraíso
 https://dnslivetv.online:443/7336/1234/1078645.m3u8
-#EXTINF:-1 ,24/7 Mi gorda bella
+#EXTINF:-1 , Mi gorda bella
 https://dnslivetv.online:443/7336/1234/1078680.m3u8
-#EXTINF:-1 ,24/7 Vecinos.
+#EXTINF:-1 , Vecinos.
 https://dnslivetv.online:443/7336/1234/1078681.m3u8
-#EXTINF:-1 ,24/7 El juego del calamar
+#EXTINF:-1 , El juego del calamar
 https://dnslivetv.online:443/7336/1234/1078683.m3u8
-#EXTINF:-1 ,24/7 Pablo Escobar: El Patrón del Mal
+#EXTINF:-1 , Pablo Escobar: El Patrón del Mal
 https://dnslivetv.online:443/7336/1234/1078686.m3u8
-#EXTINF:-1 ,24/7 Smallville
+#EXTINF:-1 , Smallville
 https://dnslivetv.online:443/7336/1234/1078687.m3u8
 #EXTINF:-1 ", Alerta Aeropuerto
 https://dnslivetv.online:443/7336/1234/1078388.m3u8
@@ -233,7 +228,7 @@ https://dnslivetv.online:443/7336/1234/1078388.m3u8
 https://dnslivetv.online:443/7336/1234/1078499.m3u8
 
 
-
+#EXTGRP:SEMANA SANTA
 #EXTINF:-1 ,24/7 SEMANA SANTA 10
 https://dnslivetv.online:443/7336/1234/1078661.m3u8
 #EXTINF:-1 ,24/7 SEMANA SANTA 9
@@ -248,7 +243,9 @@ https://dnslivetv.online:443/7336/1234/1078668.m3u8
 https://dnslivetv.online:443/7336/1234/1078670.m3u8
 
 
-SOLO CINE
+#EXTGRP:SOLO CINE
+#EXTINF:-1 ,INFANTIL 24/7
+https://dnslivetv.online:443/7336/1234/1078532.m3u8
 #EXTINF:-1 ,24/7 | CINEMA 05
 https://dnslivetv.online:443/7336/1234/1078695.m3u8
 #EXTINF:-1 ,24/7 | CINEMA 08
