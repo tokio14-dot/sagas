@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="",Adult swin HD
+http://190.0.241.181:8000/play/a0al/index.m3u8
 #EXTINF:-1 ",Adult Swim LA
 http://181.119.86.1:8000/play/a019
 
