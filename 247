@@ -2,15 +2,11 @@
 
 
 
-
-
 #EXTINF:-1 ",Adult Swim LA
 http://181.119.86.1:8000/play/a019
 
 #EXTINF:-1 tvg-logo="",nose 24/7
 https://dnslivetv.online:443/7336/1234/1078700.m3u8
-
-
 
 
 #EXTGRP:INFANTILES 
@@ -93,8 +89,7 @@ https://stream.gia.tv/giatvplayout7/giatv-208708/playlist.m3u8
 https://dnslivetv.online:443/7336/1234/1078703.m3u8
 
 #EXTGRP:CLASSIC
-#EXTINF:-1,CHAVO DEL 8
-http://nxt.plus:8080/jesus01/jesus01/91926.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
+
 #EXTINF:-1,CHESPIRITO
 http://nxt.plus:8080/jesus01/jesus01/91927
 #EXTINF:-1,CHAPULIN COLORADO
@@ -105,7 +100,12 @@ https://dnslivetv.online:443/7336/1234/1078659.m3u8
 https://stream.gia.tv/giatvplayout7/giatv-209650/playlist.ts.m3u8
 #EXTINF:-1 ", El Chavo Del 8
 https://dnslivetv.online:443/7336/1234/1078489.m3u8
+#EXTINF:-1,CHAVO DEL 8
+http://nxt.plus:8080/jesus01/jesus01/91926.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
 #EXTINF:-1 ",LOS 3 CHIFLADOS 24/7
+http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
+#EXTINF:0,LOS 3 CHIFLADOS 24/7
+#EXTGRP:Bics Extra
 http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
 #EXTINF:-1 , CANTINFLAS
 https://dnslivetv.online:443/7336/1234/1078657.m3u8
