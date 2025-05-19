@@ -34,6 +34,9 @@ https://dnslivetv.online:443/7336/1234/1078651.m3u8
 https://dnslivetv.online:443/7336/1234/1078396.m3u8
 #EXTINF:-1 ",LOONEY TUNES 24/7 
 http://masterprotv1.com:8080/live/56983589845wspzero/200821zero/34382.ts
+#EXTINF:0,LOONEY TUNES 24/7 
+http://masterprotv1.com:8080/live/56983589845wspzero/200821zero/34382.ts
+
 #EXTINF:-1 ",Angry Birds Locuras de verano
 https://dnslivetv.online:443/7336/1234/1078486.m3u8
 
@@ -105,7 +108,6 @@ http://nxt.plus:8080/jesus01/jesus01/91926.m3u8?deviceId=0&deviceVersion=0&appVe
 #EXTINF:-1 ",LOS 3 CHIFLADOS 24/7
 http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
 #EXTINF:0,LOS 3 CHIFLADOS 24/7
-#EXTGRP:Bics Extra
 http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
 #EXTINF:-1 , CANTINFLAS
 https://dnslivetv.online:443/7336/1234/1078657.m3u8
