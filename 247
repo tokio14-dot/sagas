@@ -12,7 +12,7 @@ http://181.119.86.1:8000/play/a016
 http://181.119.86.1:8000/play/a028
 #EXTINF:-1 tvg-logo="",NICKELODEON 
 http://181.119.86.1:8000/play/a030
-#EXTINF:-1 tvg-logo="",HBO PREMIUM 
+#EXTINF:-1 tvg-logo="", Discovery ID
 http://181.119.86.1:8000/play/a046
 
 
