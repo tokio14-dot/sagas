@@ -10,9 +10,10 @@ http://181.119.86.1:8000/play/a019
 http://181.119.86.1:8000/play/a016
 #EXTINF:-1 tvg-logo="",ok
 http://181.119.86.1:8000/play/a028
-#EXTINF:-1 tvg-logo="",ok
+#EXTINF:-1 tvg-logo="",NICKELODEON 
 http://181.119.86.1:8000/play/a030
-
+#EXTINF:-1 tvg-logo="",HBO PREMIUM 
+http://181.119.86.1:8000/play/a046
 
 
 
