@@ -4,6 +4,7 @@
 http://181.119.86.1:8000/play/a019
 
 
+INFANTILES 
 #EXTINF:-1 ",PITUFO TV 
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 ",PITUFO TV op2
@@ -14,6 +15,18 @@ https://jmp2.uk/sam-ESBD130000205.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&avod=1&coppa=1&is_lat=1
 #EXTINF:-1 ", Angry Birds 24/7
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547
+#EXTINF:-1 ,24/7 Peppa Pig
+https://dnslivetv.online:443/7336/1234/1078500.m3u8
+#EXTINF:-1 ",La princesa Sofia 24/7
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078594
+#EXTINF:-1 ,24/7 PAW Patrol: Patrulla de cachorros
+https://dnslivetv.online:443/7336/1234/1078651.m3u8
+#EXTINF:-1 ",Timon & Pumba
+https://dnslivetv.online:443/7336/1234/1078396.m3u8
+#EXTINF:-1 ",LOONEY TUNES 24/7 
+http://masterprotv1.com:8080/live/56983589845wspzero/200821zero/34382.ts
+#EXTINF:-1 ",Angry Birds Locuras de verano
+https://dnslivetv.online:443/7336/1234/1078486.m3u8
 
 
 #EXTINF:-1 ",SHARK TANK MEXICO 24/7
@@ -25,13 +38,21 @@ https://amg00793-amg00793c15-rakuten-es-5359.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 ",MR BEAN
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 ",Padre de Familia 24/7
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078595
-#EXTINF:-1 ",La princesa Sofia 24/7
-https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078594
 
+ANIME
+
+#EXTINF:-1 ,24/7 Campeones: Oliver y Benji
+https://dnslivetv.online:443/7336/1234/1078706.m3u8
+#EXTINF:-1 ",24/7 Ranma ½
+https://dnslivetv.online:443/7336/1234/1078643.m3u8
+#EXTINF:-1 ",Los Caballeros del Zodiaco
+https://dnslivetv.online:443/7336/1234/1078482.m3u8
+#EXTINF:-1 ",24/7 One Punch Man
+https://dnslivetv.online:443/7336/1234/1078541.m3u8
 #EXTINF:-1 ",Pokemon
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078575
+#EXTINF:-1 ",Pokemon
+https://dnslivetv.online:443/7336/1234/1078575.m3u8
 #EXTINF:-1 ",Samurai X
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078641
 #EXTINF:-1 ", Fullmetal Alchemist Brotherhood
@@ -50,64 +71,196 @@ https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078503
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078494
 #EXTINF:-1 ",lego Friends: El nuevo capítulo
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078495
+#EXTINF:-1 ", ThunderCats
+https://dnslivetv.online:443/7336/1234/1078483.m3u8
+#EXTINF:-1 ", Halcones Galacticos
+https://dnslivetv.online:443/7336/1234/1078491.m3u8
 
-#EXTINF:-1 , Dragon Ball Z Saga Cell
+
+
+DRAGON BALL
+https://dnslivetv.online:443/7336/1234/1078671.m3u8
+#EXTINF:-1 ,24/7 SAGA (DRAGON BALL)
+https://dnslivetv.online:443/7336/1234/1078673.m3u8
+#EXTINF:-1 ,24/7 Dragon Ball GT
+https://dnslivetv.online:443/7336/1234/1078674.m3u8
+#EXTINF:-1 ,24/7 Dragon Ball Z
+https://dnslivetv.online:443/7336/1234/1078676.m3u8
+#EXTINF:-1 ", Dragon Ball Z Saga Cell
 https://dnslivetv.online:443/7336/1234/1078390.m3u8
 #EXTINF:-1,Dragon Ball Super
 https://stream.gia.tv/giatvplayout7/giatv-208708/playlist.m3u8
 
-#EXTINF:-1, EL CHAVO DEL 8
-https://stream.gia.tv/giatvplayout7/giatv-209650/playlist.ts.m3u8
-#EXTM3U
 
-#EXTINF:-1,LOS 3 CHIFLADOS 24/7
+CLASSIC
+
+#EXTINF:-1,CHAVO DEL 8
+http://nxt.plus:8080/jesus01/jesus01/91926.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
+#EXTINF:-1,CHESPIRITO
+http://nxt.plus:8080/jesus01/jesus01/91927
+#EXTINF:-1,CHAPULIN COLORADO
+http://nxt.plus:8080/jesus01/jesus01/91928
+#EXTINF:-1 ,24/7 El Chavo del Ocho
+https://dnslivetv.online:443/7336/1234/1078659.m3u8
+#EXTINF:-1", EL CHAVO DEL 8
+https://stream.gia.tv/giatvplayout7/giatv-209650/playlist.ts.m3u8
+#EXTINF:-1 ", El Chavo Del 8
+https://dnslivetv.online:443/7336/1234/1078489.m3u8
+#EXTINF:-1 ",LOS 3 CHIFLADOS 24/7
 http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
 #EXTINF:-1 , CANTINFLAS
 https://dnslivetv.online:443/7336/1234/1078657.m3u8
-#EXTINF:-1 ,M. CLASICOS (OP1)
-https://dnslivetv.online:443/7336/1234/593940.m3u8
-#EXTINF:-1 ,M. CLASICOS (OP2)
-https://dnslivetv.online:443/7336/1234/593941.m3u8
+#EXTINF:-1 ,Los 80
+https://dnslivetv.online:443/7336/1234/1078628.m3u8
+#EXTINF:-1 ,PISTOLEROS 24/7
+https://dnslivetv.online:443/7336/1234/1078538.m3u8
+#EXTINF:-1 ,FIGHTERS 24/7
+https://dnslivetv.online:443/7336/1234/1078539.m3u8
+#EXTINF:-1",MEMORIAS SERIES
+https://cloud2.streaminglivehd.com:1936/8120/8120/playlist.m3u8  
+#EXTINF:-1 ,FM Super Classic
+https://s2.tvdatta.com:3307/hybrid/play.m3u8
+#EXTINF:-1,MY TV TELEVISION CLASICA
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
+#EXTINF:-1,BOREAL TELEVISION
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1,TV RETRO
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1,FRECUENCIA MUSICAL TV
+https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:-1,MY TV TELEVISION CLASICA
+https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
 
-#EXTINF:-1,LOS SIMPSONS 24/7 
+
+LOS SIMPSON
+#EXTINF:-1 ,Los Simpson
+https://dnslivetv.online:443/7336/1234/1078660.m3u8
+#EXTINF:-1 ",LOS SIMPSONS 24/7 
 http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/298796.m3u8
-#EXTINF:-1, LOS SIMPSON
-http://canal-pro.xyz:8080/74macu58ge56ha48/37wepe98maze34/769
-#EXTINF:-1 ,Los Simpsons Casitas del Horror
+#EXTINF:-1 ",Los Simpsons Casitas del Horror
 https://dnslivetv.online:443/7336/1234/1078392.m3u8
+#EXTINF:-1 ",Padre de Familia 24/7
+https://dnslivetv.online:443/7336/1234/1078595.m3u8
+#EXTINF:-1 ",Padre de Familia 24/7
+https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078595
+#EXTINF:-1 ,24/7 Futurama
+https://dnslivetv.online:443/7336/1234/1078684.m3u8
 
-#EXTINF:-1 ,Timon & Pumba
-https://dnslivetv.online:443/7336/1234/1078396.m3u8
-#EXTINF:-1 , Alerta Aeropuerto
-https://dnslivetv.online:443/7336/1234/1078388.m3u8
+
+#EXTINF:-1 ,INFANTIL 24/7
+https://dnslivetv.online:443/7336/1234/1078532.m3u8
 
 
-#EXTINF:-1,Dr HOUSE 24/7
+
+#EXTINF:-1 ",Dr HOUSE 24/7
 http://ultrapremium.cloud:8080/962904224tv/946j6z/250477
-
-#EXTINF:-1,LOONEY TUNES 24/7 
-http://masterprotv1.com:8080/live/56983589845wspzero/200821zero/34382.ts
-
-
-#EXTINF:-1 ,Los Caballeros del Zodiaco
-https://dnslivetv.online:443/7336/1234/1078482.m3u8
-#EXTINF:-1 , ThunderCats
-https://dnslivetv.online:443/7336/1234/1078483.m3u8
-#EXTINF:-1 ,24/7 Angry Birds: Locuras de verano
-https://dnslivetv.online:443/7336/1234/1078486.m3u8
-#EXTINF:-1 , El Chavo Del 8
-https://dnslivetv.online:443/7336/1234/1078489.m3u8
-#EXTINF:-1 , Halcones Galacticos
-https://dnslivetv.online:443/7336/1234/1078491.m3u8
-#EXTINF:-1 ,24/7 La Casa de Mickey Mouse
-https://dnslivetv.online:443/7336/1234/1078493.m3u8
+#EXTINF:-1 ' ,Saga (Avatar)
+https://dnslivetv.online:443/7336/1234/1078599.m3u8
+#EXTINF:-1 , Saga (Marvel Heroes)
+https://dnslivetv.online:443/7336/1234/1078600.m3u8
+#EXTINF:-1 , Saga ( SAW )
+https://dnslivetv.online:443/7336/1234/1078602.m3u8
+#EXTINF:-1 , Saga ( Volver al Futuro )
+https://dnslivetv.online:443/7336/1234/1078603.m3u8
+#EXTINF:-1 , Saga ( Harry Potter )
+https://dnslivetv.online:443/7336/1234/1078604.m3u8
+#EXTINF:-1 , Saga ( El Conjuro )
+https://dnslivetv.online:443/7336/1234/1078605.m3u8
+#EXTINF:-1 , Saga ( Annabelle )
+https://dnslivetv.online:443/7336/1234/1078606.m3u8
+#EXTINF:-1 , Saga (La Profecia)
+https://dnslivetv.online:443/7336/1234/1078607.m3u8
+#EXTINF:-1 , Saga (Batman)
+https://dnslivetv.online:443/7336/1234/1078608.m3u8
+#EXTINF:-1 , Saga (Jurassic Park)
+https://dnslivetv.online:443/7336/1234/1078609.m3u8
+#EXTINF:-1 , Saga (Star Trek)
+https://dnslivetv.online:443/7336/1234/1078610.m3u8
+#EXTINF:-1 , Saga (Robocop)
+https://dnslivetv.online:443/7336/1234/1078611.m3u8
+#EXTINF:-1 , Saga (Spy Kids)
+https://dnslivetv.online:443/7336/1234/1078612.m3u8
+#EXTINF:-1 , Saga (Crepusculo)
+https://dnslivetv.online:443/7336/1234/1078613.m3u8
+#EXTINF:-1 , De tú a tú
+https://dnslivetv.online:443/7336/1234/1078620.m3u8
+#EXTINF:-1 , Mamá a los 15
+https://dnslivetv.online:443/7336/1234/1078621.m3u8
+#EXTINF:-1 , El cuento del tío
+https://dnslivetv.online:443/7336/1234/1078622.m3u8
+#EXTINF:-1 , Cárcel de mujeres
+https://dnslivetv.online:443/7336/1234/1078623.m3u8
+#EXTINF:-1 , Casado con hijos
+https://dnslivetv.online:443/7336/1234/1078624.m3u8
+#EXTINF:-1 , El día menos pensado
+https://dnslivetv.online:443/7336/1234/1078625.m3u8
+#EXTINF:-1 , Mea culpa
+https://dnslivetv.online:443/7336/1234/1078626.m3u8
+#EXTINF:-1 , Socios por el mundo
+https://dnslivetv.online:443/7336/1234/1078632.m3u8
+#EXTINF:-1 , Sábado Gigante
+https://dnslivetv.online:443/7336/1234/1078635.m3u8
+#EXTINF:-1 ,24/7 La granja de zenon
+https://dnslivetv.online:443/7336/1234/1078644.m3u8
+#EXTINF:-1 ,24/7 Sin Senos no hay Paraíso
+https://dnslivetv.online:443/7336/1234/1078645.m3u8
+#EXTINF:-1 ,24/7 Mi gorda bella
+https://dnslivetv.online:443/7336/1234/1078680.m3u8
+#EXTINF:-1 ,24/7 Vecinos.
+https://dnslivetv.online:443/7336/1234/1078681.m3u8
+#EXTINF:-1 ,24/7 El juego del calamar
+https://dnslivetv.online:443/7336/1234/1078683.m3u8
+#EXTINF:-1 ,24/7 Pablo Escobar: El Patrón del Mal
+https://dnslivetv.online:443/7336/1234/1078686.m3u8
+#EXTINF:-1 ,24/7 Smallville
+https://dnslivetv.online:443/7336/1234/1078687.m3u8
+#EXTINF:-1 ", Alerta Aeropuerto
+https://dnslivetv.online:443/7336/1234/1078388.m3u8
 #EXTINF:-1 ,un héroe del corazón
 https://dnslivetv.online:443/7336/1234/1078499.m3u8
-#EXTINF:-1 ,24/7 Peppa Pig
-https://dnslivetv.online:443/7336/1234/1078500.m3u8
-#EXTINF:-1 ,24/7 | Happy Madison 2
+
+
+
+#EXTINF:-1 ,24/7 SEMANA SANTA 10
+https://dnslivetv.online:443/7336/1234/1078661.m3u8
+#EXTINF:-1 ,24/7 SEMANA SANTA 9
+https://dnslivetv.online:443/7336/1234/1078662.m3u8
+#EXTINF:-1 ,24/7 SEMANA SANTA 6
+https://dnslivetv.online:443/7336/1234/1078665.m3u8
+#EXTINF:-1 ,24/7 SEMANA SANTA 5
+https://dnslivetv.online:443/7336/1234/1078666.m3u8
+#EXTINF:-1 ,24/7 SEMANA SANTA 3
+https://dnslivetv.online:443/7336/1234/1078668.m3u8
+#EXTINF:-1 ,24/7 SEMANA SANTA
+https://dnslivetv.online:443/7336/1234/1078670.m3u8
+
+
+SOLO CINE
+#EXTINF:-1 ,24/7 | CINEMA 05
+https://dnslivetv.online:443/7336/1234/1078695.m3u8
+#EXTINF:-1 ,24/7 | CINEMA 08
+https://dnslivetv.online:443/7336/1234/1078698.m3u8
+#EXTINF:-1 ,24/7 | CINEMA 09
+https://dnslivetv.online:443/7336/1234/1078699.m3u8
+#EXTINF:-1 ,24/7 | CINEMA 12
+https://dnslivetv.online:443/7336/1234/1078702.m3u8
+#EXTINF:-1 ,HALLOWEEN 02
+https://dnslivetv.online:443/7336/1234/1078544.m3u8
+#EXTINF:-1 ,HALLOWEEN 04
+https://dnslivetv.online:443/7336/1234/1078546.m3u8
+#EXTINF:-1 ,HALLOWEEN 07
+https://dnslivetv.online:443/7336/1234/1078549.m3u8
+#EXTINF:-1 ,HALLOWEEN 09
+https://dnslivetv.online:443/7336/1234/1078551.m3u8
+#EXTINF:-1 ,AMAZON 3
+https://dnslivetv.online:443/7336/1234/1078648.m3u8
+#EXTINF:-1 ,AMAZON 5
+https://dnslivetv.online:443/7336/1234/1078650.m3u8
+#EXTINF:-1 ,AMAZON 7
+https://dnslivetv.online:443/7336/1234/1078652.m3u8
+#EXTINF:-1 , Happy Madison 2
 https://dnslivetv.online:443/7336/1234/1078505.m3u8
-#EXTINF:-1 ,24/7 | Cine Ficción
+#EXTINF:-1 , Cine Ficción
 https://dnslivetv.online:443/7336/1234/1078506.m3u8
 #EXTINF:-1 ,TERROR 24/7
 https://dnslivetv.online:443/7336/1234/1078507.m3u8
@@ -130,162 +283,6 @@ https://dnslivetv.online:443/7336/1234/1078525.m3u8
 #EXTINF:-1 ,LATINO 07
 https://dnslivetv.online:443/7336/1234/1078526.m3u8
 
-#EXTINF:-1 ,INFANTIL 24/7
-https://dnslivetv.online:443/7336/1234/1078532.m3u8
-#EXTINF:-1 ,NAVIDAD 24/7
-https://dnslivetv.online:443/7336/1234/1078533.m3u8
-#EXTINF:-1 ,BOLIVIA 24/7
-https://dnslivetv.online:443/7336/1234/1078535.m3u8
-#EXTINF:-1 ,RELIGION 24/7
-https://dnslivetv.online:443/7336/1234/1078537.m3u8
-#EXTINF:-1 ,PISTOLEROS 24/7
-https://dnslivetv.online:443/7336/1234/1078538.m3u8
-#EXTINF:-1 ,FIGHTERS 24/7
-https://dnslivetv.online:443/7336/1234/1078539.m3u8
-#EXTINF:-1 ,24/7 One Punch Man
-https://dnslivetv.online:443/7336/1234/1078541.m3u8
-#EXTINF:-1 ,HALLOWEEN 02
-https://dnslivetv.online:443/7336/1234/1078544.m3u8
-#EXTINF:-1 ,HALLOWEEN 04
-https://dnslivetv.online:443/7336/1234/1078546.m3u8
-#EXTINF:-1 ,HALLOWEEN 07
-https://dnslivetv.online:443/7336/1234/1078549.m3u8
-#EXTINF:-1 ,HALLOWEEN 09
-https://dnslivetv.online:443/7336/1234/1078551.m3u8
-#EXTINF:-1 ,24/7 | Pokemon
-https://dnslivetv.online:443/7336/1234/1078575.m3u8
-#EXTINF:-1 ,Padre de Familia 24/7
-https://dnslivetv.online:443/7336/1234/1078595.m3u8
-#EXTINF:-1 ,24/7 | Saga (Avatar)
-https://dnslivetv.online:443/7336/1234/1078599.m3u8
-#EXTINF:-1 ,24/7 |Saga (Marvel Heroes)
-https://dnslivetv.online:443/7336/1234/1078600.m3u8
-#EXTINF:-1 ,24/7 | Saga ( SAW )
-https://dnslivetv.online:443/7336/1234/1078602.m3u8
-#EXTINF:-1 ,24/7 | Saga ( Volver al Futuro )
-https://dnslivetv.online:443/7336/1234/1078603.m3u8
-#EXTINF:-1 ,24/7 | Saga ( Harry Potter )
-https://dnslivetv.online:443/7336/1234/1078604.m3u8
-#EXTINF:-1 ,24/7 | Saga ( El Conjuro )
-https://dnslivetv.online:443/7336/1234/1078605.m3u8
-#EXTINF:-1 ,24/7 | Saga ( Annabelle )
-https://dnslivetv.online:443/7336/1234/1078606.m3u8
-#EXTINF:-1 ,24/7 | Saga (La Profecia)
-https://dnslivetv.online:443/7336/1234/1078607.m3u8
-#EXTINF:-1 ,24/7 | Saga (Batman)
-https://dnslivetv.online:443/7336/1234/1078608.m3u8
-#EXTINF:-1 ,24/7 | Saga (Jurassic Park)
-https://dnslivetv.online:443/7336/1234/1078609.m3u8
-#EXTINF:-1 ,24/7 | Saga (Star Trek)
-https://dnslivetv.online:443/7336/1234/1078610.m3u8
-#EXTINF:-1 ,24/7 Saga (Robocop)
-https://dnslivetv.online:443/7336/1234/1078611.m3u8
-#EXTINF:-1 ,24/7 Saga (Spy Kids)
-https://dnslivetv.online:443/7336/1234/1078612.m3u8
-#EXTINF:-1 ,24/7 Saga (Crepusculo)
-https://dnslivetv.online:443/7336/1234/1078613.m3u8
-#EXTINF:-1 ,24/7 De tú a tú
-https://dnslivetv.online:443/7336/1234/1078620.m3u8
-#EXTINF:-1 ,24/7 Mamá a los 15
-https://dnslivetv.online:443/7336/1234/1078621.m3u8
-#EXTINF:-1 ,24/7 El cuento del tío
-https://dnslivetv.online:443/7336/1234/1078622.m3u8
-#EXTINF:-1 ,24/7 Cárcel de mujeres
-https://dnslivetv.online:443/7336/1234/1078623.m3u8
-#EXTINF:-1 ,24/7 Casado con hijos
-https://dnslivetv.online:443/7336/1234/1078624.m3u8
-#EXTINF:-1 ,24/7 El día menos pensado
-https://dnslivetv.online:443/7336/1234/1078625.m3u8
-#EXTINF:-1 ,24/7 Mea culpa
-https://dnslivetv.online:443/7336/1234/1078626.m3u8
-#EXTINF:-1 ,24/7 Los 80
-https://dnslivetv.online:443/7336/1234/1078628.m3u8
-#EXTINF:-1 ,24/7 Socios por el mundo
-https://dnslivetv.online:443/7336/1234/1078632.m3u8
-#EXTINF:-1 ,24/7 Sábado Gigante
-https://dnslivetv.online:443/7336/1234/1078635.m3u8
-#EXTINF:-1 ,24/7 Ranma ½
-https://dnslivetv.online:443/7336/1234/1078643.m3u8
-#EXTINF:-1 ,24/7 La granja de zenon
-https://dnslivetv.online:443/7336/1234/1078644.m3u8
-#EXTINF:-1 ,24/7 Sin Senos no hay Paraíso
-https://dnslivetv.online:443/7336/1234/1078645.m3u8
-#EXTINF:-1 ,AMAZON 3
-https://dnslivetv.online:443/7336/1234/1078648.m3u8
-#EXTINF:-1 ,AMAZON 5
-https://dnslivetv.online:443/7336/1234/1078650.m3u8
-#EXTINF:-1 ,24/7 PAW Patrol: Patrulla de cachorros
-https://dnslivetv.online:443/7336/1234/1078651.m3u8
-#EXTINF:-1 ,AMAZON 7
-https://dnslivetv.online:443/7336/1234/1078652.m3u8
-#EXTINF:-1 ,24/7 El Chavo del Ocho
-https://dnslivetv.online:443/7336/1234/1078659.m3u8
-#EXTINF:-1 ,24/7 Los Simpson
-https://dnslivetv.online:443/7336/1234/1078660.m3u8
-#EXTINF:-1 ,24/7 SEMANA SANTA 10
-https://dnslivetv.online:443/7336/1234/1078661.m3u8
-#EXTINF:-1 ,24/7 SEMANA SANTA 9
-https://dnslivetv.online:443/7336/1234/1078662.m3u8
-#EXTINF:-1 ,24/7 SEMANA SANTA 6
-https://dnslivetv.online:443/7336/1234/1078665.m3u8
-#EXTINF:-1 ,24/7 SEMANA SANTA 5
-https://dnslivetv.online:443/7336/1234/1078666.m3u8
-#EXTINF:-1 ,24/7 SEMANA SANTA 3
-https://dnslivetv.online:443/7336/1234/1078668.m3u8
-#EXTINF:-1 ,24/7 SEMANA SANTA
-https://dnslivetv.online:443/7336/1234/1078670.m3u8
-#EXTINF:-1 ,AMAZON 6
-https://dnslivetv.online:443/7336/1234/1078671.m3u8
-#EXTINF:-1 ,24/7 SAGA (DRAGON BALL)
-https://dnslivetv.online:443/7336/1234/1078673.m3u8
-#EXTINF:-1 ,24/7 Dragon Ball GT
-https://dnslivetv.online:443/7336/1234/1078674.m3u8
-#EXTINF:-1 ,24/7 Dragon Ball Z
-https://dnslivetv.online:443/7336/1234/1078676.m3u8
-#EXTINF:-1 ,24/7 Mi gorda bella
-https://dnslivetv.online:443/7336/1234/1078680.m3u8
-#EXTINF:-1 ,24/7 Vecinos.
-https://dnslivetv.online:443/7336/1234/1078681.m3u8
-#EXTINF:-1 ,24/7 El juego del calamar
-https://dnslivetv.online:443/7336/1234/1078683.m3u8
-#EXTINF:-1 ,24/7 Futurama
-https://dnslivetv.online:443/7336/1234/1078684.m3u8
-#EXTINF:-1 ,24/7 Pablo Escobar: El Patrón del Mal
-https://dnslivetv.online:443/7336/1234/1078686.m3u8
-#EXTINF:-1 ,24/7 Smallville
-https://dnslivetv.online:443/7336/1234/1078687.m3u8
-#EXTINF:-1 ,24/7 | CINEMA 05
-https://dnslivetv.online:443/7336/1234/1078695.m3u8
-#EXTINF:-1 ,24/7 | CINEMA 08
-https://dnslivetv.online:443/7336/1234/1078698.m3u8
-#EXTINF:-1 ,24/7 | CINEMA 09
-https://dnslivetv.online:443/7336/1234/1078699.m3u8
-#EXTINF:-1 ,24/7 | CINEMA 12
-https://dnslivetv.online:443/7336/1234/1078702.m3u8
-#EXTINF:-1 ,24/7 Campeones: Oliver y Benji
-https://dnslivetv.online:443/7336/1234/1078706.m3u8
-
-
-#EXTINF:-1",MEMORIAS SERIES
-https://cloud2.streaminglivehd.com:1936/8120/8120/playlist.m3u8  
-#EXTINF:-1 ,FM Super Classic
-https://s2.tvdatta.com:3307/hybrid/play.m3u8
-#EXTINF:-1,MY TV TELEVISION CLASICA
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
-#EXTINF:-1,BOREAL TELEVISION
-https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-#EXTINF:-1,TV RETRO
-https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
-#EXTINF:-1,FRECUENCIA MUSICAL TV
-https://s2.tvdatta.com:3307/hybrid/play.m3u8?PlaylistM3UCL
-#EXTINF:-1,CHAVO DEL 8
-http://nxt.plus:8080/jesus01/jesus01/91926.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
-#EXTINF:-1,CHESPIRITO
-http://nxt.plus:8080/jesus01/jesus01/91927
-#EXTINF:-1,CHAPULIN COLORADO
-http://nxt.plus:8080/jesus01/jesus01/91928
-#EXTINF:-1,MY TV TELEVISION CLASICA
-https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
 
 
 
