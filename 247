@@ -695,12 +695,12 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333177
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Picapiedras" tvg-logo="http://puntoz.net/LOGOS/lospicapiedras.png" group-title="Canales 24/7",24/7 Los Picapiedras
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333178
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos" tvg-logo="http://puntoz.net/LOGOS/losupersonicos.png" group-title="Canales 24/7",24/7 Los Supersonicos
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333179
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Mickey Mouse" tvg-logo="http://puntoz.net/LOGOS/mickey_mouse.png" group-title="Canales 24/7",24/7 Mickey Mouse
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333180
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Pato Aventura" tvg-logo="http://puntoz.net/LOGOS/patoaventura.png" group-title="Canales 24/7",24/7 Pato Aventura
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333181
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pinky & Cerebro" tvg-logo="http://puntoz.net/LOGOS/pinkyycerebro.png" group-title="Canales 24/7",24/7 Pinky & Cerebro
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333182
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Quack Pack" tvg-logo="http://puntoz.net/LOGOS/QuackPack.png" group-title="Canales 24/7",24/7 Quack Pack
@@ -709,16 +709,13 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333183
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333184
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Romance Channel HD" tvg-logo="http://puntoz.xyz/LOGOS/romancechannel.png" group-title="Canales 24/7",24/7 Romance Channel HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333185
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Halloween Channel HD" tvg-logo="http://puntoz.xyz/LOGOS/halloweenchannellogo128.png" group-title="Canales 24/7",24/7 Halloween Channel HD
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333186
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Almacen" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/almacen.png" group-title="Canales 24/7",24/7 Almacen
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333187
 #EXTINF:-1 tvg-id="" tvg-name="24/7 A Orillas del Río" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/aorillasdelrio.png" group-title="Canales 24/7",24/7 A Orillas del Río
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333188
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Azul Profundo" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/azulprofundo.png" group-title="Canales 24/7",24/7 Azul Profundo
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333189
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Casa de Muñecos" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/casamunecas.png" group-title="Canales 24/7",24/7 Casa de Muñecos
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333190
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 De Aquí Vengo yo" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/aquivengoyo.png" group-title="Canales 24/7",24/7 De Aquí Vengo yo
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333191
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Celebración" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/celebracion.png" group-title="Canales 24/7",24/7 Celebración
@@ -741,8 +738,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333198
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333199
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Retador" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/elretador.png" group-title="Canales 24/7",24/7 El Retador
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333200
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Eres mi tesoro" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/eresmitesoro.png" group-title="Canales 24/7",24/7 Eres mi tesoro
-http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333201
+
+
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Genios de la carne" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/geniosdelacarne.png" group-title="Canales 24/7",24/7 Genios de la carne
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333202
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Pan Comido" tvg-logo="http://puntoz.xyz/LOGOSMEGAGO/pancomido.png" group-title="Canales 24/7",24/7 Pan Comido
