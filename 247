@@ -159,7 +159,7 @@ https://dnslivetv.online:443/7336/1234/1078595.m3u8
 https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078595
 #EXTINF:-1 ,24/7 Futurama
 https://dnslivetv.online:443/7336/1234/1078684.m3u8
-
+#EXTGRP
 
 #EXTINF:-1 ,INFANTIL 24/7
 https://dnslivetv.online:443/7336/1234/1078532.m3u8
