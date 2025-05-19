@@ -1,10 +1,6 @@
 #EXTM3U
 
-#EXTINF:0, HBO XTREME.HD2
-http://181.119.86.1:8000/play/a04a
 
-#EXTINF:-1,adult swim
-https://chromecast.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd
 
 #EXTINF:-1 ",Adult Swim LA
 http://181.119.86.1:8000/play/a019
