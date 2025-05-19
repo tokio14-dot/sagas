@@ -6,15 +6,9 @@
 
 #EXTINF:-1 ",Adult Swim LA
 http://181.119.86.1:8000/play/a019
-#EXTINF:-1 tvg-logo="",ok
-http://181.119.86.1:8000/play/a016
-#EXTINF:-1 tvg-logo="",13GO
-http://181.119.86.1:8000/play/a028
-#EXTINF:-1 tvg-logo="",NICKELODEON 
-http://181.119.86.1:8000/play/a030
-#EXTINF:-1 tvg-logo="", Discovery ID
-http://181.119.86.1:8000/play/a046
 
+#EXTINF:-1 tvg-logo="",nose 24/7
+https://dnslivetv.online:443/7336/1234/1078700.m3u8
 
 
 
