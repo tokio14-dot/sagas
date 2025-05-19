@@ -82,9 +82,9 @@ https://dnslivetv.online:443/7336/1234/1078491.m3u8
 #EXTINF:-1 ,24/7 SAGA (DRAGON BALL)
 https://dnslivetv.online:443/7336/1234/1078673.m3u8
 #EXTINF:-1 ,24/7 Dragon Ball GT
-https://dnslivetv.online:443/7336/1234/1078674.m3u8
-#EXTINF:-1 ,24/7 Dragon Ball Z
-https://dnslivetv.online:443/7336/1234/1078676.m3u8
+
+#EXTINF:-1 ,24/7 Dragon ball Z
+
 #EXTINF:-1 ", Dragon Ball Z Saga Cell
 https://dnslivetv.online:443/7336/1234/1078390.m3u8
 #EXTINF:-1,Dragon Ball Super
