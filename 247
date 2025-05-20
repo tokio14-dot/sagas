@@ -153,6 +153,9 @@ http://170.39.192.130:2095/56989348288act/030724w1/306335
 
 
 #EXTGRP:RETRO
+
+#EXTINF:-1 tvg-logo="",ALF
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333134
 #EXTINF:-1 tvg-logo="",La Familia Addams 
 http://170.39.192.130:2095/56989348288act/030724w1/306222
 #EXTINF:-1 tvg-logo="",Los magníficos
@@ -183,6 +186,25 @@ http://170.39.192.130:2095/56989348288act/030724w1/306148
 http://170.39.192.130:2095/56989348288act/030724w1/306157
 #EXTINF:-1 tvg-logo="",HECHIZADA 4
 http://170.39.192.130:2095/56989348288act/030724w1/306217
+#EXTINF:-1 tvg-logo="",Buzz Lightyear
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333136
+#EXTINF:-1 tvg-logo="",chicas Superpoderosas
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333137
+#EXTINF:-1 tvg-logo="",el Show de Garfield
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333141
+#EXTINF:-1 tvg-logo="",La Guardia del Leon
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333147
+#EXTINF:-1 tvg-logo="",Los Croods
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333156
+#EXTINF:-1 tvg-logo="",Los Autos Locos
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333154
+#EXTINF:-1 tvg-logo="",Teen Titans GO
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333165
+#EXTINF:-1 tvg-logo="",Tortugas Ninja
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333166
+#EXTINF:-1 tvg-logo="",Bob Esponja SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58076
+
 #EXTINF:-1 tvg-logo="",maya y el oso
 https://dnslivetv.online:443/7336/1234/1078502.m3u8
 #EXTINF:-1 tvg-logo="",bob el tren
@@ -216,6 +238,8 @@ https://dnslivetv.online:443/7336/1234/1078486.m3u8
 
 
 #EXTGRP:ANIME
+#EXTINF:-1 tvg-logo="",Doraemon
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333139
 #EXTINF:-1 ,24/7 Campeones: Oliver y Benji
 https://dnslivetv.online:443/7336/1234/1078706.m3u8
 #EXTINF:-1 ",24/7 Ranma ½
