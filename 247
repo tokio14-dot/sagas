@@ -16,6 +16,30 @@ https://dnslivetv.online:443/7336/1234/1078700.m3u8
 http://170.39.192.130:2095/56989348288act/030724w1/306096
 #EXTINF:-1 tvg-logo="",24/7 Euphoria (S)
 http://170.39.192.130:2095/56989348288act/030724w1/306095
+#EXTINF:-1 tvg-logo="",alma de metal 
+http://170.39.192.130:2095/56989348288act/030724w1/306098
+#EXTINF:-1 tvg-logo="",barri
+http://170.39.192.130:2095/56989348288act/030724w1/306100
+#EXTINF:-1 tvg-logo="",el imperio dl contrabando
+http://170.39.192.130:2095/56989348288act/030724w1/306101
+#EXTINF:-1 tvg-logo="",frena tu estusiasmo
+http://170.39.192.130:2095/56989348288act/030724w1/306102
+#EXTINF:-1 tvg-logo="",Stranger Things
+http://170.39.192.130:2095/56989348288act/030724w1/306105
+#EXTINF:-1 tvg-logo="",la casa de papel
+http://170.39.192.130:2095/56989348288act/030724w1/306106
+#EXTINF:-1 tvg-logo="",The witcher
+http://170.39.192.130:2095/56989348288act/030724w1/306107
+#EXTINF:-1 tvg-logo="",Black mirror
+http://170.39.192.130:2095/56989348288act/030724w1/306108
+#EXTINF:-1 tvg-logo="",narcos
+http://170.39.192.130:2095/56989348288act/030724w1/306109
+#EXTINF:-1 tvg-logo="",Mindhunter
+http://170.39.192.130:2095/56989348288act/030724w1/306111
+#EXTINF:-1 tvg-logo="",The umbrella
+http://170.39.192.130:2095/56989348288act/030724w1/306114
+
+
 
 #EXTGRP:INFANTILES 
 #EXTINF:-1 tvg-logo="",maya y el oso
