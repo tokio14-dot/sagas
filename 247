@@ -186,6 +186,7 @@ http://170.39.192.130:2095/56989348288act/030724w1/306148
 http://170.39.192.130:2095/56989348288act/030724w1/306157
 #EXTINF:-1 tvg-logo="",HECHIZADA 4
 http://170.39.192.130:2095/56989348288act/030724w1/306217
+
 #EXTINF:-1 tvg-logo="",Buzz Lightyear
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333136
 #EXTINF:-1 tvg-logo="",chicas Superpoderosas
@@ -204,6 +205,7 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333165
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333166
 #EXTINF:-1 tvg-logo="",Bob Esponja SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58076
+
 
 #EXTINF:-1 tvg-logo="",maya y el oso
 https://dnslivetv.online:443/7336/1234/1078502.m3u8
@@ -279,11 +281,16 @@ https://dnslivetv.online:443/7336/1234/1078491.m3u8
 
 #EXTINF:-1 ,24/7 SAGA (DRAGON BALL)
 https://dnslivetv.online:443/7336/1234/1078673.m3u8
-#EXTINF:-1 ,24/7 Dragon Ball GT
-
-#EXTINF:-1 ,24/7 Dragon ball Z
-
-#EXTINF:-1 ", Dragon Ball Z Saga Cell
+#EXTINF:-1 tvg-logo="",Dragon Ball HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58082
+#EXTINF:-1 tvg-logo="",Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58105
+#EXTINF:-1 tvg-logo="",Dragon Ball Super 2 Saga Universo 6 y Goku Black HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58106
+#EXTINF:-1 tvg-logo="",Dragon Ball Super 3 Saga de la Supervivencia Universal HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58107
+#EXTINF:-1 tvg-logo="",Dragon Ball Z Movies FHD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50597
 
 #EXTINF:-1,Dragon Ball Super
 https://stream.gia.tv/giatvplayout7/giatv-208708/playlist.m3u8
