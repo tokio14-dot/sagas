@@ -104,9 +104,11 @@ https://dnslivetv.online:443/7336/1234/1078396.m3u8
 http://masterprotv1.com:8080/live/56983589845wspzero/200821zero/34382.ts
 #EXTINF:0,LOONEY TUNES 24/7 
 http://masterprotv1.com:8080/live/56983589845wspzero/200821zero/34382.ts
-
 #EXTINF:-1 ",Angry Birds Locuras de verano
 https://dnslivetv.online:443/7336/1234/1078486.m3u8
+
+
+
 
 #EXTGRP:ANIME
 #EXTINF:-1 ,24/7 Campeones: Oliver y Benji
@@ -202,6 +204,25 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
 
 
 #EXTGRP:LOS SIMPSON
+
+#EXTINF:-1 tvg-logo="",LOS SIMPSON T0
+http://170.39.192.130:2095/56989348288act/030724w1/306245
+#EXTINF:-1 tvg-logo="",LOS SIMPSON T1
+http://170.39.192.130:2095/56989348288act/030724w1/306246
+#EXTINF:-1 tvg-logo="",LOS SIMPSON T2
+http://170.39.192.130:2095/56989348288act/030724w1/306247
+#EXTINF:-1 tvg-logo="",LOS SIMPSON T3
+http://170.39.192.130:2095/56989348288act/030724w1/306248
+#EXTINF:-1 tvg-logo="",LOS SIMPSON T4
+http://170.39.192.130:2095/56989348288act/030724w1/306249
+#EXTINF:-1 tvg-logo="",LOS SIMPSON T5
+http://170.39.192.130:2095/56989348288act/030724w1/306250
+#EXTINF:-1 tvg-logo="",LOS SIMPSON T6
+http://170.39.192.130:2095/56989348288act/030724w1/306251
+#EXTINF:-1 tvg-logo="",LOS SIMPSON T7
+http://170.39.192.130:2095/56989348288act/030724w1/306252
+#EXTINF:-1 tvg-logo="",LOS SIMPSON T8
+http://170.39.192.130:2095/56989348288act/030724w1/306253
 #EXTINF:-1 ,Los Simpson
 https://dnslivetv.online:443/7336/1234/1078660.m3u8
 #EXTINF:-1 ",LOS SIMPSONS 24/7 
