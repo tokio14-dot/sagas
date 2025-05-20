@@ -1,10 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",juego de tronos
-http://170.39.192.130:2095/56989348288act/030724w1/306096
-#EXTINF:-1 tvg-logo="",24/7 Euphoria (S)
-http://170.39.192.130:2095/56989348288act/030724w1/306095
 
 
 
@@ -14,6 +10,12 @@ http://181.119.86.1:8000/play/a019
 #EXTINF:-1 tvg-logo="",nose 24/7
 https://dnslivetv.online:443/7336/1234/1078700.m3u8
 
+
+#EXTGRP: ESPECIAL
+#EXTINF:-1 tvg-logo="",juego de tronos
+http://170.39.192.130:2095/56989348288act/030724w1/306096
+#EXTINF:-1 tvg-logo="",24/7 Euphoria (S)
+http://170.39.192.130:2095/56989348288act/030724w1/306095
 
 #EXTGRP:INFANTILES 
 #EXTINF:-1 tvg-logo="",maya y el oso
