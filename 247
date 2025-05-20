@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTGRP:NETFLIX CINEMA
+#EXTGRP:MULTIPLATAFORMA
 
 #EXTINF:-1 tvg-logo="",NETFLIX 1
 http://170.39.192.130:2095/56989348288act/030724w1/322851
@@ -19,21 +19,47 @@ http://170.39.192.130:2095/56989348288act/030724w1/322856
 http://170.39.192.130:2095/56989348288act/030724w1/322857
 #EXTINF:-1 tvg-logo="",DISNEY 3
 http://170.39.192.130:2095/56989348288act/030724w1/322858
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",orvita TV
+http://170.39.192.130:2095/56989348288act/030724w1/322859
+#EXTINF:-1 tvg-logo="",Paramount
+http://170.39.192.130:2095/56989348288act/030724w1/322860
+#EXTINF:-1 tvg-logo="",Paramount HD
+http://170.39.192.130:2095/56989348288act/030724w1/322861
+#EXTINF:-1 tvg-logo="",panico TV
+http://170.39.192.130:2095/56989348288act/030724w1/322862
+#EXTINF:-1 tvg-logo="",PRIME VIDEO
+http://170.39.192.130:2095/56989348288act/030724w1/322863
+#EXTINF:-1 tvg-logo="",Plex indie
+http://170.39.192.130:2095/56989348288act/030724w1/322864
+#EXTINF:-1 tvg-logo="",Plex movie
+http://170.39.192.130:2095/56989348288act/030724w1/322865
+#EXTINF:-1 tvg-logo="",plex retro
+http://170.39.192.130:2095/56989348288act/030724w1/322866
+#EXTINF:-1 tvg-logo="",Showtime West
+http://170.39.192.130:2095/56989348288act/030724w1/322882
+#EXTINF:-1 tvg-logo="",Showtime Beyond
+http://170.39.192.130:2095/56989348288act/030724w1/322883
+#EXTINF:-1 tvg-logo="",Showtime East
+http://170.39.192.130:2095/56989348288act/030724w1/322884
+#EXTINF:-1 tvg-logo="",Showtime Extreme
+http://170.39.192.130:2095/56989348288act/030724w1/322885
+#EXTINF:-1 tvg-logo="",Starz Action
+http://170.39.192.130:2095/56989348288act/030724w1/322886
+#EXTINF:-1 tvg-logo="",Starz Family
+http://170.39.192.130:2095/56989348288act/030724w1/322887
+#EXTINF:-1 tvg-logo="",Starz cinema
+http://170.39.192.130:2095/56989348288act/030724w1/322888
+#EXTINF:-1 tvg-logo="",Starz Classic
+http://170.39.192.130:2095/56989348288act/030724w1/322889
+#EXTINF:-1 tvg-logo="",Starz Comedy
+http://170.39.192.130:2095/56989348288act/030724w1/322890
+#EXTINF:-1 tvg-logo="",Starz Kids & Family
+http://170.39.192.130:2095/56989348288act/030724w1/322891
+#EXTINF:-1 tvg-logo="",Starz Oeste HD
+http://170.39.192.130:2095/56989348288act/030724w1/322892
+#EXTINF:-1 tvg-logo="",Starz Suspense
+http://170.39.192.130:2095/56989348288act/030724w1/322893
 
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
 
 
 #EXTINF:-1 ",Adult Swim LA
