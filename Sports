@@ -2,29 +2,29 @@ EXTM3U
 
 
 
-#EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
+#EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png",TyC Sports A
 https://tyc.ale24cba.workers.dev/
 
-#EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
+#EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png",TyC Sports A
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46748.ts
 
 
-#EXTINF:-1 tvg-id="TNT Sports A" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports A
+#EXTINF:-1 tvg-id="TNT Sports A" tvg-logo="https://iili.io/JKrJHCX.png",TNT Sports A
 http://p2premium.club:80/live/Guolee9080/Juan9080/470488.ts
 
-#EXTINF:-1 tvg-id="TNT Sports B" tvg-logo="https://iili.io/JKrJHCX.png" group-title="Deportes",TNT Sports B
+#EXTINF:-1 tvg-id="TNT Sports B" tvg-logo="https://iili.io/JKrJHCX.png",TNT Sports B
 http://tv.zeuspro.xyz:8080/mgwleor/4lhLaPDAOh/7951
 
-#EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium A
+#EXTINF:-1 tvg-id="ESPN Premium A" tvg-logo="https://iili.io/JKrJQV9.png",ESPN Premium A
 http://p2premium.club:80/live/Guolee9080/Juan9080/339650.ts
 
-#EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://iili.io/JKrJQV9.png" group-title="Deportes",ESPN Premium B
+#EXTINF:-1 tvg-id="ESPN Premium B" tvg-logo="https://iili.io/JKrJQV9.png",ESPN Premium B
 http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46727.ts
 
-#EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN A
+#EXTINF:-1 tvg-id="ESPN A" tvg-logo="https://iili.io/JKrdlR4.png",ESPN A
 http://195.66.210.10:80/PabloMejia08/DYCKV/219173
 
-#EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png" group-title="Deportes",ESPN B
+#EXTINF:-1 tvg-id="ESPN B" tvg-logo="https://iili.io/JKrdlR4.png",ESPN B
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/47111.ts
 
 
