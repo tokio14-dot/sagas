@@ -15,9 +15,8 @@ https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd
 #EXTINF:-1 tvg-logo="",meSignalVOD 3
 https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/signal2.m3u
 
-
-#EXTINF:-1 tvg-logo="",pelis
-https://raw.githubusercontent.com/sagitariolop/lista/refs/heads/main/peliculas.m3u
+#EXTINF:-1 tvg-logo="",2025
+https://raw.githubusercontent.com/rb1223/devmaster/refs/heads/main/tv090525movie2025.m3u
 
 #EXTINF:-1 tvg-logo="",2024 2025
 https://raw.githubusercontent.com/Flixy25/knls-flixy-tv/refs/heads/main/gft
@@ -33,6 +32,8 @@ https://raw.githubusercontent.com/rojasrony12/channels/refs/heads/main/MOVIES.m3
 #EXTINF:-1 tvg-logo="",catalogo 2
 https://raw.githubusercontent.com/rojasrony12/channels/refs/heads/main/REVISAR.m3u
 
+
+
 #EXTINF:-1 tvg-logo="", HERBERTM3
 https://raw.githubusercontent.com/HERBERTM3/iptv/refs/heads/main/peliculas%20MP4.m3u
 #EXTINF:-1 tvg-logo="",playfree
@@ -45,6 +46,7 @@ https://archive.org/download/masallasdeljardin/peliculas.m3u
 #EXTINF:-1 tvg-logo="",PELIS 2
 https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/MPELIS.m3u8
 #EXTINF:-1 tvg-logo="",PELIS 3
+https://raw.githubusercontent.com/sagitariolop/lista/refs/heads/main/peliculas.m3u
 
 
 #EXTINF:-1 tvg-logo="",PELIS 3.0
