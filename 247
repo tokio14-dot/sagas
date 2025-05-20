@@ -165,6 +165,8 @@ http://170.39.192.130:2095/56989348288act/030724w1/306233
 http://170.39.192.130:2095/56989348288act/030724w1/306234
 #EXTINF:-1 tvg-logo="",Super Agente 86
 http://170.39.192.130:2095/56989348288act/030724w1/306239
+#EXTINF:-1 tvg-logo="",KUNG FU
+http://170.39.192.130:2095/56989348288act/030724w1/306218
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
@@ -181,16 +183,6 @@ http://170.39.192.130:2095/56989348288act/030724w1/306148
 http://170.39.192.130:2095/56989348288act/030724w1/306157
 #EXTINF:-1 tvg-logo="",HECHIZADA 4
 http://170.39.192.130:2095/56989348288act/030724w1/306217
-#EXTINF:-1 tvg-logo="",KUNG FU
-http://170.39.192.130:2095/56989348288act/030724w1/306218
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
 #EXTINF:-1 tvg-logo="",maya y el oso
 https://dnslivetv.online:443/7336/1234/1078502.m3u8
 #EXTINF:-1 tvg-logo="",bob el tren
