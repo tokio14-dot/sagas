@@ -58,6 +58,33 @@ http://152.231.29.139:8000/play/a0cd/index.m3u8
 http://190.60.33.237:1010/play/a0ee/index.m3u8
 
 
+#EXTINF:-1, espn2 (1280)
+http://190.60.33.237:1010/play/a0en/index.m3u8
+
+#EXTINF:-1, warner (720)
+http://200.60.124.19:29000/play/a013
+
+#EXTINF:-1, espn (720)
+http://200.60.124.19:29000/play/a016
+
+#EXTINF:-1, espn2 (720)
+http://200.60.124.19:29000/play/a015
+
+#EXTINF:-1, espn3 (720)
+http://200.60.124.19:29000/play/a02e
+
+#EXTINF:-1,espn5 (720)
+http://200.60.124.19:29000/play/a04y
+
+#EXTINF:-1,espn6 (720)
+http://200.60.124.19:29000/play/a01f
+
+#EXTINF:-1, espn7 (720)
+http://200.60.124.19:29000/play/a01e
+
+#EXTINF:-1,FX (720)
+http://200.60.124.19:29000/play/a029
+
 
 
 
