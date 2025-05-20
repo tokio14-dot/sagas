@@ -38,6 +38,16 @@ http://170.39.192.130:2095/56989348288act/030724w1/306109
 http://170.39.192.130:2095/56989348288act/030724w1/306111
 #EXTINF:-1 tvg-logo="",The umbrella
 http://170.39.192.130:2095/56989348288act/030724w1/306114
+#EXTINF:-1 tvg-logo="",Foundation
+http://170.39.192.130:2095/56989348288act/030724w1/306120
+#EXTINF:-1 tvg-logo="",Servant
+http://170.39.192.130:2095/56989348288act/030724w1/306121
+#EXTINF:-1 tvg-logo="",The morning show
+http://170.39.192.130:2095/56989348288act/030724w1/306122
+#EXTINF:-1 tvg-logo="",Truth be told
+http://170.39.192.130:2095/56989348288act/030724w1/306123
+
+
 
 #EXTGRP:NOVELAS
 #EXTINF:-1 tvg-logo="",casa de muñeco
@@ -72,6 +82,15 @@ http://170.39.192.130:2095/56989348288act/030724w1/306325
 http://170.39.192.130:2095/56989348288act/030724w1/306329
 #EXTINF:-1 tvg-logo="",muñeca de mafias
 http://170.39.192.130:2095/56989348288act/030724w1/306331
+#EXTINF:-1 tvg-logo="",narcos mexicanos
+http://170.39.192.130:2095/56989348288act/030724w1/306332
+#EXTINF:-1 tvg-logo="",regreso a la guaca
+http://170.39.192.130:2095/56989348288act/030724w1/306333
+#EXTINF:-1 tvg-logo="",sobreviviendo a escobar
+http://170.39.192.130:2095/56989348288act/030724w1/306335
+
+
+
 
 #EXTGRP:RETRO
 #EXTINF:-1 tvg-logo="",La Familia Addams 
