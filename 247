@@ -39,9 +39,45 @@ http://170.39.192.130:2095/56989348288act/030724w1/306111
 #EXTINF:-1 tvg-logo="",The umbrella
 http://170.39.192.130:2095/56989348288act/030724w1/306114
 
+#EXTGRP:RETRO
+#EXTINF:-1 tvg-logo="",La Familia Addams 
+http://170.39.192.130:2095/56989348288act/030724w1/306222
+#EXTINF:-1 tvg-logo="",Los magníficos
+http://170.39.192.130:2095/56989348288act/030724w1/306227
+#EXTINF:-1 tvg-logo="",Magcyver
+http://170.39.192.130:2095/56989348288act/030724w1/306228
+#EXTINF:-1 tvg-logo="",Power Rangers
+http://170.39.192.130:2095/56989348288act/030724w1/306233
+#EXTINF:-1 tvg-logo="",renegado
+http://170.39.192.130:2095/56989348288act/030724w1/306234
+#EXTINF:-1 tvg-logo="",Super Agente 86
+http://170.39.192.130:2095/56989348288act/030724w1/306239
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
 
 
-#EXTGRP:INFANTILES 
+
+#EXTGRP:INFANTILES AYER Y DE HOY
+
+#EXTINF:-1 tvg-logo="",COYOTE
+http://170.39.192.130:2095/56989348288act/030724w1/306148
+#EXTINF:-1 tvg-logo="",HANNA BARBERÁ 
+http://170.39.192.130:2095/56989348288act/030724w1/306157
+#EXTINF:-1 tvg-logo="",HECHIZADA 4
+http://170.39.192.130:2095/56989348288act/030724w1/306217
+#EXTINF:-1 tvg-logo="",KUNG FU
+http://170.39.192.130:2095/56989348288act/030724w1/306218
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
 #EXTINF:-1 tvg-logo="",maya y el oso
 https://dnslivetv.online:443/7336/1234/1078502.m3u8
 #EXTINF:-1 tvg-logo="",bob el tren
