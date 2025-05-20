@@ -1,15 +1,9 @@
 EXTM3U
 
-#EXTINF:-1 tvg-logo="",Disney plus
 
-#EXTINF:-1 tvg-logo="",tyc sport
+
+#EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
 https://tyc.ale24cba.workers.dev/
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-
-
 
 #EXTINF:-1 tvg-id="TyC Sports A" tvg-logo="https://iili.io/JKrHXh7.png" group-title="Deportes",TyC Sports A
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46748.ts
