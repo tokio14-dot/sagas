@@ -39,6 +39,40 @@ http://170.39.192.130:2095/56989348288act/030724w1/306111
 #EXTINF:-1 tvg-logo="",The umbrella
 http://170.39.192.130:2095/56989348288act/030724w1/306114
 
+#EXTGRP:NOVELAS
+#EXTINF:-1 tvg-logo="",casa de muñeco
+http://170.39.192.130:2095/56989348288act/030724w1/306265
+#EXTINF:-1 tvg-logo="",el capo
+http://170.39.192.130:2095/56989348288act/030724w1/306281
+#EXTINF:-1 tvg-logo="",La hija del mariachi
+http://170.39.192.130:2095/56989348288act/030724w1/306296
+#EXTINF:-1 tvg-logo="",La prepago
+http://170.39.192.130:2095/56989348288act/030724w1/306297
+#EXTINF:-1 tvg-logo="",La reina Del Flow 2
+http://170.39.192.130:2095/56989348288act/030724w1/306299
+#EXTINF:-1 tvg-logo="",La reina Del sur
+http://170.39.192.130:2095/56989348288act/030724w1/306300
+#EXTINF:-1 tvg-logo="",lowuito por ti
+http://170.39.192.130:2095/56989348288act/030724w1/306303
+#EXTINF:-1 tvg-logo="",rosario tijeras
+http://170.39.192.130:2095/56989348288act/030724w1/306310
+#EXTINF:-1 tvg-logo="",el chapo
+http://170.39.192.130:2095/56989348288act/030724w1/306318
+#EXTINF:-1 tvg-logo="",el chspo 2
+http://170.39.192.130:2095/56989348288act/030724w1/306319
+#EXTINF:-1 tvg-logo="",el chapo 3
+http://170.39.192.130:2095/56989348288act/030724w1/306320
+#EXTINF:-1 tvg-logo="",Alias El Mexicano
+http://170.39.192.130:2095/56989348288act/030724w1/306321
+#EXTINF:-1 tvg-logo="",el general naranjo
+http://170.39.192.130:2095/56989348288act/030724w1/306324
+#EXTINF:-1 tvg-logo="",el recluso
+http://170.39.192.130:2095/56989348288act/030724w1/306325
+#EXTINF:-1 tvg-logo="",la viuda negra
+http://170.39.192.130:2095/56989348288act/030724w1/306329
+#EXTINF:-1 tvg-logo="",muñeca de mafias
+http://170.39.192.130:2095/56989348288act/030724w1/306331
+
 #EXTGRP:RETRO
 #EXTINF:-1 tvg-logo="",La Familia Addams 
 http://170.39.192.130:2095/56989348288act/030724w1/306222
