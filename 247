@@ -8,8 +8,8 @@ http://177.234.230.206:8011/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-logo="",Adult Swim 2
 http://177.234.230.206:8011/play/a0ev/index.m3u8
 
-#EXTINF:-1 ",fut
-https://magmaplayer.com/stream/m3u8/BGV4KmxjKmR4ZF45AP4lZmVhZy8kAmDlZGt/hls/90.m3u8
+#EXTINF:-1 ",67544
+https://chromecast.cvattv.com.ar/live/c7eds/AnimalPlanet/SA_Live_dash_enc_C/AnimalPlanet.mpd
 
 #EXTINF:-1 ",Adult Swim LA
 http://181.119.86.1:8000/play/a019
