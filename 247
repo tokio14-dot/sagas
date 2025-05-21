@@ -8,6 +8,9 @@ http://177.234.230.206:8011/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-logo="",Adult Swim 2
 http://177.234.230.206:8011/play/a0ev/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="",xx
+http://ts2.tvcluboficial.com/videos/magma_playstore/_2225328.ts
 #EXTINF:-1 ",666666
 https://magmaplayer.com/stream/m3u8/BGxmKmR4AS8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/184.m3u8
 
