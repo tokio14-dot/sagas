@@ -8,10 +8,9 @@ http://177.234.230.206:8011/play/a0ev/index.m3u8
 http://177.234.230.206:8011/play/a0ev/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="",xx
-http://ts2.tvcluboficial.com/videos/magma_playstore/_2225328.ts
-#EXTINF:-1 ",666666
-https://magmaplayer.com/stream/m3u8/BGxmKmR4AS8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGp/hls/184.m3u8
+#EXTINF:-1 tvg-logo="",pppppp
+http://tv.iprotv.live:80/live/canales-ProYeCtoX998/NuevacanalesProyectoRw/149699.ts
+
 
 #EXTINF:-1 ",Adult Swim LA
 http://181.119.86.1:8000/play/a019
