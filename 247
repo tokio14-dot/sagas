@@ -179,7 +179,16 @@ http://170.39.192.130:2095/56989348288act/030724w1/306218
 
 
 #EXTGRP:INFANTILES AYER Y DE HOY
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",Kung Fu Panda HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50606
+#EXTINF:-1 tvg-logo="",Jimmy Neutron SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50604
+#EXTINF:-1 tvg-logo="",EL GALLO CLAUDIO
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58088
 #EXTINF:-1 tvg-logo="",COYOTE
 http://170.39.192.130:2095/56989348288act/030724w1/306148
 #EXTINF:-1 tvg-logo="",HANNA BARBERÁ 
@@ -240,6 +249,15 @@ https://dnslivetv.online:443/7336/1234/1078486.m3u8
 
 
 #EXTGRP:ANIME
+
+#EXTINF:-1 tvg-logo="",Death Note HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50592
+#EXTINF:-1 tvg-logo="",Detective Conan SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50593
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
 #EXTINF:-1 tvg-logo="",Doraemon
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333139
 #EXTINF:-1 ,24/7 Campeones: Oliver y Benji
@@ -279,9 +297,11 @@ https://dnslivetv.online:443/7336/1234/1078491.m3u8
 
 #EXTGRP:DRAGON BALL
 
-#EXTINF:-1 ,24/7 SAGA (DRAGON BALL)
+#EXTINF:-1 ,(DRAGON BALL)
 https://dnslivetv.online:443/7336/1234/1078673.m3u8
-#EXTINF:-1 tvg-logo="",Dragon Ball HD
+#EXTINF:-1 tvg-logo="",Dragon Ball 1 HD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58083
+#EXTINF:-1 tvg-logo="",Dragon Ball 2 HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58082
 #EXTINF:-1 tvg-logo="",Dragon Ball Super 1 Saga la Batalla de los Dioses y la resurreccion de Frezzer HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58105
@@ -291,7 +311,8 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58106
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58107
 #EXTINF:-1 tvg-logo="",Dragon Ball Z Movies FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50597
-
+#EXTINF:-1 tvg-logo="",Dragon Ball GT SD
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58084
 #EXTINF:-1,Dragon Ball Super
 https://stream.gia.tv/giatvplayout7/giatv-208708/playlist.m3u8
 #EXTINF:-1 tvg-logo="", dragon ball heroes
