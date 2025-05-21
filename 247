@@ -6,8 +6,8 @@ http://177.234.230.206:8011/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-logo="",Adult Swim 2
 http://177.234.230.206:8011/play/a0ev/index.m3u8
 
-#EXTINF:-1 ",88
-http://magmaplayer.com/stream/m3u8/ZwR1KmR1BI8lBQNmBwWuZQN6ZwNjAwcyZJRkBwAxAmD6AGSyZQcwZQuzBzIzZy8kAmDlZGt/hls/159.m3u8|X-Hash=UZv9PYwTVFHicIW56nv6lhpXTOr6KMiuUg_428hLH_ZOI9zH9X23vK5cKHpE_qd060wOsTrCSvA-UWHIxKft01_tWIUzMPcno1R
+#EXTINF:-1 ",99
+https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjR78mrOm9s_hg-PsixcSJ1Rcxa28xvUdiY7sa-AoIru7d6AM4
 
 #EXTINF:-1 ",Adult Swim LA
 http://181.119.86.1:8000/play/a019
