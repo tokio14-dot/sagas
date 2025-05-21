@@ -5,8 +5,10 @@
 http://177.234.230.206:8011/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-logo="",Adult Swim 2
 http://177.234.230.206:8011/play/a0ev/index.m3u8
-#EXTINF:-1 tvg-logo="",Adult swim 3
-https://chromecast.cvattv.com.ar/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd
+
+#EXTINF:-1 ",MALCOLM EL DE EN MEDIO
+https://magmaplayer.com/stream/m3u8/BGNmKmL0ZS8kBQxhZGt5YwRkZP4kAmqsZGp0AmD1/hls/640.m3u8
+
 #EXTINF:-1 ",Adult Swim LA
 http://181.119.86.1:8000/play/a019
 
