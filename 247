@@ -3,8 +3,6 @@
 #EXTINF:-1 tvg-logo="",444
 http://pl.pro/lista.m3u
 
-
-
 #EXTINF:-1 tvg-logo="",adult swim 1
 http://177.234.230.206:8011/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-logo="",Adult Swim 2
