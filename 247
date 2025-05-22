@@ -432,6 +432,8 @@ https://dnslivetv.online:443/7336/1234/1078612.m3u8
 https://dnslivetv.online:443/7336/1234/1078613.m3u8
 
 #EXTGRP:SERIES
+#EXTINF:-1, series Clasicas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
 #EXTINF:-1 ",SHARK TANK MEXICO 24/7
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 ",SONY SHARK TANK op2
@@ -468,7 +470,7 @@ https://dnslivetv.online:443/7336/1234/1078644.m3u8
 https://dnslivetv.online:443/7336/1234/1078645.m3u8
 #EXTINF:-1 , Mi gorda bella
 https://dnslivetv.online:443/7336/1234/1078680.m3u8
-#EXTINF:-1 , Vecinos.
+#EXTINF:-1 , Vecinos
 https://dnslivetv.online:443/7336/1234/1078681.m3u8
 #EXTINF:-1 , El juego del calamar
 https://dnslivetv.online:443/7336/1234/1078683.m3u8
