@@ -262,8 +262,8 @@ https://dnslivetv.online:443/7336/1234/1078486.m3u8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50592
 #EXTINF:-1 tvg-logo="",Detective Conan SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50593
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",digimon aventura
+https://live20.bozztv.com/giatvplayout7/giatv-209448/playlist.m3u8
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",Doraemon
@@ -390,10 +390,14 @@ http://170.39.192.130:2095/56989348288act/030724w1/306251
 http://170.39.192.130:2095/56989348288act/030724w1/306252
 #EXTINF:-1 tvg-logo="",LOS SIMPSON T8
 http://170.39.192.130:2095/56989348288act/030724w1/306253
-#EXTINF:-1 ,Los Simpson
+#EXTINF:-1 ",Los Simpson op1
 https://dnslivetv.online:443/7336/1234/1078660.m3u8
-#EXTINF:-1 ",LOS SIMPSONS 24/7 
+#EXTINF:-1 ",los simpson op2
 http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/298796.m3u8
+#EXTINF:-1 ",Los Simpson op3
+https://live20.bozztv.com/giatvplayout7/giatv-209650/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo=",Los Simpsons
+https://ssh101.bozztv.com/ssh101/simpz1/playlist.m3u8
 #EXTINF:-1 ",Los Simpsons Casitas del Horror
 https://dnslivetv.online:443/7336/1234/1078392.m3u8
 #EXTINF:-1 ,24/7 Futurama
