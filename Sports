@@ -6,11 +6,11 @@ EXTM3U
 https://tyc.ale24cba.workers.dev/
 #EXTINF:-1 tvg-logo="https://iili.io/JKrHXh7.png",TyC Sports A
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46748.ts
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports SD (ARG)" tvg-logo="https://img.hidra.app/deportes/tycsports.png" group-title="",TyC Sports SD (ARG)
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/tycsports.png",TyC Sports SD (ARG)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34685
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports FHD (ARG)" tvg-logo="https://img.hidra.app/deportes/tycsports.png" group-title="",TyC Sports FHD (ARG)
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/tycsports.png",TyC Sports FHD (ARG)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34686
-#EXTINF:-1 tvg-id="" tvg-name="TyC Sports Internacional HQ (ARG)" tvg-logo="https://img.hidra.app/deportes/tycsports.png" group-title="",TyC Sports Internacional HQ (ARG)
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/tycsports.png",TyC Sports Internacional HQ (ARG)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34688
 
 
