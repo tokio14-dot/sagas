@@ -52,32 +52,87 @@ http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/47104.ts
 http://181.205.130.194:4000/play/a07j
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png", ESPN2 HD
 http://181.205.130.194:4000/play/a07i
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png",ESPN1 HD
-http://170.39.192.130:2095/56942505562play/060123play/316503
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png",ESPN2 (1280)
-http://206.62.161.192:8000/play/a0h8/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png",espn (1280)
-http://190.60.33.237:1010/play/a0ee/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png", espn2 (1280)
-http://190.60.33.237:1010/play/a0en/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png", espn (720)
-http://200.60.124.19:29000/play/a016
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png", espn2 (720)
-http://200.60.124.19:29000/play/a015
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png", espn3 (720)
-http://200.60.124.19:29000/play/a02e
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png",espn5 (720)
-http://200.60.124.19:29000/play/a04y
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png",espn6 (720)
-http://200.60.124.19:29000/play/a01f
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png", espn7 (720)
-http://200.60.124.19:29000/play/a01e
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdlR4.png",,espn fhd
-http://181.78.106.127:9000/play/ca033/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdlR4.png",,espn2 fhd
-http://181.78.106.127:9000/play/ca034/index.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdlR4.png",, espn4 fhd
-http://181.78.106.127:9000/play/ca036/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD (CL)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN SD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/157048
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (CL)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN HD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/123652
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD (CL)" tvg-logo="https://img.hidra.app/deportes/espn2.png" group-title="ESPN",ESPN 2 SD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312850
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (CL)" tvg-logo="https://img.hidra.app/deportes/espn2.png" group-title="ESPN",ESPN 2 HD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/123653
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 HD (CL)" tvg-logo="https://img.hidra.app/deportes/espn3.png" group-title="ESPN",ESPN 3 HD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/123654
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 5 SD (CL)" tvg-logo="https://img.hidra.app/deportes/espn4.png" group-title="ESPN",ESPN 5 SD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312851
+#EXTINF:-1 tvg-id="" tvg-name="ESPN SD (ARG)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN SD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34659
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD (ARG)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN HD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34660
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD (ARG)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN FHD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34661
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD (ARG)" tvg-logo="https://img.hidra.app/deportes/espn2.png" group-title="ESPN",ESPN 2 SD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34662
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD (ARG)" tvg-logo="https://img.hidra.app/deportes/espn2.png" group-title="ESPN",ESPN 2 HD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34663
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD (ARG)" tvg-logo="https://img.hidra.app/deportes/espn2.png" group-title="ESPN",ESPN 2 FHD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34664
+#EXTINF:-1 tvg-id="ESPN3South.us" tvg-name="ESPN 3 SD (ARG)" tvg-logo="https://img.hidra.app/deportes/espn3.png" group-title="ESPN",ESPN 3 SD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34665
+#EXTINF:-1 tvg-id="ESPN3South.us" tvg-name="ESPN 3 HD (ARG)" tvg-logo="https://img.hidra.app/deportes/espn3.png" group-title="ESPN",ESPN 3 HD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34666
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra SD (ARG)" tvg-logo="https://img.hidra.app/deportes/espnextra.png" group-title="ESPN",ESPN Extra SD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312846
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD (ARG)" tvg-logo="https://img.hidra.app/deportes/espnextra.png" group-title="ESPN",ESPN Extra HD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312844
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium HD (ARG)" tvg-logo="https://img.hidra.app/deportes/espnpremium.png" group-title="ESPN",ESPN Premium HD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/123874
+#EXTINF:-1 tvg-id="" tvg-name="ESPN FHD (CO)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN FHD (CO)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312829
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 SD (CO)" tvg-logo="https://img.hidra.app/deportes/espn2.png" group-title="ESPN",ESPN 2 SD (CO)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312834
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FHD (CO)" tvg-logo="https://img.hidra.app/deportes/espn2.png" group-title="ESPN",ESPN 2 FHD (CO)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312832
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD (CO)" tvg-logo="https://img.hidra.app/deportes/espn3.png" group-title="ESPN",ESPN 3 FHD (CO)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312835
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 FHD (CO)" tvg-logo="https://img.hidra.app/deportes/espn4.png" group-title="ESPN",ESPN 4 FHD (CO)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312838
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra FHD (CO)" tvg-logo="https://img.hidra.app/deportes/espnextra.png" group-title="ESPN",ESPN Extra FHD (CO)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312841
+#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="ESPN SD (MX)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN SD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34652
+#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="ESPN HD (MX)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302638
+#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="ESPN FHD (MX)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN FHD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34653
+#EXTINF:-1 tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-name="ESPN 2 HD (MX)" tvg-logo="https://img.hidra.app/deportes/espn2.png" group-title="ESPN",ESPN 2 HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302639
+#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).mx" tvg-name="ESPN 3 HD (MX)" tvg-logo="https://img.hidra.app/deportes/espn3.png" group-title="ESPN",ESPN 3 HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302640
+#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).mx" tvg-name="ESPN 3 FHD (MX)" tvg-logo="https://img.hidra.app/deportes/espn3.png" group-title="ESPN",ESPN 3 FHD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34658
+#EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="ESPN 4 HD (MX)" tvg-logo="https://img.hidra.app/deportes/espnextra.png" group-title="ESPN",ESPN 4 HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302637
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes HD (US)" tvg-logo="https://img.hidra.app/deportes/espndeportes.png" group-title="ESPN",ESPN Deportes HD (US)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312852
+#EXTINF:-1 tvg-id="FoxSports1Chile.cl" tvg-name="ESPN 
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34631
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="ESPN PREMIUM FHD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsports.png" group-title="ESPN",ESPN PREMIUM FHD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34632
+#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="ESPN 6 SD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport2.png" group-title="ESPN",ESPN 6 SD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34633
+#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="ESPN 6 FHD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport2.png" group-title="ESPN",ESPN 6 FHD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34635
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="ESPN 7 SD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 SD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34636
+#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="ESPN 7 FHD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 FHD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34638
+
+
+
+
+
+
 
 #EXTGRP:FOX Sports
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports
