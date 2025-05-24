@@ -421,7 +421,10 @@ https://ssh101.bozztv.com/ssh101/simpz1/playlist.m3u8
 https://dnslivetv.online:443/7336/1234/1078392.m3u8
 #EXTINF:-1 ,24/7 Futurama
 https://dnslivetv.online:443/7336/1234/1078684.m3u8
-
+#EXTINF:-1 tvg-logo=",rick y morty
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/50661
+#EXTINF:-1 tvg-logo="",south park
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/506
 
 
 #EXTGRP:SAGA
