@@ -91,9 +91,9 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302640
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34658
 #EXTINF:-1 tvg-id="ESPN.Extra.Centroamérica.HDTV.(ESPNXTRA).mx" tvg-name="ESPN 4 HD (MX)" tvg-logo="https://img.hidra.app/deportes/espnextra.png" group-title="ESPN",ESPN 4 HD (MX)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302637
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes HD (US)" tvg-logo="https://img.hidra.app/deportes/espndeportes.png" group-title="ESPN",ESPN Deportes HD (US)
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Deportes HD (US)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN Deportes HD (US)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312852
-#EXTINF:-1 tvg-id="FoxSports1Chile.cl" tvg-name="ESPN 
+#EXTINF:-1 tvg-id="FoxSports1Chile.cl" tvg-logo="https://img.hidra.app/deportes/espn.png"group-title=",ESPN
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34631
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM FHD (CL)" tvg-logo="https://img.hidra.app/deportes/espnpremium.png" group-title="ESPN",ESPN PREMIUM FHD (CL)
