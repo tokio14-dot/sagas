@@ -102,9 +102,9 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34632
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34633
 #EXTINF:-1 tvg-id="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 6 FHD (CL)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN 6 FHD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34635
-#EXTINF:-1 tvg-id="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 7 SD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 SD (CL)
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 7 SD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 SD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34636
-#EXTINF:-1 tvg-id="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 7 FHD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 FHD (CL)
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 7 FHD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 FHD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34638
 
 
