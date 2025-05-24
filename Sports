@@ -6,7 +6,12 @@ EXTM3U
 https://tyc.ale24cba.workers.dev/
 #EXTINF:-1 tvg-logo="https://iili.io/JKrHXh7.png",TyC Sports A
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46748.ts
-#EXTGRP:
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports SD (ARG)" tvg-logo="https://img.hidra.app/deportes/tycsports.png" group-title="",TyC Sports SD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34685
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports FHD (ARG)" tvg-logo="https://img.hidra.app/deportes/tycsports.png" group-title="",TyC Sports FHD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34686
+#EXTINF:-1 tvg-id="" tvg-name="TyC Sports Internacional HQ (ARG)" tvg-logo="https://img.hidra.app/deportes/tycsports.png" group-title="",TyC Sports Internacional HQ (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34688
 
 #EXTGRP:TNT SPORTS
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJHCX.png",TNT Sports AR
@@ -95,7 +100,6 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302637
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312852
 #EXTINF:-1 tvg-id="FoxSports1Chile.cl" tvg-logo="https://img.hidra.app/deportes/espn.png"group-title=",ESPN
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34631
-
 #EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM FHD (CL)" tvg-logo="https://img.hidra.app/deportes/espnpremium.png" group-title="ESPN",ESPN PREMIUM FHD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34632
 #EXTINF:-1 tvg-id="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 6 SD (CL)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN 6 SD (CL)
@@ -148,38 +152,115 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34647
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302652
 #EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport2.png",FOX Sports HD MX
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302653
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-
-
-
-
+#EXTINF:-1 tvg-id="Fox.Sports.3.HDTV.(Cono.Norte).(FOXSP3HD).mx" tvg-name="Fox Sports 3 HD (MX)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="",Fox Sports 3 HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302698
+#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).mx" tvg-name="Fox Sports 3 FHD (MX)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="",Fox Sports 3 FHD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34626
+#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="Fox Sports Premium (MX)" tvg-logo="https://img.hidra.app/deportes/foxsports.png" group-title="",Fox Sports Premium (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/304554
+#EXTINF:-1 tvg-id="FoxSports2.us" tvg-name="Fox Sports 2 HD (US)" tvg-logo="https://img.hidra.app/deportes/foxsport2.png" group-title="",Fox Sports 2 HD (US)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34650
 
 
 
-probado
+
+#EXTGRP:OTROS
+
 #EXTINF:-1,Wplus
 http://152.231.29.139:8000/play/a0cd/index.m3u8
 #EXTINF:-1,Liga
 http://181.78.106.127:9000/play/ca027/index.m3u8
-
 #EXTINF:-1, tudn 1280
 http://181.78.106.127:9000/play/ca025/index.m3u8
-
 #EXTINF:-1,tigo sport
 http://181.78.106.127:9000/play/ca038/index.m3u8
 #EXTINF:-1, claro deporte
 http://181.78.106.127:9000/play/ca038/index.m3u8
+
 #EXTINF:-1,sky sport 1280
 http://181.78.106.127:9000/play/ca028/index.m3u8
 #EXTINF:-1,sky sport2 fhd
 http://181.78.106.127:9000/play/ca029/index.m3u8
 #EXTINF:-1,sky sport3 fhd
 http://181.78.106.127:9000/play/ca030/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports HD (MX)" tvg-logo="https://img.tvcl.xyz/deportes/clarosports.png" group-title="",Claro Sports HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302690
+#EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO SD (CL)" tvg-logo="https://img.hidra.app/deportes/cdo.png" group-title="",CDO SD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34678
+#EXTINF:-1 tvg-id="CDOPremium.cl" tvg-name="CDO 2 SD (CL)" tvg-logo="https://img.hidra.app/deportes/cdo.png" group-title="",CDO 2 SD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34679
+#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="Teletrak HD (CL)" tvg-logo="https://img.hidra.app/deportes/teletrak.png" group-title="",Teletrak HD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34680
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-name="Sporting HD (CL)" tvg-logo="https://img.hidra.app/deportes/sporting.png" group-title="",Sporting HD (CL)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34681
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV SD (ARG)" tvg-logo="https://img.hidra.app/deportes/deportv.png" group-title="",DeporTV SD (ARG)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34740
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports SD (CO)" tvg-logo="https://img.hidra.app/deportes/winsports.png" group-title="",Win Sports SD (CO)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34689
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports FHD (CO)" tvg-logo="https://img.hidra.app/deportes/winsports.png" group-title="",Win Sports FHD (CO)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34690
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports + FHD (CO)" tvg-logo="https://img.hidra.app/deportes/winsportsplus.png" group-title="",Win Sports + FHD (CO)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34691
+#EXTINF:-1 tvg-id="M.DEPORTES.(M.Deportes).pe" tvg-name="Movistar Deportes SD (PE)" tvg-logo="https://img.hidra.app/deportes/movistardeportes.png" group-title="",Movistar Deportes SD (PE)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34743
+#EXTINF:-1 tvg-id="GOLPERU.(GOLPERU).pe" tvg-name="Gol Peru SD (PE)" tvg-logo="https://img.hidra.app/deportes/golperu.png" group-title="",Gol Peru SD (PE)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34744
+#EXTINF:-1 tvg-id="GOLPERU.(GOLPERU).pe" tvg-name="GolPeru FHD (PE)" tvg-logo="https://img.hidra.app/deportes/golperu.png" group-title="",GolPeru FHD (PE)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34745
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV HD (ECU)" tvg-logo="https://img.hidra.app/deportes/goltv.png" group-title="",Gol TV HD (ECU)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34693
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Golf Channel HD (MX)" tvg-logo="https://img.hidra.app/deportes/golfchannel.png" group-title="",Golf Channel HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34695
+#EXTINF:-1 tvg-id="Canal Golf Channel" tvg-name="Golf Channel HD (MX)" tvg-logo="https://img.hidra.app/deportes/golfchannel.png" group-title="",Golf Channel HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34696
+#EXTINF:-1 tvg-id="" tvg-name="Adrenalina Sport Network HD (MX)" tvg-logo="https://img.hidra.app/deportes/adrenalina-sport.png" group-title="",Adrenalina Sport Network HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302603
+#EXTINF:-1 tvg-id="" tvg-name="NFL Network (MX)" tvg-logo="https://img.hidra.app/deportes/nflnet.png" group-title="",NFL Network (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/313027
+#EXTINF:-1 tvg-id="Canal.TVC.Deportes.mx" tvg-name="TVC Deportes HD (MX)" tvg-logo="https://img.hidra.app/deportes/tvcdeportes.png" group-title="",TVC Deportes HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302737
+#EXTINF:-1 tvg-id="" tvg-name="Aym Sports HD (MX)" tvg-logo="https://img.hidra.app/deportes/aym-sports.png" group-title="",Aym Sports HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302613
+#EXTINF:-1 tvg-id="" tvg-name="TUDN HD (MX)" tvg-logo="https://img.hidra.app/deportes/tudn.png" group-title="",TUDN HD (MX)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/304510
+#EXTINF:-1 tvg-id="NBATV.th" tvg-name="NBA TV HD (US)" tvg-logo="https://img.hidra.app/deportes/nbatv.png" group-title="",NBA TV HD (US)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34712
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass FHD (US)" tvg-logo="https://img.hidra.app/deportes/ufc.png" group-title="",UFC Fight Pass FHD (US)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34714
+#EXTINF:-1 tvg-id="UnivisionWLII.us" tvg-name="TUDN FHD (US)" tvg-logo="https://img.hidra.app/deportes/tudn.png" group-title="",TUDN FHD (US)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34715
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network HD  (US)" tvg-logo="https://img.hidra.app/deportes/wwenetwork.png" group-title="",WWE Network HD  (US)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34716
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-name="Fight Network FHD (CA)" tvg-logo="https://img.hidra.app/deportes/fight-network.png" group-title="",Fight Network FHD (CA)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34711
+#EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="Canal F1 FHD (ES)" tvg-logo="https://img.hidra.app/deportes/canalf1.png" group-title="",Canal F1 FHD (ES)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34701
+#EXTINF:-1 tvg-id="BarcaTV.es" tvg-name="Barca TV SD (ES)" tvg-logo="https://img.hidra.app/deportes/barca.png" group-title="",Barca TV SD (ES)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34702
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="Movistar Deportes FHD (ES)" tvg-logo="https://img.hidra.app/deportes/movistardeportes.png" group-title="",Movistar Deportes FHD (ES)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34704
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network HD (US)" tvg-logo="https://img.hidra.app/deportes/nflnet.png" group-title="",NFL Network HD (US)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34705
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="Real Madrid TV FHD (ES)" tvg-logo="https://img.hidra.app/deportes/realmadridtv.png" group-title="",Real Madrid TV FHD (ES)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34706
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 1 HD (ES)" tvg-logo="https://img.hidra.app/deportes/eurosport1.png" group-title="",EuroSport 1 HD (ES)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34709
+#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2 FHD (ES)" tvg-logo="https://img.hidra.app/deportes/eurosport2.png" group-title="",EuroSport 2 FHD (ES)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34710
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports Ñ HQ (ES)" tvg-logo="https://img.hidra.app/deportes/beinsports.png" group-title="",b31N Sports Ñ HQ (ES)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34717
+#EXTINF:-1 tvg-id="" tvg-name="b31N Sports 7 HD (US)" tvg-logo="https://img.hidra.app/deportes/beinsports.png" group-title="",b31N Sports 7 HD (US)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34724
+#EXTINF:-1 tvg-id="" tvg-name="Liga 1 MAX FHD (PE)" tvg-logo="https://img.hidra.app/deportes/liga1.png" group-title="",Liga 1 MAX FHD (PE)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/333106
+#EXTINF:-1 tvg-id="" tvg-name="ATG Tv SD (US)" tvg-logo="https://img.hidra.app/deportes/atg.png" group-title="",ATG Tv SD (US)
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/333812
+
+
+
+
+
 
 
 
