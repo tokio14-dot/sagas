@@ -9,8 +9,6 @@ http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46748.ts
 #EXTGRP:
 
 #EXTGRP:TNT SPORTS
-
-
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJHCX.png",TNT Sports AR
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34683
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJHCX.png",TNT Sports A
@@ -97,15 +95,16 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302637
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/312852
 #EXTINF:-1 tvg-id="FoxSports1Chile.cl" tvg-name="ESPN 
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34631
-#EXTINF:-1 tvg-id="13C.cl" tvg-name="ESPN PREMIUM FHD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsports.png" group-title="ESPN",ESPN PREMIUM FHD (CL)
+
+#EXTINF:-1 tvg-id="" tvg-name="ESPN PREMIUM FHD (CL)" tvg-logo="https://img.hidra.app/deportes/espnpremium.png" group-title="ESPN",ESPN PREMIUM FHD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34632
-#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="ESPN 6 SD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport2.png" group-title="ESPN",ESPN 6 SD (CL)
+#EXTINF:-1 tvg-id="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 6 SD (CL)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN 6 SD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34633
-#EXTINF:-1 tvg-id="FoxSports2South.us" tvg-name="ESPN 6 FHD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport2.png" group-title="ESPN",ESPN 6 FHD (CL)
+#EXTINF:-1 tvg-id="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 6 FHD (CL)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN 6 FHD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34635
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="ESPN 7 SD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 SD (CL)
+#EXTINF:-1 tvg-id="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 7 SD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 SD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34636
-#EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-name="ESPN 7 FHD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 FHD (CL)
+#EXTINF:-1 tvg-id="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 7 FHD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 FHD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34638
 
 
