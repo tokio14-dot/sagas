@@ -174,10 +174,10 @@ http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398083
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398076
 #EXTINF:-1 tvg-logo="",el coche fantastico 2
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398077
-#EXTINF:-1 tvg-logo="",cuentos de la crypta
+#EXTINF:-1 tvg-logo="",cuentos de la crypta(animado)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/50589
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="",la niñera
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/49198
 #EXTINF:-1 tvg-logo="",Los magníficos
 http://170.39.192.130:2095/56989348288act/030724w1/306227
 #EXTINF:-1 tvg-logo="",Magcyver
@@ -194,12 +194,24 @@ https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT81GOw_gKHKahMA3DcsqR_FSSg
 http://goldfull.pro:8880/JorgeYanez/Tw3C7VfwaQx6/398085
 #EXTINF:-1 tvg-logo="",KUNG FU
 http://170.39.192.130:2095/56989348288act/030724w1/306218
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1,CHESPIRITO
+http://nxt.plus:8080/jesus01/jesus01/91927
+#EXTINF:-1,CHAPULIN COLORADO
+http://nxt.plus:8080/jesus01/jesus01/91928
+#EXTINF:-1 ,24/7 El Chavo 8 op 1
+https://dnslivetv.online:443/7336/1234/1078659.m3u8
+#EXTINF:-1", EL CHAVO DEL 8 op 2
+https://stream.gia.tv/giatvplayout7/giatv-209650/playlist.ts.m3u8
+#EXTINF:-1 ",El Chavo Del 8 op 3
+https://dnslivetv.online:443/7336/1234/1078489.m3u8
+#EXTINF:-1, EL CHAVO DEL 8 op 4
+http://nxt.plus:8080/jesus01/jesus01/91926.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
+#EXTINF:-1 ",LOS 3 CHIFLADOS 1
+http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
+#EXTINF:-0 ",LOS 3 CHIFLADOS 2
+http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
+#EXTINF:-1 , CANTINFLAS
+https://dnslivetv.online:443/7336/1234/1078657.m3u8
 
 
 #EXTGRP:INFANTILES AYER Y DE HOY
@@ -349,24 +361,6 @@ https://dnslivetv.online:443/7336/1234/1078703.m3u8
 
 #EXTINF:-1, telenovelas Clasicas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=
-#EXTINF:-1,CHESPIRITO
-http://nxt.plus:8080/jesus01/jesus01/91927
-#EXTINF:-1,CHAPULIN COLORADO
-http://nxt.plus:8080/jesus01/jesus01/91928
-#EXTINF:-1 ,24/7 El Chavo del Ocho
-https://dnslivetv.online:443/7336/1234/1078659.m3u8
-#EXTINF:-1", EL CHAVO DEL 8
-https://stream.gia.tv/giatvplayout7/giatv-209650/playlist.ts.m3u8
-#EXTINF:-1 ", El Chavo Del 8
-https://dnslivetv.online:443/7336/1234/1078489.m3u8
-#EXTINF:-1,CHAVO DEL 8
-http://nxt.plus:8080/jesus01/jesus01/91926.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=6b24&deviceDNT=0&deviceModel=0
-#EXTINF:-1 ",LOS 3 CHIFLADOS 24/7
-http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
-#EXTINF:0,LOS 3 CHIFLADOS 24/7
-http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
-#EXTINF:-1 , CANTINFLAS
-https://dnslivetv.online:443/7336/1234/1078657.m3u8
 #EXTINF:-1 ,Los 80
 https://dnslivetv.online:443/7336/1234/1078628.m3u8
 #EXTINF:-1 ,PISTOLEROS 24/7
