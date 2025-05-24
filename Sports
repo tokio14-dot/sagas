@@ -92,23 +92,33 @@ http://181.78.106.127:9000/play/ca031/index.m3u8
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34639
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports AR SD
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34640
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports 2 AR SD
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport2.png",FOX Sports 2 AR SD
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34642
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports 2 FHD AR
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport2.png",FOX Sports 2 FHD AR
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34644
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports 3 SD AR
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport3.png",FOX Sports 3 SD AR
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34645
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports 3 FHD AR
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport3.png",FOX Sports 3 FHD AR
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34647
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Spprts HD MX 
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302652
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport2.png",FOX Sports 2 SD AR
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34642
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport2.png",FOX Sports 2 FHD AR
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34644
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport3.png",FOX Sports 3 SD AR
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34645
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport3.png",FOX Sports 3 FHD AR
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34647
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsports.png",FOX Spprts HD MX
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302652
+#EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport2.png",FOX Sports HD MX
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302653
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
 
-
-
-#EXTINF:-1,Wplus
-http://152.231.29.139:8000/play/a0cd/index.m3u8
+#EXTINF:-1 tvg-logo="",
 
 
 
@@ -118,7 +128,8 @@ http://152.231.29.139:8000/play/a0cd/index.m3u8
 
 
 probado
-
+#EXTINF:-1,Wplus
+http://152.231.29.139:8000/play/a0cd/index.m3u8
 #EXTINF:-1,Liga
 http://181.78.106.127:9000/play/ca027/index.m3u8
 
