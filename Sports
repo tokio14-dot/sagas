@@ -1,14 +1,14 @@
 EXTM3U
 
 
-TyC Sports
+#EXTGRP:TyC Sports
 #EXTINF:-1 tvg-logo="https://iili.io/JKrHXh7.png",TyC Sports A
 https://tyc.ale24cba.workers.dev/
 #EXTINF:-1 tvg-logo="https://iili.io/JKrHXh7.png",TyC Sports A
 http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46748.ts
 
 
-TNT SPORTS
+#EXTGRP:TNT SPORTS
 
 
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJHCX.png",TNT Sports AR
@@ -37,7 +37,7 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/123886
 
 
 
-ESPN Premium
+#EXTGRP:ESPN Premium
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png",ESPN Premium A
 http://p2premium.club:80/live/Guolee9080/Juan9080/339650.ts
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png",ESPN Premium B
@@ -79,7 +79,7 @@ http://181.78.106.127:9000/play/ca034/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdlR4.png",, espn4 fhd
 http://181.78.106.127:9000/play/ca036/index.m3u8
 
-FOX Sports
+#EXTGRP:FOX Sports
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports
 http://tv.zeuspro.xyz:8080/Hospremier2/30733f70ac5a/9575
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",fox sport sd 640
@@ -88,22 +88,22 @@ http://181.78.106.127:9000/play/ca031/index.m3u8
 http://181.78.106.127:9000/play/ca032/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",fox sport mx sd 640
 http://181.78.106.127:9000/play/ca031/index.m3u8
-
-#EXTINF:-1 tvg-logo="",FOX Sports AR HD
+#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports AR HD
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34639
-#EXTINF:-1 tvg-logo="",FOX Sports AR SD
+#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports AR SD
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34640
-#EXTINF:-1 tvg-logo="",FOX Sports 2 AR SD
+#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports 2 AR SD
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34642
-#EXTINF:-1 tvg-logo="",FOX Sports 2 FHD AR
+#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports 2 FHD AR
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34644
-#EXTINF:-1 tvg-logo="",FOX Sports 3 SD AR
+#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports 3 SD AR
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34645
-#EXTINF:-1 tvg-logo="",FOX Sports 3 FHD AR
+#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports 3 FHD AR
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34647
-#EXTINF:-1 tvg-logo="",FOX Spprts HD MX 
+#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Spprts HD MX 
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/302652
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",
+
 
 
 
