@@ -13,12 +13,6 @@ http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/46748.ts
 
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJHCX.png",TNT Sports AR
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34683
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJHCX.png",TNT Sports A
 http://p2premium.club:80/live/Guolee9080/Juan9080/470488.ts
 #EXTINF:-1 tvg-logo="https://iili.io/JKrJHCX.png",TNT Sports B
@@ -38,20 +32,6 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/123886
 
 
 #EXTGRP:ESPN Premium
-#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png",ESPN Premium A
-http://p2premium.club:80/live/Guolee9080/Juan9080/339650.ts
-#EXTINF:-1 tvg-logo="https://iili.io/JKrJQV9.png",ESPN Premium B
-http://portal5458.com:8080/live/2zWgaxdy54/9197131486/46727.ts
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdlR4.png",ESPN A
-http://195.66.210.10:80/PabloMejia08/DYCKV/219173
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdlR4.png",ESPN B
-http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/47111.ts
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png"group-title="",ESPN 3
-http://sapphireapp.xyz:8080/live/CgqzWqMHQ9/5257748697/47104.ts
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png", ESPN1 HD
-http://181.205.130.194:4000/play/a07j
-#EXTINF:-1 tvg-logo="https://iili.io/JKrdO5x.png", ESPN2 HD
-http://181.205.130.194:4000/play/a07i
 
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SD (CL)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN SD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/157048
