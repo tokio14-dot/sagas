@@ -184,10 +184,12 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
 https://dnslivetv.online:443/7336/1234/1078660.m3u8
 #EXTINF:-1 ",los simpson op2
 http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/298796.m3u8
-#EXTINF:-1 ",los simpson op2
+#EXTINF:-1 ",los simpson op3
 https://live20.bozztv.com/giatvplayout7/giatv-208410/playlist.m3u8
-
-
+#EXTINF:-1 ",los simpson op4
+https://ssh101.bozztv.com/ssh101/simpz1/playlist.m3u8
+#EXTINF:-1 ",los simpson op5
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58314
 
 #EXTGRP:SAGA
 #EXTINF:-1 ' ,Saga (Avatar)
