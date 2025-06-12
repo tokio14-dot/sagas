@@ -36,6 +36,9 @@ http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
 
 #EXTGRP:INFANTILES AYER Y DE HOY
 
+#EXTINF:-1",Adventures Of Sonic The Hedgehog Espanol HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
+
 #EXTINF:-1 tvg-logo="",Kung Fu Panda HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50606
 #EXTINF:-1 tvg-logo="",Jimmy Neutron SD
@@ -60,13 +63,6 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333165
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333166
 #EXTINF:-1 tvg-logo="",Bob Esponja SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58076
-
-
-
-
-
-
-
 #EXTINF:-1 ",PITUFO TV 
 https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 ",PITUFO TV op2
@@ -119,11 +115,6 @@ https://dnslivetv.online:443/JoseDiaz1210/ZDSj915916/1078495
 #EXTINF:-1 ", ThunderCats
 https://dnslivetv.online:443/7336/1234/1078483.m3u8
 
-
-
-
-
-
 #EXTGRP:DRAGON BALL
 #EXTINF:-1 tvg-logo="",peliculas dragon ball
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/50597
@@ -168,15 +159,10 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
 
 #EXTGRP:LOS SIMPSON
 
-
-
 #EXTINF:-1 ",Los Simpson op1
 https://dnslivetv.online:443/7336/1234/1078660.m3u8
 #EXTINF:-1 ",los simpson op2
 http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/298796.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo=",Los Simpsons
 
 
 #EXTGRP:SAGA
