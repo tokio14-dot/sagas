@@ -31,17 +31,17 @@ https://dnslivetv.online:443/7336/1234/1078489.m3u8
 #EXTINF:-1 ",LOS 3 CHIFLADOS 1
 http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
 #EXTINF:-0 ",LOS 3 CHIFLADOS 2
-http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
-
+https://live20.bozztv.com/giatvplayout7/giatv-208219/playlist.m3u8
 
 
 #EXTGRP:INFANTILES AYER Y DE HOY
 
 #EXTINF:-1 ", Bean Animado HD
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1",Adventures Of Sonic The Hedgehog Espanol HD
+#EXTINF:-1 ",Adventures Of Sonic The Hedgehog Espanol HD
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2260
-
+#EXTINF:-1 ",los pitufos
+https://imps-smrfs.otteravision.com/imps/smrfs/smrfs.m3u8
 #EXTINF:-1 tvg-logo="",Kung Fu Panda HD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50606
 #EXTINF:-1 tvg-logo="",Jimmy Neutron SD
@@ -150,6 +150,11 @@ http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58107
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50597
 #EXTINF:-1 tvg-logo="",Dragon Ball GT SD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58084
+#EXTINF:-1 ",DRAGON BALL Z
+https://live20.bozztv.com/giatvplayout7/giatv-208725/playlist.m3u8
+#EXTINF:-1 ",DRAGON BALL SUPER
+https://live20.bozztv.com/giatvplayout7/giatv-208708/playlist.m3u8
+
 
 
 #EXTGRP:CLASSIC
@@ -179,6 +184,9 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
 https://dnslivetv.online:443/7336/1234/1078660.m3u8
 #EXTINF:-1 ",los simpson op2
 http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/298796.m3u8
+#EXTINF:-1 ",los simpson op2
+https://live20.bozztv.com/giatvplayout7/giatv-208410/playlist.m3u8
+
 
 
 #EXTGRP:SAGA
