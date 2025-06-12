@@ -3,7 +3,8 @@
 
 #EXTINF:-1 tvg-logo="",adult swim 1
 http://177.234.230.206:8011/play/a0ev/index.m3u8
-
+#EXTINF:-1 tvg-logo="",adult swim 2
+http://177.234.230.206:8011/play/a0lo/index.m3u8
 #EXTINF:-1 ",Adult Swim LA
 http://181.119.86.1:8000/play/a019
 
