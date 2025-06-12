@@ -1,23 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",444
-
 
 #EXTINF:-1 tvg-logo="",adult swim 1
 http://177.234.230.206:8011/play/a0ev/index.m3u8
-#EXTINF:-1 tvg-logo="",Adult Swim 2
-http://177.234.230.206:8011/play/a0ev/index.m3u8
+
 #EXTINF:-1 ",Adult Swim LA
 http://181.119.86.1:8000/play/a019
 
-
-#EXTGRP:NOVELAS
-
-
-
-
 #EXTGRP:RETRO
 
+
+#EXTINF:-1,TV RETRO
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
 #EXTINF:-1 tvg-logo="",ALF
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/333134
 #EXTINF:-1 tvg-logo="",cuentos de la crypta(animado)
