@@ -264,32 +264,6 @@ https://dnslivetv.online:443/7336/1234/1078662.m3u8
 #EXTINF:-1 ,24/7 SEMANA SANTA 6
 
 
-#EXTGRP:SOLO CINE
-#EXTINF:-1 ,INFANTIL 24/7
-https://dnslivetv.online:443/7336/1234/1078532.m3u8
-#EXTINF:-1 ,24/7 | CINEMA 08
-https://dnslivetv.online:443/7336/1234/1078698.m3u8
-#EXTINF:-1 ,HALLOWEEN 07
-https://dnslivetv.online:443/7336/1234/1078549.m3u8
-#EXTINF:-1 ,HALLOWEEN 09
-https://dnslivetv.online:443/7336/1234/1078551.m3u8
-#EXTINF:-1 ,AMAZON 3
-https://dnslivetv.online:443/7336/1234/1078648.m3u8
-#EXTINF:-1 ,AMAZON 7
-https://dnslivetv.online:443/7336/1234/1078652.m3u8
-#EXTINF:-1 , Happy Madison 2
-https://dnslivetv.online:443/7336/1234/1078505.m3u8
-#EXTINF:-1 , Cine Ficción
-https://dnslivetv.online:443/7336/1234/1078506.m3u8
-#EXTINF:-1 ,24/7 FAMILIAR
-https://dnslivetv.online:443/7336/1234/1078510.m3u8
-#EXTINF:-1 ,NETFLIX 02
-https://dnslivetv.online:443/7336/1234/1078512.m3u8
-#EXTINF:-1 ,LATINO 04
-https://dnslivetv.online:443/7336/1234/1078523.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Accion Classics FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Accion Classics FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50572
