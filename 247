@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTGRP:adult swim
+#EXTGRP:adult swim y tooscast
 #EXTINF:-1 tvg-logo="",adult swim 1
 http://177.234.230.206:8011/play/a0ev/index.m3u8
 #EXTINF:-1 tvg-logo="",adult swim 2
@@ -9,7 +9,8 @@ http://177.234.230.206:8011/play/a0lo/index.m3u8
 http://181.119.86.1:8000/play/a019
 #EXTINF:-1 ",Adult Swim LA 2
 http://104.238.205.28:8989/278391_.m3u8
-
+#EXTINF:-1 ",tooscast
+https://user.tvcluboficial.com/live/m/m/95.m3u8
 #EXTGRP:RETRO
 
 #EXTINF:-1 ",Mr Bean HD
