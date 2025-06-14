@@ -291,9 +291,6 @@ https://dnslivetv.online:443/7336/1234/1078523.m3u8
 
 
 
-
-#EXTGRP:24/7 HIDRA
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Accion Classics FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Accion Classics FHD
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50572
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Horror Classics HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Horror Classics HD
