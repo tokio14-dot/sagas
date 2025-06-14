@@ -190,6 +190,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-208410/playlist.m3u8
 https://ssh101.bozztv.com/ssh101/simpz1/playlist.m3u8
 #EXTINF:-1 ",los simpson op5
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58314
+#EXTINF:-1 ",los simpson op6
+https://user.tvcluboficial.com/live/m/m/357.m3u8
+
 
 #EXTGRP:SAGA
 #EXTINF:-1 ' ,Saga (Avatar)
