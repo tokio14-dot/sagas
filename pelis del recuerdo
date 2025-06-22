@@ -825,10 +825,10 @@ https://archive.org/download/estan-vivos-1988/Est%C3%A1n%20Vivos%20%281988%29.mp
 
 _____1987
 
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lVktKsmjZOSMxiGgbyur5zOnKZK.jpg",(FHD)La generación perdida (1987)
+https://archive.org/download/tauklv20210903pelicula1987generacionperdidajoelschumacher/Pelicula/%281987%29%20Generaci%C3%B3n%20Perdida%20%28Joel%20Schumacher%29/%281987%29%20Generaci%C3%B3n%20Perdida%20%28Joel%20Schumacher%29%20%5BLAT%5D.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lVktKsmjZOSMxiGgbyur5zOnKZK.jpg",La generación perdida (1987)
+https://archive.org/download/tauklv20210903pelicula1987generacionperdidajoelschumacher/Pelicula/%281987%29%20Generaci%C3%B3n%20Perdida%20%28Joel%20Schumacher%29/%281987%29%20Generaci%C3%B3n%20Perdida%20%28Joel%20Schumacher%29%20%5BLAT%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vuNYmmI2gBy0ocdu1v2s4wHPN1Q.jpg",RoboCop (1987)HD
 https://archive.org/download/peli8_202402/RoboCop%201987.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vuNYmmI2gBy0ocdu1v2s4wHPN1Q.jpg",RoboCop (1987)SD
