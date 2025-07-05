@@ -31,6 +31,10 @@ http://nxt.plus:8080/jesus01/jesus01/91928
 https://dnslivetv.online:443/7336/1234/1078659.m3u8
 #EXTINF:-1 ",El Chavo Del 8 op 3
 https://dnslivetv.online:443/7336/1234/1078489.m3u8
+#EXTINF:-1 tvg-logo="",el chapulín colorado
+http://172.93.102.119:8989/279027_.m3u8
+#EXTINF:-1 tvg-logo="",el chavo del 8
+http://172.93.102.119:8989/279007_.m3u8
 #EXTINF:-1 ",LOS 3 CHIFLADOS 1
 http://live.detodotvplay.com:8080/Leonel61/LU581526024/298792.m3u8
 #EXTINF:-0 ",LOS 3 CHIFLADOS 2
@@ -200,7 +204,8 @@ https://ssh101.bozztv.com/ssh101/simpz1/playlist.m3u8
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58314
 #EXTINF:-1 ",los simpson op6
 https://user.tvcluboficial.com/live/m/m/357.m3u8
-
+#EXTINF:-1 tvg-logo="",Tom y Jerry HD
+http://172.93.102.119:8989/279051_.m3u8
 
 #EXTGRP:SAGA
 #EXTINF:-1 ' ,Saga (Avatar)
@@ -226,7 +231,8 @@ https://dnslivetv.online:443/7336/1234/1078613.m3u8
 
 #EXTGRP:SERIES
 
-
+#EXTINF:-1 ",urgencias HD
+http://190.119.40.74:8200/play/a0kl
 #EXTINF:-1 ",SHARK TANK MEXICO 24/7
 https://spt-sonyonesharktank-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 ",SONY SHARK TANK op2
