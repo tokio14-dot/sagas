@@ -111,7 +111,130 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34636
 #EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/espn.png" tvg-name="ESPN 7 FHD (CL)" tvg-logo="https://img.hidra.app/deportes/foxsport3.png" group-title="ESPN",ESPN 7 FHD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34638
 
-
+#EXTGRP:ESPN OP 2
+#EXTINF:-1,ESPN 2 HD
+http://177.8.76.2:8000/play/a0ln
+#EXTINF:-1,ESPN 3 HD
+http://177.8.76.2:8000/play/a0m7
+#EXTINF:-1,ESPN 4HD
+http://177.8.76.2:8000/play/a0m6
+#EXTINF:-1,ESPN 5HD
+http://177.8.76.2:8000/play/a0lk
+#EXTINF:-1,ESPN 6HD
+http://177.8.76.2:8000/play/a0m8
+#EXTINF:-1,ESPN 7HD
+http://177.8.76.2:8000/play/a0sg
+#EXTINF:-1,ESPN HD
+http://177.8.76.2:8000/play/a0lr
+#EXTINF:-1,ESPN Premium HD
+http://177.8.76.2:8000/play/a0mh
+#EXTINF:-1 group-title="-",ESPN 1 Peru
+#EXTINF:-1 group-title="-",ESPN
+http://181.198.105.69:8111/play/a1s3
+#EXTINF:-1 group-title="-",ESPN
+http://181.198.105.69:8111/play/a1se
+#EXTINF:-1 group-title="-",ESPN
+http://181.198.105.69:8111/play/a1vc
+#EXTINF:-1 group-title="-",ESPN
+http://181.198.105.69:8111/play/a13w
+#EXTINF:-1 group-title="-",ESPN
+http://181.198.105.69:8111/play/a14y
+#EXTINF:-1 group-title="-",ESPN HD
+http://181.198.105.69:8111/play/a0yc
+#EXTINF:-1 group-title="-",ESPN HD
+http://181.198.105.69:8111/play/a15p
+#EXTINF:-1 group-title="-",ESPN HD
+http://181.198.105.69:8111/play/a1ua
+#EXTINF:-1 group-title="-",ESPN HD
+http://181.198.105.69:8111/play/a0v7
+#EXTINF:-1 group-title="-",ESPN HD
+http://181.198.105.69:8111/play/a1t2
+#EXTINF:-1 group-title="-",ESPN HD ST
+http://181.198.105.69:8111/play/a1rp
+#EXTINF:-1 group-title="-",ESPN HD ST
+http://181.198.105.69:8111/play/a1hx
+#EXTINF:-1 group-title="-",ESPN 2
+http://181.198.105.69:8111/play/a1ch
+#EXTINF:-1 group-title="-",ESPN 2 ARGENTINA
+http://181.198.105.69:8111/play/a1dw
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://181.198.105.69:8111/play/a15j
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://181.198.105.69:8111/play/a17t
+#EXTINF:-1 group-title="-",ESPN 2 HD
+http://181.198.105.69:8111/play/a1wq
+#EXTINF:-1 group-title="-",ESPN 2 HD ST
+http://181.198.105.69:8111/play/a1rq
+#EXTINF:-1 group-title="-",ESPN 2 HD ST
+http://181.198.105.69:8111/play/a1hy
+#EXTINF:-1 group-title="-",ESPN 2 ST
+http://181.198.105.69:8111/play/a1j6
+#EXTINF:-1 group-title="-",ESPN 3
+http://181.198.105.69:8111/play/a17f
+#EXTINF:-1 group-title="-",ESPN 3 ARGENTINA
+http://181.198.105.69:8111/play/a1dy
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://181.198.105.69:8111/play/a17p
+#EXTINF:-1 group-title="-",ESPN 3 HD
+http://181.198.105.69:8111/play/a1uy
+#EXTINF:-1 group-title="-",ESPN 3 HD ST
+http://181.198.105.69:8111/play/a1rr
+#EXTINF:-1 group-title="-",ESPN 3 HD ST
+http://181.198.105.69:8111/play/a1hz
+#EXTINF:-1 group-title="-",ESPN 3 ST
+http://181.198.105.69:8111/play/a1kn
+#EXTINF:-1 group-title="-",ESPN 4
+http://181.198.105.69:8111/play/a0xu
+#EXTINF:-1 group-title="-",ESPN 4
+http://181.198.105.69:8111/play/a1sf
+#EXTINF:-1 group-title="-",ESPN 4
+http://181.198.105.69:8111/play/a13j
+#EXTINF:-1 group-title="-",ESPN 4 HD AR
+http://181.198.105.69:8111/play/a1fu
+#EXTINF:-1 group-title="-",ESPN 4 ST
+http://181.198.105.69:8111/play/a1ko
+#EXTINF:-1 group-title="-",ESPN 4HD
+http://181.198.105.69:8111/play/a17o
+#EXTINF:-1 group-title="-",ESPN 4HD
+http://181.198.105.69:8111/play/a1t3
+#EXTINF:-1 group-title="-",ESPN 5HD
+http://190.216.162.156:8001/play/a03w
+#EXTINF:-1 group-title="-",ESPN 5
+http://181.198.105.69:8111/play/a11y
+#EXTINF:-1 group-title="-",ESPN 5HD
+http://181.198.105.69:8111/play/a1uq
+#EXTINF:-1 group-title="-",ESPN 5HD
+http://181.198.105.69:8111/play/a15g
+#EXTINF:-1 group-title="-",ESPN 6
+http://181.198.105.69:8111/play/a17d
+#EXTINF:-1 group-title="-",ESPN 6 HD ST
+http://181.198.105.69:8111/play/a1rs
+#EXTINF:-1 group-title="-",ESPN 6 HD ST
+http://181.198.105.69:8111/play/a1i0
+#EXTINF:-1 group-title="-",ESPN 6HD
+http://181.198.105.69:8111/play/a1uk
+#EXTINF:-1 group-title="-",ESPN 6HD
+http://181.198.105.69:8111/play/a18p
+#EXTINF:-1 group-title="-",ESPN 6HD
+http://181.198.105.69:8111/play/a17q
+#EXTINF:-1 group-title="-",ESPN 7
+http://181.198.105.69:8111/play/a144
+#EXTINF:-1 group-title="-",ESPN 7
+http://181.198.105.69:8111/play/a1sg
+#EXTINF:-1 group-title="-",ESPN 7 AR
+http://181.198.105.69:8111/play/a1pr
+#EXTINF:-1 group-title="-",ESPN 7 HD AR
+http://181.198.105.69:8111/play/a1pp
+#EXTINF:-1 group-title="-",ESPN 7HD
+http://181.198.105.69:8111/play/a1sv
+#EXTINF:-1 group-title="-",ESPN ARGENTINA
+http://181.198.105.69:8111/play/a1dx
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://181.198.105.69:8111/play/a0yz
+#EXTINF:-1 group-title="-",ESPN Premium HD
+http://181.198.105.69:8111/play/a0yg
+#EXTINF:-1 group-title="-",ESPN ST
+http://181.198.105.69:8111/play/a1j5
 
 
 #EXTGRP:FOX Sports
