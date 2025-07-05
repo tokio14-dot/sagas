@@ -35,7 +35,7 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/123886
 
 
 
-
+#EXTGRP:ESPN OP 1
 #EXTINF:-1 tvg-id="" tvg-name="ESPN SD (CL)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN SD (CL)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/157048
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD (CL)" tvg-logo="https://img.hidra.app/deportes/espn.png" group-title="ESPN",ESPN HD (CL)
@@ -236,6 +236,17 @@ http://181.198.105.69:8111/play/a0yg
 #EXTINF:-1 group-title="-",ESPN ST
 http://181.198.105.69:8111/play/a1j5
 
+#EXTGRP:DSPORTS
+#EXTINF:-1,DSPORTS
+http://179.51.136.19:8000/play/DSPORTS1
+#EXTINF:-1 group-title="-",DSPORTS +
+http://190.216.162.156:8001/play/a05h
+#EXTINF:-1 group-title="-",DSPORTS 
+http://172.93.102.112:8989/279390_.m3u8
+#EXTINF:-1 group-title="-",DSPORTS 2
+http://190.216.162.156:8001/play/a05g
+
+
 
 #EXTGRP:FOX Sports
 #EXTINF:-1 tvg-logo="https://iili.io/JKrdrqF.png",FOX Sports
@@ -280,6 +291,27 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34626
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/304554
 #EXTINF:-1 tvg-logo="https://img.hidra.app/deportes/foxsport2.png",Fox Sports 2 HD (US)
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/34650
+
+
+#EXTGRP:DAZN
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES: Dazn 1 SD" tvg-logo="https://hidra.live:443/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVRhdcKD1L3N_4aXrW9We6KE3pPWkY0_hR3RbuHE5XsX8.png" group-title=DAZN",ES: Dazn 1 SD
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335429
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES: Dazn 1 FHD" tvg-logo="https://hidra.live:443/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVRhdcKD1L3N_4aXrW9We6KE3pPWkY0_hR3RbuHE5XsX8.png" group-title=DAZN",ES: Dazn 1 FHD
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335431
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="ES: Dazn 2 FHD" tvg-logo="https://hidra.live:443/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iCjx7Eaf1rNr19zNergL58Ug.png" group-title=DAZN",ES: Dazn 2 FHD
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335434
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: Dazn 3 FHD" tvg-logo="https://hidra.live:443/images/IPipT31tafaSLBzN7UqRBWKd18SmX-NzH-YBR2p5orFKhgsGa4KM8VoC-wcpWC8lK0JLfgwZQDo1t7_MT0KM-A.png" group-title=DAZN",ES: Dazn 3 FHD
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335436
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: Dazn 4 FHD" tvg-logo="https://hidra.live:443/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iC63f1PKT3TPJublQWXeZZEQ.png" group-title=DAZN",ES: Dazn 4 FHD
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335438
+#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: Dazn F1 HD" tvg-logo="https://hidra.live:443/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVfMvzUfyEPoF7trkiIraotKr0uBQ_M-86v2zv8Nm45pg.png" group-title=DAZN",ES: Dazn F1 HD
+https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335440
+
+#EXTGRP:DIRECTVSPORTS
+
+
+
 
 
 
@@ -340,20 +372,11 @@ https://hidra.live:443/eufTQNgNXv/ojxBLcjY/333812
 
 
 
-#EXTGRP:DAZN
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES: Dazn 1 SD" tvg-logo="https://hidra.live:443/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVRhdcKD1L3N_4aXrW9We6KE3pPWkY0_hR3RbuHE5XsX8.png" group-title=DAZN",ES: Dazn 1 SD
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335429
-#EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES: Dazn 1 FHD" tvg-logo="https://hidra.live:443/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVRhdcKD1L3N_4aXrW9We6KE3pPWkY0_hR3RbuHE5XsX8.png" group-title=DAZN",ES: Dazn 1 FHD
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335431
-#EXTINF:-1 tvg-id="DAZN 2" tvg-name="ES: Dazn 2 FHD" tvg-logo="https://hidra.live:443/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iCjx7Eaf1rNr19zNergL58Ug.png" group-title=DAZN",ES: Dazn 2 FHD
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335434
-#EXTINF:-1 tvg-id="DAZN 3" tvg-name="ES: Dazn 3 FHD" tvg-logo="https://hidra.live:443/images/IPipT31tafaSLBzN7UqRBWKd18SmX-NzH-YBR2p5orFKhgsGa4KM8VoC-wcpWC8lK0JLfgwZQDo1t7_MT0KM-A.png" group-title=DAZN",ES: Dazn 3 FHD
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335436
-#EXTINF:-1 tvg-id="DAZN 4" tvg-name="ES: Dazn 4 FHD" tvg-logo="https://hidra.live:443/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iC63f1PKT3TPJublQWXeZZEQ.png" group-title=DAZN",ES: Dazn 4 FHD
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335438
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES: Dazn F1 HD" tvg-logo="https://hidra.live:443/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEisfpLaNpQzT32Vpr_YWSTVfMvzUfyEPoF7trkiIraotKr0uBQ_M-86v2zv8Nm45pg.png" group-title=DAZN",ES: Dazn F1 HD
-https://hidra.live:443/eufTQNgNXv/ojxBLcjY/335440
+
+
+
+
 
 
 
