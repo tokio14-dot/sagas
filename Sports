@@ -325,12 +325,23 @@ http://179.63.6.17:9000/play/a08e
 #EXTINF:-1 tvg-logo="",Directv sports
 http://38.199.6.1:17001/play/a0d0
 
+#EXTGRP:,Win Sports
+#EXTINF:-1,Win Sports+
+http://38.187.2.125:8000/play/a0c6
+#EXTINF:-1,Win Sports+ HD
+http://38.191.228.9:8200/play/a0rm
+#EXTINF:-1,Win Sports+ HD
+http://190.60.41.107:8000/play/a0fi
+#EXTINF:-1,Win Sports HD 
+http://177.93.60.26:8000/play/a02m
+#EXTINF:-1,Wplus
+http://152.231.29.139:8000/play/a0cd/index.m3u8
+
 
 
 #EXTGRP:OTROS
 
-#EXTINF:-1,Wplus
-http://152.231.29.139:8000/play/a0cd/index.m3u8
+
 #EXTINF:-1,Liga
 http://181.78.106.127:9000/play/ca027/index.m3u8
 #EXTINF:-1, tudn 1280
