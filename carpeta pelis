@@ -47,8 +47,7 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/playfree
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis
 #EXTINF:-1 tvg-logo="",PELIS
 https://archive.org/download/masallasdeljardin/peliculas.m3u
-#EXTINF:-1 tvg-logo="",PELIS 2
-https://raw.githubusercontent.com/angel200881/chann/refs/heads/main/MPELIS.m3u8
+
 #EXTINF:-1 tvg-logo="",PELIS 3
 https://raw.githubusercontent.com/sagitariolop/lista/refs/heads/main/peliculas.m3u
 
