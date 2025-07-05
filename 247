@@ -43,6 +43,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-208219/playlist.m3u8
 
 #EXTGRP:INFANTILES AYER Y DE HOY
 
+#EXTINF:-1 tvg-logo="",Tom y Jerry HD
+http://172.93.102.119:8989/279051_.m3u8
 #EXTINF:-1 ", Bean Animado HD
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 ",Adventures Of Sonic The Hedgehog Espanol HD
@@ -187,20 +189,13 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8?
 
 #EXTGRP:LOS SIMPSON
 
-#EXTINF:-1 ",Los Simpson op1
-https://dnslivetv.online:443/7336/1234/1078660.m3u8
-#EXTINF:-1 ",los simpson op2
-http://live.detodotvplay.com:8080/Luisrsv22/29KbMrbNCVWh/298796.m3u8
-#EXTINF:-1 ",los simpson op3
-https://live20.bozztv.com/giatvplayout7/giatv-208410/playlist.m3u8
+
 #EXTINF:-1 ",los simpson op4
 https://ssh101.bozztv.com/ssh101/simpz1/playlist.m3u8
 #EXTINF:-1 ",los simpson op5
 http://hidra.live:80/eufTQNgNXv/ojxBLcjY/58314
 #EXTINF:-1 ",los simpson op6
 https://user.tvcluboficial.com/live/m/m/357.m3u8
-#EXTINF:-1 tvg-logo="",Tom y Jerry HD
-http://172.93.102.119:8989/279051_.m3u8
 
 #EXTGRP:SAGA
 #EXTINF:-1 ' ,Saga (Avatar)
