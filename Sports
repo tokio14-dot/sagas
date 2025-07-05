@@ -3,6 +3,11 @@ EXTM3U
 
 
 #EXTGRP:TyC Sports
+
+#EXTINF:-1 tvg-logo="",TyC
+http://38.187.2.125:8000/play/a07q
+#EXTINF:-1 tvg-logo="",TyC Sports
+http://45.4.169.50:8000/play/a09h
 #EXTINF:-1 tvg-logo="https://iili.io/JKrHXh7.png",TyC Sports A
 https://tyc.ale24cba.workers.dev/
 #EXTINF:-1 tvg-logo="https://iili.io/JKrHXh7.png",TyC Sports A
