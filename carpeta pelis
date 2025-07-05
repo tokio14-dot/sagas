@@ -1,6 +1,17 @@
 #EXTM3U
 
 
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",, Marvel colección
+https://raw.githubusercontent.com/ZeruG8/Nexus/main/Nexus/Colecciones/Marvel_Studios/Saga_Del_Infinito/Saga_Del_Infinito.m3u
+
+
 #EXTINF:-1 tvg-logo=""group-title="",2015a2022
 https://raw.githubusercontent.com/appjava/signal/4508820e8974e09e4f772d92ffb479e8c110e420/meiptv/signal2.m3u
 #EXTINF:-1 tvg-logo="",
