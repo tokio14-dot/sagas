@@ -137,6 +137,8 @@ https://dnslivetv.online:443/7336/1234/1078483.m3u8
 #EXTGRP:DRAGON BALL
 #EXTINF:-1 tvg-logo="",peliculas dragon ball
 https://hidra.live:443/eufTQNgNXv/ojxBLcjY/50597
+#EXTINF:-1 tvg-logo="",peliculas dragon ball op 2
+http://hidra.live:80/eufTQNgNXv/ojxBLcjY/50597
 #EXTINF:-1 ,(DRAGON BALL)
 https://dnslivetv.online:443/7336/1234/1078673.m3u8
 #EXTINF:-1 tvg-logo="",Dragon Ball 1 HD
