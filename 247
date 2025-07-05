@@ -171,11 +171,6 @@ http://172.93.102.119:8989/279024_.m3u8
 
 #EXTGRP:CLASSIC
 
-
-#EXTINF:-1 ,Los 80
-https://dnslivetv.online:443/7336/1234/1078628.m3u8
-#EXTINF:-1 ,PISTOLEROS 24/7
-https://dnslivetv.online:443/7336/1234/1078538.m3u8
 #EXTINF:-1",MEMORIAS SERIES
 https://cloud2.streaminglivehd.com:1936/8120/8120/playlist.m3u8  
 #EXTINF:-1 ,FM Super Classic
