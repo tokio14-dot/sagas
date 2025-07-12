@@ -45,7 +45,7 @@ ____27/7-____
 
 #EXTINF:-1 tvg-logo="209e8ba6d715c26ad5d1f2b56de3b94d.png",24/7 dominio publico
 
-#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/",27/7 dominio 2
+#EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/",27/7
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/247
 #EXTINF:-1 tvg-logo=""group-title="",
 
