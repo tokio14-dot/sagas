@@ -7,7 +7,8 @@
 
 #EXTINF:-1 tvg-logo="",PLUTO MEXICO
 https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/747bcede8479fb6927add58fcd8ae692bb2f7121/M3U/PLUTO/mx.m3u
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="",ROKU MEXICO
+https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/747bcede8479fb6927add58fcd8ae692bb2f7121/M3U/ROK/plexmx.m3u
 
 #EXTINF:-1 tvg-logo="",
 
