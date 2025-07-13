@@ -445,10 +445,10 @@ https://archive.org/download/PelNavvVariass/Ver%20Jingle%20all%20the%20Way%20%28
 _____1995
 
 
-
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uY4Ix3ArT3p9tsoNKcQ4UkzcL0V.jpg",12 monos (1995)
+https://archive.org/download/12-m.-1995/12M.1995.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uY4Ix3ArT3p9tsoNKcQ4UkzcL0V.jpg",(FHD)12 monos (1995)
+https://archive.org/download/12-m.-1995/12M.1995.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",Se7en (1995)
 https://archive.org/download/tauklv20220813pelicula1995se7enlossietepecadoscapitalesdavidfincher/Pelicula/%281995%29%20Se7en%20los%20siete%20pecados%20capitales%20%28David%20Fincher%29/%281995%29%20Se7en%20los%20siete%20pecados%20capitales%20%28David%20Fincher%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xfAi4XOuXSLhQXM7lsgEwO3X17H.jpg",(FHD)Se7en (1995)
