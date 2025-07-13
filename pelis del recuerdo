@@ -177,8 +177,10 @@ https://archive.org/download/s-1-t-0v-13r-4-30-2004-1080p-3-47-gb/S1%20t0v13r4%2
 https://archive.org/download/0guardianes0de0la0Noche/0guardianes0de0la0Noche.mp4
 _____2003
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",Troya (2004)
+https://archive.org/download/2004-troya/%282004%29%20Troya.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9wvrImiqAljeESyMa8fjcA5WDFa.jpg",(FHD)Troya (2004)
+https://archive.org/download/2004-troya/%282004%29%20Troya.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vsTesHqDZYbCobiVwH3LPAK67CC.jpg",Freaky Friday (2003)
 https://archive.org/download/un-viernes-de-locos-2003-espanol-latino-4x-3-disney-channel-3-de-octubre-de-2008/Un%20viernes%20de%20Locos%20%282003%29%20Espa%C3%B1ol%20Latino%204x3%20Disney%20Channel%20%283%20de%20Octubre%20de%202008%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/m4ZnGf2ksH0tDFnOpsfkuoZV7gT.jpg",Un Hombre Aparte (2003)
