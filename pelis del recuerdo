@@ -256,9 +256,9 @@ _____2000
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sNPWZywrxRT4uldW0JvDbtUNwY8.jpg",Tigre Y Dragon (2000)
 https://archive.org/download/tigre-y-dragon-dvdrip-spanish/Tigre%20Y%20Dragon%5BDVDRIP%5D%5BSpanish%5D.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2WnE97js6murhzUVAsgJIFV8uWV.jpg", 9 reinas (2000)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2WnE97js6murhzUVAsgJIFV8uWV.jpg",(SD) 9 reinas (2000)
 https://archive.org/download/9-reinas_202506/Nueve%20reinas%202000%202160p.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2WnE97js6murhzUVAsgJIFV8uWV.jpg",(FHD) 9 reinas (2000)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2WnE97js6murhzUVAsgJIFV8uWV.jpg",(4k) 9 reinas (2000)
 https://archive.org/download/9-reinas_202506/Nueve%20reinas%202000%202160p.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ioqaIhJSkwa9DGRHGtOOUTiGRs2.jpg",(FHD)Náufrago (2000)
 https://archive.org/download/naufrago-2000-espanol-latino-4x-3/Naufrago%20%282000%29%20Espa%C3%B1ol%20Latino%204x3.wmv
@@ -901,8 +901,8 @@ https://archive.org/download/estan-vivos-1988/Est%C3%A1n%20Vivos%20%281988%29.mp
 
 
 _____1987
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/q7NMheGmBtyWU53UFkpNUMzUijP.jpg",La loca historia de las galaxias (1987)
+https://archive.org/download/cinemabucanero/Spaceballs%5B1987%5D384p.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lVktKsmjZOSMxiGgbyur5zOnKZK.jpg",Jóvenes ocultos (1987)
 https://archive.org/download/1-4965701081507038350/1_4965701081507038350.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eylFlwsY7OjOSdBcLJE5lr3vFGJ.jpg",La princesa prometida (1987)
