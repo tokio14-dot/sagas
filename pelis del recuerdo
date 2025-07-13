@@ -887,7 +887,10 @@ https://archive.org/download/estan-vivos-1988/Est%C3%A1n%20Vivos%20%281988%29.mp
 
 
 _____1987
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lVktKsmjZOSMxiGgbyur5zOnKZK.jpg",Jóvenes ocultos (1987)
+https://archive.org/download/1-4965701081507038350/1_4965701081507038350.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eylFlwsY7OjOSdBcLJE5lr3vFGJ.jpg",La princesa prometida (1987)
 https://archive.org/download/tauklv20210625pelicula1987laprincesaprometidarobreiner/Pelicula/%281987%29%20La%20Princesa%20Prometida%20%28Rob%20Reiner%29/ver/%281987%29%20La%20Princesa%20Prometida%20%28Rob%20Reiner%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eylFlwsY7OjOSdBcLJE5lr3vFGJ.jpg",(FHD)La princesa prometida (1987)
