@@ -117,8 +117,10 @@ https://archive.org/download/yummy_202105/-%20Yo%20los%20declaro%20marido%20y...
 _____2006
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vxHjJqdVy8pEOypCFJFeiOrU3CW.jpg",tomo 1
+https://archive.org/download/papa-puerco-pelicula-castellano/Pap%C3%A1%20Puerco%20Parte%201.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uCrYfqZJkcgNr9owNxaPADZhcSl.jpg",tomo 2
+https://archive.org/download/papa-puerco-pelicula-castellano/Pap%C3%A1%20Puerco%20Parte%202.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oe1UTjlgh4tAkEBOQtfJuQHvoZS.jpg",Blood Diamond (2006)
 https://archive.org/download/diamante-de-sangre-2006-espanol-latino-full-screen/Diamante%20de%20sangre%20%282006%29%20Espa%C3%B1ol%20Latino%20Full%20Screen.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6TbVSBySjaWJMLfhQYEWnF3rjDZ.png",Área de descanso (2006)
