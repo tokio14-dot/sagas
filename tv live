@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="",RUNTIME ESPAÑA
+https://raw.githubusercontent.com/Paradise-91/ParaTV/7f72054611bed350530913e15758b17931f01203/playlists/samsungtvplus/group/es/filter/raw.m3u
 #EXTINF:-1 tvg-logo="",PLUTO ESPAÑA
 https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/747bcede8479fb6927add58fcd8ae692bb2f7121/M3U/PLUTO/es.m3u
 #EXTINF:-1 tvg-logo="",PLUTO MEXICO
