@@ -2,6 +2,14 @@
 
 
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",prueb
+https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/MergedCleanPlaylist.m3u8
 #EXTINF:-1 tvg-logo="",PLEX MEXICO
 https://github.com/Mikhel/app-m3u-generator/blob/main/playlists/plex_mx.m3u
 #EXTINF:-1 tvg-logo="",PLEX ALL
@@ -18,6 +26,7 @@ https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/747bcede8479fb6927add58fcd
 https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/747bcede8479fb6927add58fcd8ae692bb2f7121/M3U/PLUTO/mx.m3u
 #EXTINF:-1 tvg-logo="",ROKU MEXICO
 https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/747bcede8479fb6927add58fcd8ae692bb2f7121/M3U/ROK/plexmx.m3u
-
+#EXTINF:-1 tvg-logo="",PLUTO ARGENTINA
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ar.m3u
 
 
