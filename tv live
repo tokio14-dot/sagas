@@ -1,7 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",RUNTIME ESPAÑA
-https://raw.githubusercontent.com/Paradise-91/ParaTV/7f72054611bed350530913e15758b17931f01203/playlists/samsungtvplus/group/es/filter/raw.m3u
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",TUBI ESPAÑA
+https://gist.githubusercontent.com/lejuans01/48d9e9c2b5a30ca6827a9f0e3e710364/raw/4b22db1a953254d71c71044a1832aa2fa83c7e1a/as.txt
+#EXTINF:-1 tvg-logo="",SAMSUNG ESPAÑA
+https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/refs/heads/main/M3U/SAM/samus.m3u
 #EXTINF:-1 tvg-logo="",PLUTO ESPAÑA
 https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/747bcede8479fb6927add58fcd8ae692bb2f7121/M3U/PLUTO/es.m3u
 #EXTINF:-1 tvg-logo="",PLUTO MEXICO
