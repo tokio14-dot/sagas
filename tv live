@@ -9,7 +9,7 @@
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",prueb
-https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/MergedCleanPlaylist.m3u8
+
 #EXTINF:-1 tvg-logo="",PLEX MEXICO
 https://github.com/Mikhel/app-m3u-generator/blob/main/playlists/plex_mx.m3u
 #EXTINF:-1 tvg-logo="",PLEX ALL
