@@ -16,6 +16,8 @@ https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Mo
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/tv%20live
 
 DEPORTE
+#EXTINF:-1 tvg-logo="", latinoamerica 
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Latinoam%C3%A9rica
 #EXTINF:-1 tvg-logo="",SPORTS
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Sports
 #EXTINF:-1 tvg-logo="",SPORTS 2
