@@ -915,10 +915,6 @@ _____1988
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gEvWIR52xEr4qgdjP75zVZiihr7.jpg",Scrooged (1988)
 https://archive.org/download/peli8_202402/Scrooged%201988.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/i3gtxMTAYMdcHluMknkYUSkRvhe.jpg",(FHD)Red Sonja (1985)HD
-https://archive.org/download/peli8_202402/Red%20Heat%201988.mkv
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/i3gtxMTAYMdcHluMknkYUSkRvhe.jpg",Red Sonja (1985)SD
-https://archive.org/download/peli8_202402/Red%20Sonja%201985.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/krvmR47J7GsPNeNpebGKhhBtVRN.jpg",color rojo (1988)
 https://archive.org/download/peli8_202402/Red%20Heat%201988.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7RHDMKLJ9hqMeXpaaXWvdC9ggoA.jpg",Beetlejuice el Superfantasma (1988)
@@ -1014,6 +1010,10 @@ https://archive.org/download/52-vive-o-muere-1986/52%20Vive%20O%20Muere%201986.m
 _____1985
 #EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/i3gtxMTAYMdcHluMknkYUSkRvhe.jpg",(FHD)Red Sonja (1985)HD
+https://archive.org/download/peli8_202402/Red%20Heat%201988.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/i3gtxMTAYMdcHluMknkYUSkRvhe.jpg",Red Sonja (1985)SD
+https://archive.org/download/peli8_202402/Red%20Sonja%201985.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bNsXy0ewCPm2hCvjw0CHXpRrSqr.jpg",The Holcroft Covenant (1985)
 https://archive.org/download/see-video-el-pacto-de-berlin-1985-on-ok.-video-player/See%20video%20%27El%20pacto%20de%20Berl%C3%ADn%20%281985%29%27%20on%20OK.%20Video%20Player.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e9C2gW1IJYZNbRNhUaOClLmmGko.jpg",Santa Claus, la película (1985)
