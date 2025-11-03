@@ -20,7 +20,8 @@ https://raw.githubusercontent.com/Mikhel/app-m3u-generator/refs/heads/main/playl
 https://raw.githubusercontent.com/Mikhel/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
 #EXTINF:-1 tvg-logo="",SAMSUNG ESPAÑA
 
-
+#EXTINF:-1 tvg-logo="",PLUGO ALL
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_all.m3u
 #EXTINF:-1 tvg-logo="",PLUTO CHILE
 https://github.com/BuddyChewChew/app-m3u-generator/blob/main/playlists/plutotv_cl.m3u
 #EXTINF:-1 tvg-logo="",PLUTO ESPAÑA
