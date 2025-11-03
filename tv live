@@ -20,6 +20,9 @@ https://raw.githubusercontent.com/Mikhel/app-m3u-generator/refs/heads/main/playl
 https://raw.githubusercontent.com/Mikhel/app-m3u-generator/refs/heads/main/playlists/tubi_all.m3u
 #EXTINF:-1 tvg-logo="",SAMSUNG ESPAÑA
 
+
+#EXTINF:-1 tvg-logo="",PLUTO COLOMBIA
+https://github.com/BuddyChewChew/app-m3u-generator/blob/main/playlists/plutotv_cl.m3u
 #EXTINF:-1 tvg-logo="",PLUTO ESPAÑA
 https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/747bcede8479fb6927add58fcd8ae692bb2f7121/M3U/PLUTO/es.m3u
 #EXTINF:-1 tvg-logo="",PLUTO MEXICO
@@ -28,5 +31,31 @@ https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/747bcede8479fb6927add58fcd
 https://raw.githubusercontent.com/Mikhel/EPG-para-m3u/747bcede8479fb6927add58fcd8ae692bb2f7121/M3U/ROK/plexmx.m3u
 #EXTINF:-1 tvg-logo="",PLUTO ARGENTINA
 https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plutotv_ar.m3u
+
+
+
+#EXTINF:-1 tvg-logo=""group-title="",Rakuten_TV
+https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/refs/heads/main/tv/m3u/RakutenTV_tv.m3u
+
+#EXTINF:-1 tvg-logo=""group-title="",Rakuten_tv2
+https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/RakutenTV_tv.m3u
+#EXTINF:-1 tvg-logo=""group-title="",Pluto_TV
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_AR.m3u
+#EXTINF:-1 tvg-logo=""group-title="",Runtime_TV
+https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u
+#EXTINF:-1 tvg-logo=""group-title="",SamsungTVplus_ES
+
+#EXTINF:-1 tvg-logo=""group-title="",
+
+
+
+
+
+
+
+
+
+
+
 
 
