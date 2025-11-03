@@ -8,10 +8,10 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",prueb
+#EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",PLEX MEXICO
-https://github.com/Mikhel/app-m3u-generator/blob/main/playlists/plex_mx.m3u
+https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_mx.m3u
 #EXTINF:-1 tvg-logo="",PLEX ALL
 https://raw.githubusercontent.com/Mikhel/app-m3u-generator/refs/heads/main/playlists/plex_all.m3u
 #EXTINF:-1 tvg-logo="",PLEX ESPAÑA
