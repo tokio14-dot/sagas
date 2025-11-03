@@ -7,30 +7,14 @@ https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Colecciones
 #EXTINF:-1 tvg-logo="",Marvel estudios
 https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Colecciones/Marvel_Studios/Marvel_Studios.m3u
 
-
-
-#EXTINF:-1 tvg-logo=""group-title="",2015a2022
-https://raw.githubusercontent.com/appjava/signal/4508820e8974e09e4f772d92ffb479e8c110e420/meiptv/signal2.m3u
-
 #EXTINF:-1 tvg-logo="",MEGAPELICULAS
 https://raw.githubusercontent.com/rb1223/devmaster/15b17b1c03a6076a728939315c20fdf3a1c33214/tv090525movie2000.m3u
-
-
-
 
 #EXTINF:-1 tvg-logo="",2024 2025
 https://raw.githubusercontent.com/Flixy25/knls-flixy-tv/refs/heads/main/gft
 
 #EXTINF:-1 tvg-logo="",2025 2024 2023
 https://raw.githubusercontent.com/dydadi/PlusIPTV/refs/heads/main/PELICULAS.mp4
-#EXTINF:-1 tvg-logo="",2023
-https://raw.githubusercontent.com/pertenet/listasSSIPTV/refs/heads/main/P(2023).m3u
-
-
-#EXTINF:-1 tvg-logo="",2022
-https://raw.githubusercontent.com/michelotero25/oteroiptv.live/fc4ee2eb9155530949e3ece265bd9b2a1cdc72e9/Peliculas%202022.m3u
-
-
 
 #EXTINF:-1 tvg-logo="", HERBERTM3
 https://raw.githubusercontent.com/HERBERTM3/iptv/refs/heads/main/peliculas%20MP4.m3u
@@ -39,10 +23,6 @@ https://raw.githubusercontent.com/HERBERTM3/iptv/refs/heads/main/peliculas%20MP4
 
 #EXTINF:-1 tvg-logo="",PELIS
 https://archive.org/download/masallasdeljardin/peliculas.m3u
-
-
-
-
 
 #EXTINF:-1 tvg-logo="",MOVIE
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Movies.m3u
