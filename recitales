@@ -6,8 +6,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/cd.png",Juan Gabriel En El Palacio De Bellas
+https://archive.org/download/juan-gabriel-bellas-artes-1990_202405/Juan%20Gabriel%20-%20Bellas%20Artes%201990.mp4
 #EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/cd.png",Juan Gabriel En El Palacio De Bellas Artes 1990
 https://archive.org/download/juan-gabriel-en-el-palacio-de-bellas-artes-1990-ai-upscaling-hd-60-fps-1/Juan%20Gabriel%20en%20el%20Palacio%20de%20Bellas%20Artes%201990%20AI%20Upscaling%20HD%2060%20fps%281%29.ia.mp4
 #EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/cd.png",La Ley MTV Unplugged
