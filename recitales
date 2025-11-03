@@ -10,8 +10,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/cd.png",La Ley MTV Unplugged
+https://archive.org/download/la-ley-mtv-unplugged_202503/La%20Ley%20-%20MTV%20Unplugged.ia.mp4
 #EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/cd.png",Taylor Swift The Eras Tour
 https://archive.org/download/taylor-swift-the-eras-tour_202509/Taylor%20Swift%20The%20Eras%20Tour.mp4
 #EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/cd.png",Una Raza Contra El Viento - Rescate (2004) [DVD]
