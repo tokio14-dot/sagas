@@ -6,8 +6,8 @@
 
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/cd.png",Una Raza Contra El Viento - Rescate (2004) [DVD]
+https://archive.org/download/una-raza-contra-el-viento-rescate-2004/01%20-%20Una%20Raza%20Contra%20El%20Viento%20-%20Rescate%20%282004%29.mp4
 #EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/cd.png",En Vivo Desde Bolivia - Puerto Seguro (1999) [VHS]
 https://archive.org/download/en-vivo-desde-bolivia-puerto-seguro-1999-vhs/En%20Vivo%20Desde%20Bolivia%20-%20Puerto%20Seguro%20%281999%29%20%5BVHS%5D.mp4
 #EXTINF:-1 tvg-logo="https://github.com/tokio14-dot/sagas/releases/download/eett/cd.png",25 Concierto Conmemorativo - Marcos Witt [2011]
