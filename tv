@@ -1,39 +1,3 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",linea 1
-https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/meSignal*.m3u
-#EXTINF:-1 tvg-logo="",linea 2
-https://raw.githubusercontent.com/appjava/signal/373479f42df7eb378764cb8cd06b3cd2dc32ba05/meiptv/meSignal%2B.m3u
-#EXTINF:-1 tvg-logo="",TV ACERO
-https://raw.githubusercontent.com/davplm/Listas/refs/heads/main/STEEL%20TV.m3u
-
-#EXTINF:-1 tvg-logo="",mrzutv
-http://at5tb.nictso.xyz/get.php?username=wa619290&password=FGuCUMQCPU&type=m3u_plus
-
-#EXTINF:-1 tvg-logo="",MoveOnJoy
-https://bit.ly/moj-m3u8
-
-#EXTINF:-1 tvg-logo="",24/7
-https://raw.githubusercontent.com/fedexvps/fedexvps87/fc6ccf9c004e08799c109a355a262f63a4fe1e3c/tv_channels_eufTQNgNXv_plus.txt
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 .
 ...
