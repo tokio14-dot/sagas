@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="",pelis
+https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/308e9286d5aaa1acfcac450136ce213482422c01/Movies/VOD/Movies.m3u
+
 #EXTINF:-1 tvg-logo="",pelis 4K
 https://raw.githubusercontent.com/hoyusnet/hoyusnet.github.io/refs/heads/M3U/movies.m3u
 
