@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="",pelis 4K
+https://raw.githubusercontent.com/hoyusnet/hoyusnet.github.io/refs/heads/M3U/movies.m3u
 
 #EXTINF:-1 tvg-logo="",pelis 3
 https://raw.githubusercontent.com/rb1223/masterapp/refs/heads/main/vox4pls2025.m3u
