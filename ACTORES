@@ -1,6 +1,6 @@
 
 #EXTM3U
-
+#TXTGRP: ACTORES 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sVuTm1w5G6ofrx4lRjy64D7MRiS.jpg",jackie chan
 https://raw.githubusercontent.com/tokio14-dot/ACTORES/refs/heads/main/Jackie%20Chan
 
