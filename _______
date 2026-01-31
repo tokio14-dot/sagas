@@ -9,14 +9,30 @@
 #EXTINF:-1 tvg-logo="",
 
 #EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",cinema comic
-http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/615754.ts
-
 #EXTINF:-1 tvg-logo="",N9
 http://tv.zapping.life:8080/get.php?username=214luisk&password=tCWpWCZfDv&type=m3u_plus&output=ts
 #EXTINF:-1 tvg-logo="",N10
 http://tv.zapping.life:8080/get.php?username=22roger&password=bXquGWYQ9C&type=m3u_plus&output=ts
+
+
+#EXTGRP:24/7
+#EXTINF:-1 tvg-logo="",la casa de los dibujos 
+http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/583603.ts
+#EXTINF:-1 tvg-logo="",cinema comic
+http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/615754.ts
+#EXTINF:-1 tvg-logo="",la familia del barrio
+http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/583604.ts
+#EXTINF:-1 tvg-logo="",los Simpson 
+http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/583609.ts
+#EXTINF:-1 tvg-logo="",padre de familia 
+http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/583610.ts
+#EXTINF:-1 tvg-logo="",futurama
+http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/583602.ts
+#EXTINF:-1 tvg-logo="",la liga de la justicia 
+http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/428532.ts
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
 
