@@ -72,16 +72,13 @@ http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/582660.t
 #EXTGRP:DEPORTE
 #EXTINF:-1 tvg-logo="",ESPEN 1 HD
 http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/591974.ts
-#EXTINF:-1 tvg-logo="",ESPN DEPORTESp://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/591971.ts
+#EXTINF:-1 tvg-logo="",ESPN DEPORTES
+http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/591971.ts
 
 
 
 
 
-
-
-
-vg-logo="",
 
 
 
