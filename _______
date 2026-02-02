@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo=""N7,
+#EXTINF:-1 tvg-logo="",N7
 https://sdmx.vip:80/get.php?username=Gerardoalvarez01&password=UnGMsbRmRK&type=m3u_plus&output=ts
 #EXTINF:-1 tvg-logo="",N8
 http://tv.zapping.life:8080/get.php?username=22roger&password=bXquGWYQ9C&type=m3u_plus&output=ts
