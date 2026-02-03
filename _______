@@ -16,6 +16,17 @@ http://tv.zapping.life:8080/get.php?username=22roger&password=bXquGWYQ9C&type=m3
 
 
 #EXTGRP:24/7
+
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="", tio grandpa
+http://infinitistreamapp.com:8080/CasaAvellan/HogarAvellan/484853
 #EXTINF:-1 tvg-logo="",la casa de los dibujos 
 http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/583603.ts
 #EXTINF:-1 tvg-logo="",cinema comic
