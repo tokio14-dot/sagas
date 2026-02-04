@@ -252,11 +252,13 @@ http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/615751.t
 #EXTINF:-1 tvg-logo="",24H | Cinema Comics
 http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/615754.ts
 
+#EXTINF:-1 tvg-logo="", UNIVERSO WARREN 
+http://infinitistreamapp.com:8080/CasaAvellan/HogarAvellan/488450
 
 #EXTINF:-1 tvg-logo="",UNIVERSO DC
 http://infinitistreamapp.com:8080/CasaAvellan/HogarAvellan/488440
 
-#EXTINF:-1 tvg-logo="",24H | Marvel
+#EXTINF:-1 tvg-logo="",24H | UNIVERSO MARVEL
 http://infinitistreamapp.com:8080/CasaAvellan/HogarAvellan/484487
 
 #EXTINF:-1 tvg-logo="",24H | Cinema Familia 1
