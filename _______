@@ -246,6 +246,10 @@ http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/615751.t
 #EXTINF:-1 tvg-logo="",24H | Cinema Comics
 http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/615754.ts
 
+
+#EXTINF:-1 tvg-logo="",24H | Marvel
+http://infinitistreamapp.com:8080/CasaAvellan/HogarAvellan/484487
+
 #EXTINF:-1 tvg-logo="",24H | Cinema Familia 1
 http://weib-tv-play.xyz:80/live/Robert-JVasquez2023/Robert-JVasquez2023/615757.ts
 
