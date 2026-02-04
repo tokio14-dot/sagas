@@ -186,6 +186,9 @@ http://iptvglobal.site:25461/live/KuQjHTr2Qc/bUNyCtFTmw/768886.ts
 #EXTINF:-1 tvg-logo="",24/7 | PLAY! CINEMA HARRY POTTER EN ESPANOL
 http://iptvglobal.site:25461/live/KuQjHTr2Qc/bUNyCtFTmw/768842.ts
 
+#EXTINF:-1 tvg-logo="",24/7 | AMERICA PIE
+http://infinitistreamapp.com:8080/CasaAvellan/HogarAvellan/485656
+
 #EXTINF:-1 tvg-logo="",24/7 | CSI HD
 http://iptvglobal.site:25461/live/KuQjHTr2Qc/bUNyCtFTmw/768844.ts
 
