@@ -9,22 +9,10 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/recitales
 
 
 
-#EXTINF:-1 tvg-logo=""group-title="",TOKIO TK 
-https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/Movies/VOD/Movies.m3u
-
 #EXTINF:-1 tvg-logo="", MULTIPLATAFORMA 
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/tv%20live
 
-DEPORTE
-#EXTINF:-1 tvg-logo="", latinoamerica 
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Latinoam%C3%A9rica
-#EXTINF:-1 tvg-logo="",SPORTS
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Sports
-#EXTINF:-1 tvg-logo="",SPORTS 2
 
-PLATAFORM TV
-#EXTINF:-1 tvg-logo="",PLATAFORM TV
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Plataformastv
 
 SERIES
 #EXTINF:-1 tvg-logo="",SERIES
@@ -44,12 +32,6 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/cartoon
 #EXTINF:-1 tvg-logo="",INFANTIL
 https://raw.githubusercontent.com/a13xr0j45/Peliculas/refs/heads/main/Infantiles.m3u
 
-____27/7-____
-
-#EXTINF:-1 tvg-logo="",24/7
-
-#EXTINF:-1 tvg-logo="209e8ba6d715c26ad5d1f2b56de3b94d.png",24/7 dominio publico
-
 #EXTINF:-1 tvg-logo="http://alfatv.lat:2082/images/",27/7
 https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/247
 #EXTINF:-1 tvg-logo=""group-title="",
@@ -58,22 +40,6 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/247
 https://mametchikitty.github.io/Listas-IPTV/dibujos-animados.m3u
 #EXTINF:-1 tvg-logo=""group-title="",Ghibli Latino
 https://mametchikitty.github.io/Listas-IPTV/studio-ghibli-latino.m3u
-
-________TV
-
-#EXTINF:-1 tvg-logo="",TV
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/tv
-
-#EXTINF:-1 tvg-logo="",XXX
-https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/Xxxx
-
-
-
-
-
-
-
-
 
 
 
